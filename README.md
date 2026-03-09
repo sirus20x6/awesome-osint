@@ -42,6 +42,9 @@ Happy hacking and hunting 🧙‍♂️
    - [✈️ Telegram](#-telegram)
    - [🎮 Steam](#-steam)
    - [🐙 GitHub](#-github)
+   - [🎵 TikTok](#-tiktok)
+   - [💬 Discord](#-discord)
+   - [🐘 Mastodon / Fediverse](#-mastodon--fediverse)
  - [📝 Blog Search](#-blog-search)
  - [💬 Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
  - [🔎 Username Check](#-username-check)
@@ -75,6 +78,8 @@ Happy hacking and hunting 🧙‍♂️
  - [🔐 Privacy and Encryption Tools](#-privacy-and-encryption-tools)
  - [🔤 DNS](#-dns)
  - [⚓ Maritime](#-maritime)
+ - [✈️ Aviation / Flight Tracking](#-aviation--flight-tracking)
+ - [🪙 Cryptocurrency / Blockchain](#-cryptocurrency--blockchain)
  - [🧰 Other Tools](#-other-tools)
  - [🕵️ Threat Intelligence](#-threat-intelligence)
  - [🎮 Gaming Platforms](#-gaming-platforms)
@@ -83,6 +88,58 @@ Happy hacking and hunting 🧙‍♂️
  - [✍️ OSINT Blogs](#-osint-blogs)
  - [📦 Other Resources](#-other-resources)
  - [⭐ Related Awesome Lists](#-related-awesome-lists)
+* [DuckDuckGo](https://duckduckgo.com/) - Privacy-focused search engine that doesn't track users or filter results based on search history.
+* [Brave Search](https://search.brave.com/) - Independent privacy search engine with its own index, no tracking.
+* [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone has been compromised in a data breach.
+* [DeHashed](https://dehashed.com/) - Search engine for leaked credentials and personal information from data breaches.
+* [LeakCheck](https://leakcheck.io/) - Breach search engine with email, username, phone, and keyword lookups.
+* [BreachDirectory](https://breachdirectory.org/) - Free breach search with partial password reveals.
+* [DarkSearch](https://darksearch.io/) - Dark web search engine with a free API for researchers.
+* [Haystak](http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion) - Tor search engine claiming to index over 1.5 billion pages.
+* [OnionSearch](https://github.com/megadose/OnionSearch) - Python script to scrape URLs from multiple .onion search engines.
+* [Torch](http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion) - One of the oldest and largest Tor search engines.
+* [Nitter](https://nitter.net/) - Privacy-focused Twitter frontend used by OSINT practitioners to browse without an account.
+* [snscrape](https://github.com/JustAnotherArchivist/snscrape) - Social network scraper supporting Twitter, Facebook, Instagram, Reddit, and more.
+* [Who Posted What](https://whopostedwhat.com/) - Facebook keyword search by date range, built by Henk van Ess.
+* [CrossLinked](https://github.com/m8sec/CrossLinked) - LinkedIn enumeration tool to extract employee names for username generation.
+* [linkedin2username](https://github.com/initstring/linkedin2username) - Generate username lists from LinkedIn company employee listings.
+* [LinkedIn Sales Navigator](https://www.linkedin.com/sales/) - Advanced people and company search with filters for lead generation and OSINT.
+* [Skiptracer](https://github.com/xillwillx/skiptracer) - OSINT framework for people search and investigation.
+* [Clearbit Connect](https://clearbit.com/) - Email enrichment tool that finds company and person details from an email address.
+* [Ignorant](https://github.com/megadose/ignorant) - Check if a phone number is registered on various platforms without alerting the owner.
+* [NumVerify](https://numverify.com/) - Global phone number validation and lookup API supporting 232 countries.
+* [DNSRecon](https://github.com/darkoperator/dnsrecon) - DNS enumeration script for zone transfers, brute-force, and SRV record discovery.
+* [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner that can scan the entire Internet in under 5 minutes.
+* [Nmap](https://nmap.org/) - The industry-standard network scanner for host discovery, port scanning, and service detection.
+* [Subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool using multiple online sources.
+* [Whoxy](https://www.whoxy.com/) - Reverse WHOIS lookup service with historical WHOIS records and company search.
+* [InVID / WeVerify](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Browser plugin for image and video verification, reverse search, and metadata analysis.
+* [InVID Verification Plugin](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) - Standard tool for video verification, keyframe extraction, and reverse frame search.
+* [Copernicus Open Access Hub](https://scihub.copernicus.eu/) - Free Sentinel satellite imagery for environmental monitoring and geospatial analysis.
+* [Google Earth Engine](https://earthengine.google.com/) - Planetary-scale geospatial analysis platform with petabytes of satellite imagery.
+* [Overpass Turbo](https://overpass-turbo.eu/) - Web-based query tool for OpenStreetMap data, essential for geolocation investigations.
+* [Planet](https://www.planet.com/) - Daily satellite imagery of the entire Earth with free tiers for researchers.
+* [AFP Fact Check](https://factcheck.afp.com/) - Agence France-Presse's dedicated fact-checking service covering global misinformation.
+* [ClaimBuster](https://idir.uta.edu/claimbuster/) - AI-powered tool for detecting and scoring check-worthy factual claims.
+* [Google Fact Check Explorer](https://toolbox.google.com/factcheck/explorer) - Searches fact-checks from dozens of verified organizations worldwide.
+* [PolitiFact](https://www.politifact.com/) - Pulitzer Prize-winning fact-checking site rating the accuracy of political claims.
+* [Reuters Fact Check](https://www.reuters.com/fact-check/) - Reuters' dedicated fact-checking unit debunking misinformation.
+* [EquasisSearch](https://www.equasis.org/) - International ship safety and quality information database run by the EU and France.
+* [FleetMon](https://www.fleetmon.com/) - Vessel tracking, port calls, and maritime analytics platform.
+* [MarineTraffic](https://www.marinetraffic.com/) - The most widely used real-time vessel tracking platform with AIS data worldwide.
+* [myShipTracking](https://www.myshiptracking.com/) - Free real-time ship tracking with port and vessel search.
+* [VesselFinder](https://www.vesselfinder.com/) - Free AIS vessel tracking with ship positions, port arrivals, and voyage history.
+* [Cytoscape](https://cytoscape.org/) - Open-source platform for complex network analysis and visualization.
+* [i2 Analyst's Notebook](https://www.ibm.com/products/i2-analysts-notebook) - Industry-standard link analysis and data visualization for intelligence analysts.
+* [Maltego](https://www.maltego.com/) - Interactive data mining and link analysis tool for mapping relationships between entities.
+* [NodeXL](https://nodexl.com/) - Network analysis and visualization template for Excel, popular for social media research.
+* [Abuse.ch](https://abuse.ch/) - Community-driven threat intelligence hub providing URLhaus, MalwareBazaar, ThreatFox, and more.
+* [MISP](https://www.misp-project.org/) - Open-source threat intelligence and sharing platform used by CSIRTs and SOCs worldwide.
+* [MITRE ATT&CK](https://attack.mitre.org/) - Comprehensive knowledge base of adversary tactics, techniques, and procedures (TTPs).
+* [PhishTank](https://www.phishtank.com/) - Collaborative clearing house for phishing URL verification and data.
+* [Recorded Future](https://www.recordedfuture.com/) - AI-powered threat intelligence platform aggregating data from the open, deep, and dark web.
+* [TheHive](https://thehive-project.org/) - Open-source security incident response platform designed for SOCs and CSIRTs.
+* [ThreatFox](https://threatfox.abuse.ch/) - IOC sharing platform for malware-related indicators of compromise.
 
 ## [↑](#-table-of-contents) 🤝 Contributing
 
@@ -538,7 +595,7 @@ algorithms, knowledgebase and AI technology.
 * [VK People Search](http://vk.com/people)
 * [VK.watch](https://vk.watch/)
 
-### [↑](#-table-of-contents) WhatsApp
+### [↑](#-table-of-contents) 📱 WhatsApp
 
 *[2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
 *[Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
@@ -640,6 +697,25 @@ algorithms, knowledgebase and AI technology.
 * [github_monitor](https://github.com/misiektoja/github_monitor) - Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more
 * [GithubRecon](https://kriztalz.sh/github-recon/) - Lookup Github users by username or email and gather associated data.
 * [Shotstars](https://github.com/snooppr/shotstars) - An advanced tool for checking GitHub repositories, with star statistics, including fake star analysis and data visualization.
+
+
+### [↑](#-table-of-contents) 🎵 TikTok
+
+* [TikTok Search](https://www.tiktok.com/search) - Native TikTok search for users, videos, sounds, and hashtags.
+* [Tikfinity](https://tikfinity.zerody.one/) - TikTok live stream analytics and monitoring.
+* [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) - Extract exact upload timestamp from TikTok video URLs.
+
+### [↑](#-table-of-contents) 💬 Discord
+
+* [Discord History Tracker](https://dht.chylex.com/) - Browser script to save chat history in Discord servers and DMs.
+* [DiscordLeaks](https://discordleaks.unicornriot.ninja/) - Searchable database of leaked Discord chat logs from extremist servers.
+* [Disboard](https://disboard.org/) - Public Discord server listing and search engine.
+
+### [↑](#-table-of-contents) 🐘 Mastodon / Fediverse
+
+* [instances.social](https://instances.social/) - Directory of Mastodon instances with statistics and filters.
+* [Fedi.Directory](https://fedi.directory/) - Curated directory of interesting Fediverse accounts to follow.
+* [FediFinder](https://fedifinder.glitch.me/) - Find your Twitter follows on Mastodon and the Fediverse.
 
 ## [↑](#-table-of-contents) 📝 Blog Search
 
@@ -1600,6 +1676,32 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) ⚓ Maritime
 
 * [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
+
+
+## [↑](#-table-of-contents) ✈️ Aviation / Flight Tracking
+
+*Tools for tracking aircraft, flights, and aviation data.*
+
+* [ADS-B Exchange](https://www.adsbexchange.com/) - Unfiltered ADS-B flight tracking — no government or airline censorship of military/private flights.
+* [FlightAware](https://www.flightaware.com/) - Flight tracking and data platform with live maps, flight status, and airport information.
+* [FlightRadar24](https://www.flightradar24.com/) - The most popular real-time flight tracker with coverage from 35,000+ ADS-B and MLAT receivers.
+* [OpenSky Network](https://opensky-network.org/) - Non-profit providing open air traffic surveillance data collected by a global sensor network.
+* [Planespotters.net](https://www.planespotters.net/) - Aircraft photo database with registration, airline, and fleet information.
+* [ADS-B One](https://adsb.one/) - Community-driven ADS-B aggregator providing unfiltered global flight data via free API.
+* [Beholder](https://beholder.me) - Real-time global OSINT threat map aggregating aircraft, vessel, and satellite tracking with natural disaster, conflict, and environmental data on an interactive 3D globe.
+
+
+## [↑](#-table-of-contents) 🪙 Cryptocurrency / Blockchain
+
+*Tools for investigating cryptocurrency transactions, wallets, and blockchain activity.*
+
+* [Blockchain.com Explorer](https://www.blockchain.com/explorer) - Bitcoin and multi-chain blockchain explorer for transaction and address lookups.
+* [Breadcrumbs](https://www.breadcrumbs.app/) - Blockchain investigation tool for tracing cryptocurrency transactions and identifying wallets.
+* [Crystal Blockchain](https://crystalblockchain.com/) - Blockchain analytics platform for compliance, investigation, and risk assessment.
+* [Etherscan](https://etherscan.io/) - Ethereum blockchain explorer for transactions, tokens, smart contracts, and wallet analytics.
+* [OXT](https://oxt.me/) - Bitcoin blockchain analysis tool with transaction graphs, wallet clustering, and privacy metrics.
+* [Wallet Explorer](https://www.walletexplorer.com/) - Bitcoin wallet clustering and tracking tool that groups addresses by owner.
+
 
 ## [↑](#-table-of-contents) 🧰 Other Tools
 
