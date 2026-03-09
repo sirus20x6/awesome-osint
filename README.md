@@ -191,6 +191,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=haveibeenransom.com&sz=16" width="16" height="16"> [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 * <img src="https://www.google.com/s2/favicons?domain=heroic.com&sz=16" width="16" height="16"> [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 * <img src="https://www.google.com/s2/favicons?domain=iknowyour.dad&sz=16" width="16" height="16"> [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
 * <img src="https://www.google.com/s2/favicons?domain=stealseek.io&sz=16" width="16" height="16"> [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * <img src="https://www.google.com/s2/favicons?domain=venacus.com&sz=16" width="16" height="16"> [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
@@ -234,6 +235,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Search Abuseipdb](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 * <img src="https://www.google.com/s2/favicons?domain=dashboard.shadowserver.org&sz=16" width="16" height="16"> [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * <img src="https://www.google.com/s2/favicons?domain=www.shodan.io&sz=16" width="16" height="16"> [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
+* <img src="https://www.google.com/s2/favicons?domain=www.sikkerapi.com&sz=16" width="16" height="16"> [SikkerAPI](https://www.sikkerapi.com/) - SikkerAPI is a free IP and threat intelligence provider, that publishes IP reputation scores, behavioral data and full attack sessions across 16+ different protocols.
 * [WIPO](https://www3.wipo.int/branddb/en/) - World Intellectual Property Organization global trademark database with 50M+ records.
 * <img src="https://www.google.com/s2/favicons?domain=worldwidescience.org&sz=16" width="16" height="16"> [WorldWideScience.org](http://worldwidescience.org) - Global science gateway providing federated search across scientific databases from over 70 countries simultaneously.
 * <img src="https://www.google.com/s2/favicons?domain=wpscan.com&sz=16" width="16" height="16"> [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
@@ -484,6 +486,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.twitteraudit.com&sz=16" width="16" height="16"> [Twitter Audit](https://www.twitteraudit.com) - Auditing tool that analyzes Twitter followers to estimate what percentage are real accounts versus bots or inactive users.
 * <img src="https://www.google.com/s2/favicons?domain=tweetreports.com&sz=16" width="16" height="16"> [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule) - Directory of scheduled Twitter chats organized by topic, day, and time to discover industry-relevant conversations.
 * [Twitter Search](http://search.twitter.com) - Native Twitter/X search for tweets, users, hashtags, and trending topics.
+* <img src="https://www.google.com/s2/favicons?domain=xquik.com&sz=16" width="16" height="16"> [Xquik](https://xquik.com) - Real-time X (Twitter) data platform for tweet search, user lookup, follower/following extraction, engagement metrics, account monitoring, reply/retweet/quote extraction, community & Space data, and mutual follow checks.
 
 ### <img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=16" width="16" height="16"> Facebook
 
@@ -685,6 +688,7 @@ algorithms, knowledgebase and AI technology.
 ## Username Check
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
+* [Antisocial](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * <img src="https://www.google.com/s2/favicons?domain=www.digitalfootprintcheck.com&sz=16" width="16" height="16"> [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
@@ -715,6 +719,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.apollo.io&sz=16" width="16" height="16"> [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
 * <img src="https://www.google.com/s2/favicons?domain=www.backgroundchecks.com&sz=16" width="16" height="16"> [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified) - Background check service providing access to public records, contact details, criminal history, and property information.
 * <img src="https://www.google.com/s2/favicons?domain=www.blackbookonline.info&sz=16" width="16" height="16"> [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
 * <img src="https://www.google.com/s2/favicons?domain=www.canada411.ca&sz=16" width="16" height="16"> [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * <img src="https://www.google.com/s2/favicons?domain=www.classmates.com&sz=16" width="16" height="16"> [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 * <img src="https://www.google.com/s2/favicons?domain=contactout.com&sz=16" width="16" height="16"> [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
@@ -1424,6 +1429,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=visualping.io&sz=16" width="16" height="16"> [visualping](https://visualping.io) - Visual website monitoring tool that detects changes on web pages using screenshot comparison and sends instant alerts.
 * <img src="https://www.google.com/s2/favicons?domain=www.getwebreader.com&sz=16" width="16" height="16"> [WebReader](http://www.getwebreader.com) - Web-based RSS feed reader with a simple interface for subscribing to and organizing news feeds.
 * <img src="https://www.google.com/s2/favicons?domain=www.aignes.com&sz=16" width="16" height="16"> [WebSite Watcher](http://www.aignes.com/index.htm) - Desktop application that monitors web pages for updates, highlights changes, and supports scheduled automatic checking.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Website-Diff](https://github.com/GeiserX/Website-Diff) - Monitors websites for visual and source-code changes by taking snapshots and generating diffs for OSINT tracking.
 * <img src="https://www.google.com/s2/favicons?domain=winds.getstream.io&sz=16" width="16" height="16"> [Winds](http://winds.getstream.io) - Open-source RSS and podcast reader built with React and Node.js featuring personalized content recommendations.
 
 ## Browsers
@@ -1713,6 +1719,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=onion.ail-project.org&sz=16" width="16" height="16"> [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
+* <img src="https://www.google.com/s2/favicons?domain=conflicts.app&sz=16" width="16" height="16"> [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 
 ## Gaming Platforms
