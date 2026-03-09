@@ -164,7 +164,7 @@ Thanks to our main contributors
 * <img src="https://www.google.com/s2/favicons?domain=www.goodsearch.com&sz=16" width="16" height="16"> [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
 * <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Search](https://www.google.com) - Most popular search engine.
 * <img src="https://www.google.com/s2/favicons?domain=www.instya.com&sz=16" width="16" height="16"> [Instya](https://www.instya.com) -  You can searching shopping sites, dictionaries, answer sites, news, images, videos and much more.
-* <img src="https://www.google.com/s2/favicons?domain=www.impersonal.me&sz=16" width="16" height="16"> [Impersonal.me](http://www.impersonal.me)
+* <img src="https://www.google.com/s2/favicons?domain=www.impersonal.me&sz=16" width="16" height="16"> [Impersonal.me](http://www.impersonal.me) - Privacy-focused Google search proxy that removes personalization and lets you view results from different countries.
 * [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 * <img src="https://www.google.com/s2/favicons?domain=www.mojeek.com&sz=16" width="16" height="16"> [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 * <img src="https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=16" width="16" height="16"> [Perplexity](https://www.perplexity.ai) - AI-powered search engine with source citations.
@@ -190,36 +190,36 @@ algorithms, knowledgebase and AI technology.
 
 * <img src="https://www.google.com/s2/favicons?domain=www.alleba.com&sz=16" width="16" height="16"> [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
 * <img src="https://www.google.com/s2/favicons?domain=www.baidu.com&sz=16" width="16" height="16"> [Baidu (China)](http://www.baidu.com) - The major search engine used in China
-* <img src="https://www.google.com/s2/favicons?domain=www.daum.net&sz=16" width="16" height="16"> [Daum (South Korea)](https://www.daum.net/)
-* <img src="https://www.google.com/s2/favicons?domain=www.eniro.se&sz=16" width="16" height="16"> [Eniro (Sweden)](http://www.eniro.se)
-* <img src="https://www.google.com/s2/favicons?domain=gerdoo.me&sz=16" width="16" height="16"> [Gerdoo (Iran)](http://gerdoo.me)
+* <img src="https://www.google.com/s2/favicons?domain=www.daum.net&sz=16" width="16" height="16"> [Daum (South Korea)](https://www.daum.net/) - South Korea's major web portal offering search, news, email, and community services alongside Naver.
+* <img src="https://www.google.com/s2/favicons?domain=www.eniro.se&sz=16" width="16" height="16"> [Eniro (Sweden)](http://www.eniro.se) - Sweden's leading directory and search service for finding people, businesses, and maps across Scandinavia.
+* <img src="https://www.google.com/s2/favicons?domain=gerdoo.me&sz=16" width="16" height="16"> [Gerdoo (Iran)](http://gerdoo.me) - Iranian search engine providing Farsi-language web search and directory services for Persian-speaking users.
 * [Goo (Japan)](http://www.goo.ne.jp) - Japanese web portal and search engine operated by NTT Resonant.
-* <img src="https://www.google.com/s2/favicons?domain=www.najdi.si&sz=16" width="16" height="16"> [Najdi (Slovenia)](http://www.najdi.si)
-* <img src="https://www.google.com/s2/favicons?domain=www.naver.com&sz=16" width="16" height="16"> [Naver (South Korea)](http://www.naver.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.onet.pl&sz=16" width="16" height="16"> [Onet.pl (Poland)](http://www.onet.pl)
-* <img src="https://www.google.com/s2/favicons?domain=www.orange.fr&sz=16" width="16" height="16"> [Orange (France)](http://www.orange.fr)
-* <img src="https://www.google.com/s2/favicons?domain=www.parseek.com&sz=16" width="16" height="16"> [Parseek (Iran)](http://www.parseek.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.sapo.pt&sz=16" width="16" height="16"> [SAPO (Portugal)](http://www.sapo.pt)
-* <img src="https://www.google.com/s2/favicons?domain=www.search.ch&sz=16" width="16" height="16"> [Search.ch (Switzerland)](http://www.search.ch)
-* <img src="https://www.google.com/s2/favicons?domain=seznam.cz&sz=16" width="16" height="16"> [Seznam(Czech Republic)](https://seznam.cz)
-* <img src="https://www.google.com/s2/favicons?domain=www.sogou.com&sz=16" width="16" height="16"> [SoGou (China)](http://www.sogou.com/)
-* <img src="https://www.google.com/s2/favicons?domain=www.walla.co.il&sz=16" width="16" height="16"> [Walla (Israel)](http://www.walla.co.il)
-* <img src="https://www.google.com/s2/favicons?domain=www.yandex.com&sz=16" width="16" height="16"> [Yandex (Russia)](http://www.yandex.com)
-* <img src="https://www.google.com/s2/favicons?domain=zarebin.ir&sz=16" width="16" height="16"> [Zarebin (Iran)](http://zarebin.ir)
+* <img src="https://www.google.com/s2/favicons?domain=www.najdi.si&sz=16" width="16" height="16"> [Najdi (Slovenia)](http://www.najdi.si) - Slovenia's primary national search engine and web portal with local content indexing in Slovenian.
+* <img src="https://www.google.com/s2/favicons?domain=www.naver.com&sz=16" width="16" height="16"> [Naver (South Korea)](http://www.naver.com) - South Korea's dominant search engine and web portal with blogs, news, and extensive Korean-language content.
+* <img src="https://www.google.com/s2/favicons?domain=www.onet.pl&sz=16" width="16" height="16"> [Onet.pl (Poland)](http://www.onet.pl) - Poland's major web portal combining search, news, email, and entertainment services in Polish.
+* <img src="https://www.google.com/s2/favicons?domain=www.orange.fr&sz=16" width="16" height="16"> [Orange (France)](http://www.orange.fr) - France's telecommunications portal offering search, news, email, and directory services in French.
+* <img src="https://www.google.com/s2/favicons?domain=www.parseek.com&sz=16" width="16" height="16"> [Parseek (Iran)](http://www.parseek.com) - Iranian search engine specializing in Farsi-language web indexing and Persian content discovery.
+* <img src="https://www.google.com/s2/favicons?domain=www.sapo.pt&sz=16" width="16" height="16"> [SAPO (Portugal)](http://www.sapo.pt) - Portugal's leading web portal providing search, news, email, and entertainment services in Portuguese.
+* <img src="https://www.google.com/s2/favicons?domain=www.search.ch&sz=16" width="16" height="16"> [Search.ch (Switzerland)](http://www.search.ch) - Swiss search engine and directory for finding people, businesses, phone numbers, and maps across Switzerland.
+* <img src="https://www.google.com/s2/favicons?domain=seznam.cz&sz=16" width="16" height="16"> [Seznam(Czech Republic)](https://seznam.cz) - Czech Republic's most popular search engine and web portal with local news, email, and maps.
+* <img src="https://www.google.com/s2/favicons?domain=www.sogou.com&sz=16" width="16" height="16"> [SoGou (China)](http://www.sogou.com/) - China's third-largest search engine known for Chinese-language web search and input method integration.
+* <img src="https://www.google.com/s2/favicons?domain=www.walla.co.il&sz=16" width="16" height="16"> [Walla (Israel)](http://www.walla.co.il) - Israel's major web portal offering Hebrew-language search, news, email, and communication services.
+* <img src="https://www.google.com/s2/favicons?domain=www.yandex.com&sz=16" width="16" height="16"> [Yandex (Russia)](http://www.yandex.com) - Russia's dominant search engine with strong natural language processing for Cyrillic queries and regional content.
+* <img src="https://www.google.com/s2/favicons?domain=zarebin.ir&sz=16" width="16" height="16"> [Zarebin (Iran)](http://zarebin.ir) - Iranian government-backed search engine providing Farsi-language web search and content filtering.
 
 ## [↑](#-table-of-contents) 🔄 Meta Search
 
 *Lesser known and used search engines.*
 
-* <img src="https://www.google.com/s2/favicons?domain=all-io.net&sz=16" width="16" height="16"> [All-in-One](http://all-io.net)
-* <img src="https://www.google.com/s2/favicons?domain=www.alltheinternet.com&sz=16" width="16" height="16"> [AllTheInternet](http://www.alltheinternet.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.etools.ch&sz=16" width="16" height="16"> [Etools](http://www.etools.ch)
-* <img src="https://www.google.com/s2/favicons?domain=www.faganfinder.com&sz=16" width="16" height="16"> [FaganFinder](http://www.faganfinder.com/engines)
-* <img src="https://www.google.com/s2/favicons?domain=www.goofram.com&sz=16" width="16" height="16"> [Goofram](http://www.goofram.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.izito.com&sz=16" width="16" height="16"> [iZito](http://www.izito.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.myallsearch.com&sz=16" width="16" height="16"> [Myallsearch](http://www.myallsearch.com)
+* <img src="https://www.google.com/s2/favicons?domain=all-io.net&sz=16" width="16" height="16"> [All-in-One](http://all-io.net) - Meta search engine that queries multiple search engines simultaneously and displays unified results in one interface.
+* <img src="https://www.google.com/s2/favicons?domain=www.alltheinternet.com&sz=16" width="16" height="16"> [AllTheInternet](http://www.alltheinternet.com) - Meta search aggregator that combines results from major search engines into a single clean results page.
+* <img src="https://www.google.com/s2/favicons?domain=www.etools.ch&sz=16" width="16" height="16"> [Etools](http://www.etools.ch) - Swiss meta search engine that queries multiple sources simultaneously and removes duplicate results automatically.
+* <img src="https://www.google.com/s2/favicons?domain=www.faganfinder.com&sz=16" width="16" height="16"> [FaganFinder](http://www.faganfinder.com/engines) - Curated directory of search engines and research tools organized by category for targeted information discovery.
+* <img src="https://www.google.com/s2/favicons?domain=www.goofram.com&sz=16" width="16" height="16"> [Goofram](http://www.goofram.com) - Meta search engine that displays Google and Wolfram Alpha results side by side for combined web and computational answers.
+* <img src="https://www.google.com/s2/favicons?domain=www.izito.com&sz=16" width="16" height="16"> [iZito](http://www.izito.com) - Meta search engine that aggregates results from multiple major search engines into one unified listing.
+* <img src="https://www.google.com/s2/favicons?domain=www.myallsearch.com&sz=16" width="16" height="16"> [Myallsearch](http://www.myallsearch.com) - Meta search aggregator that combines results from several search engines into a single results page.
 * <img src="https://www.google.com/s2/favicons?domain=www.qwant.com&sz=16" width="16" height="16"> [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
-* <img src="https://www.google.com/s2/favicons?domain=swisscows.com&sz=16" width="16" height="16"> [Swisscows](https://swisscows.com/)
+* <img src="https://www.google.com/s2/favicons?domain=swisscows.com&sz=16" width="16" height="16"> [Swisscows](https://swisscows.com/) - Privacy-focused Swiss meta search engine with built-in family-safe filtering and no user tracking.
 
 ## [↑](#-table-of-contents) 🔒 Privacy Focused Search Engines
 
@@ -250,7 +250,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search engines for specific information or topics.*
 
-* <img src="https://www.google.com/s2/favicons?domain=www.2lingual.com&sz=16" width="16" height="16"> [2lingual Search](http://www.2lingual.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.2lingual.com&sz=16" width="16" height="16"> [2lingual Search](http://www.2lingual.com) - Bilingual Google search tool that displays results in two languages side by side for cross-language research.
 * [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
 * <img src="https://www.google.com/s2/favicons?domain=www.abuseipdb.com&sz=16" width="16" height="16"> [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
 * <img src="https://www.google.com/s2/favicons?domain=bevigil.com&sz=16" width="16" height="16"> [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
@@ -262,32 +262,32 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=search.censys.io&sz=16" width="16" height="16"> [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
 * <img src="https://www.google.com/s2/favicons?domain=www.certkit.io&sz=16" width="16" height="16"> [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
 * <img src="https://www.google.com/s2/favicons?domain=talosintelligence.com&sz=16" width="16" height="16"> [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
-* <img src="https://www.google.com/s2/favicons?domain=citeseer.ist.psu.edu&sz=16" width="16" height="16"> [CiteSeerX](http://citeseer.ist.psu.edu)
+* <img src="https://www.google.com/s2/favicons?domain=citeseer.ist.psu.edu&sz=16" width="16" height="16"> [CiteSeerX](http://citeseer.ist.psu.edu) - Scientific literature search engine and digital library focused on computer and information science research papers.
 * <img src="https://www.google.com/s2/favicons?domain=radar.cloudflare.com&sz=16" width="16" height="16"> [Cloudflare Radar](https://radar.cloudflare.com) - Internet traffic patterns, attacks, and technology trends.
 * <img src="https://www.google.com/s2/favicons?domain=www.criminalip.io&sz=16" width="16" height="16"> [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
 * [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
 * <img src="https://www.google.com/s2/favicons?domain=en.fofa.info&sz=16" width="16" height="16"> [FOFA](https://en.fofa.info/) - Asset search and analysis tool.
 * <img src="https://www.google.com/s2/favicons?domain=fullhunt.io&sz=16" width="16" height="16"> [FullHunt](https://fullhunt.io/) -FullHunt identifies and secures your External Attack Surface.
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Custom Search](http://www.google.com/cse)
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Custom Search](http://www.google.com/cse) - Google tool for creating custom search engines scoped to specific websites or domains for targeted queries.
 * <img src="https://www.google.com/s2/favicons?domain=grayhatwarfare.com&sz=16" width="16" height="16"> [GrayhatWarfare](https://grayhatwarfare.com/) - Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.
 * <img src="https://www.google.com/s2/favicons?domain=viz.greynoise.io&sz=16" width="16" height="16"> [GreyNoise](https://viz.greynoise.io/) - Search Exposed Internet assets, Malicious IP's.
-* <img src="https://www.google.com/s2/favicons?domain=www.harmari.com&sz=16" width="16" height="16"> [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
+* <img src="https://www.google.com/s2/favicons?domain=www.harmari.com&sz=16" width="16" height="16"> [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified) - Searchable archive of over a billion online classifieds listings for investigating fraud and criminal activity.
 * <img src="https://www.google.com/s2/favicons?domain=hunter.how&sz=16" width="16" height="16"> [Hunter Search Engine](https://hunter.how/) - Search Exposed Internet assets, open web directories and many more.
 * <img src="https://www.google.com/s2/favicons?domain=intelx.io&sz=16" width="16" height="16"> [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
-* <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Internet Archive](https://archive.org/)
+* <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Internet Archive](https://archive.org/) - Massive digital library preserving web pages, books, audio, video, and software with historical Wayback Machine access.
 * <img src="https://www.google.com/s2/favicons?domain=www.islegitsite.com&sz=16" width="16" height="16"> [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
 * <img src="https://www.google.com/s2/favicons?domain=bazaar.abuse.ch&sz=16" width="16" height="16"> [MalwareBazaar](https://bazaar.abuse.ch/browse/) - Search and download confirmed malware samples by hash, family, tag, and other criteria.
-* <img src="https://www.google.com/s2/favicons?domain=www.mmnt.ru&sz=16" width="16" height="16"> [Mamont](https://www.mmnt.ru/)
-* <img src="https://www.google.com/s2/favicons?domain=millionshort.com&sz=16" width="16" height="16"> [Million Short](https://millionshort.com)
-* <img src="https://www.google.com/s2/favicons?domain=app.netlas.io&sz=16" width="16" height="16"> [Netlas.io](https://app.netlas.io/)
+* <img src="https://www.google.com/s2/favicons?domain=www.mmnt.ru&sz=16" width="16" height="16"> [Mamont](https://www.mmnt.ru/) - Large FTP search engine indexing billions of files across thousands of public FTP servers worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=millionshort.com&sz=16" width="16" height="16"> [Million Short](https://millionshort.com) - Search engine that removes the top million most popular sites from results to surface lesser-known content.
+* <img src="https://www.google.com/s2/favicons?domain=app.netlas.io&sz=16" width="16" height="16"> [Netlas.io](https://app.netlas.io/) - Internet intelligence platform scanning IPv4 addresses and domains across multiple protocols for attack surface discovery.
 * <img src="https://www.google.com/s2/favicons?domain=search.odin.io&sz=16" width="16" height="16"> [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day.
-* <img src="https://www.google.com/s2/favicons?domain=aleph.occrp.org&sz=16" width="16" height="16"> [OCCRP Aleph](https://aleph.occrp.org/)
+* <img src="https://www.google.com/s2/favicons?domain=aleph.occrp.org&sz=16" width="16" height="16"> [OCCRP Aleph](https://aleph.occrp.org/) - OCCRP's investigative data platform searching millions of documents, corporate records, and leak databases for cross-referencing.
 * [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Search Abuseipdb](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 * <img src="https://www.google.com/s2/favicons?domain=dashboard.shadowserver.org&sz=16" width="16" height="16"> [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * <img src="https://www.google.com/s2/favicons?domain=www.shodan.io&sz=16" width="16" height="16"> [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * [WIPO](https://www3.wipo.int/branddb/en/) - World Intellectual Property Organization global trademark database with 50M+ records.
-* <img src="https://www.google.com/s2/favicons?domain=worldwidescience.org&sz=16" width="16" height="16"> [WorldWideScience.org](http://worldwidescience.org)
+* <img src="https://www.google.com/s2/favicons?domain=worldwidescience.org&sz=16" width="16" height="16"> [WorldWideScience.org](http://worldwidescience.org) - Global science gateway providing federated search across scientific databases from over 70 countries simultaneously.
 * <img src="https://www.google.com/s2/favicons?domain=wpscan.com&sz=16" width="16" height="16"> [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 * <img src="https://www.google.com/s2/favicons?domain=yaraify.abuse.ch&sz=16" width="16" height="16"> [YARAif](https://yaraify.abuse.ch/scan/) - Collaborative YARA engine providing open threat intelligence through file pattern matching.
 * [Zanran](http://zanran.com) - Search engine specialized in finding data and statistics buried in charts, tables, and PDFs.
@@ -302,7 +302,7 @@ algorithms, knowledgebase and AI technology.
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
 * <img src="https://www.google.com/s2/favicons?domain=search.carrot2.org&sz=16" width="16" height="16"> [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
-* <img src="https://www.google.com/s2/favicons?domain=www.zapmeta.com&sz=16" width="16" height="16"> [Zapmeta](http://www.zapmeta.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.zapmeta.com&sz=16" width="16" height="16"> [Zapmeta](http://www.zapmeta.com) - Meta search engine that aggregates and clusters web results from multiple sources with visual preview thumbnails.
 
 ## [↑](#-table-of-contents) 🔗 Similar Sites Search
 
@@ -318,11 +318,11 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.documentcloud.org&sz=16" width="16" height="16"> [DocumentCloud](https://www.documentcloud.org) - Platform for analyzing, annotating, and publishing documents.
 * <img src="https://www.google.com/s2/favicons?domain=epsteinexposed.com&sz=16" width="16" height="16"> [Epstein Exposed](https://epsteinexposed.com) - Comprehensive searchable database of 2M+ DOJ Epstein case documents, 1,700+ persons, flight logs, emails, and network graph visualization.
 * [Find-pdf-doc](http://www.findpdfdoc.com) - Search engine dedicated to finding PDF documents and ebooks across the web.
-* <img src="https://www.google.com/s2/favicons?domain=www.freefullpdf.com&sz=16" width="16" height="16"> [Free Full PDF](http://www.freefullpdf.com)
-* <img src="https://www.google.com/s2/favicons?domain=offshoreleaks.icij.org&sz=16" width="16" height="16"> [Offshore Leak Database](https://offshoreleaks.icij.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.freefullpdf.com&sz=16" width="16" height="16"> [Free Full PDF](http://www.freefullpdf.com) - Search engine for finding freely available full-text scientific publications and academic papers in PDF format.
+* <img src="https://www.google.com/s2/favicons?domain=offshoreleaks.icij.org&sz=16" width="16" height="16"> [Offshore Leak Database](https://offshoreleaks.icij.org) - ICIJ's searchable database of leaked offshore financial records exposing shell companies and hidden asset networks.
 * [RECAP Archive](https://www.courtlistener.com/recap/) - Public archive of PACER court documents.
-* <img src="https://www.google.com/s2/favicons?domain=www.scribd.com&sz=16" width="16" height="16"> [Scribd](http://www.scribd.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.slideshare.net&sz=16" width="16" height="16"> [SlideShare](http://www.slideshare.net)
+* <img src="https://www.google.com/s2/favicons?domain=www.scribd.com&sz=16" width="16" height="16"> [Scribd](http://www.scribd.com) - Digital library and document-sharing platform hosting millions of books, audiobooks, articles, and user-uploaded documents.
+* <img src="https://www.google.com/s2/favicons?domain=www.slideshare.net&sz=16" width="16" height="16"> [SlideShare](http://www.slideshare.net) - Professional content-sharing platform for discovering and hosting presentations, infographics, and business documents.
 
 ## [↑](#-threat-actor-search) 🎭 Threat Actor Search
 
@@ -377,15 +377,15 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=filesec.io&sz=16" width="16" height="16"> [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 * [Find Security Contacts] https://findsecuritycontacts.com - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
 * <img src="https://www.google.com/s2/favicons?domain=meawfy.com&sz=16" width="16" height="16"> [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
-* <img src="https://www.google.com/s2/favicons?domain=www.searchftps.net&sz=16" width="16" height="16"> [NAPALM FTP Indexer](https://www.searchftps.net/)
+* <img src="https://www.google.com/s2/favicons?domain=www.searchftps.net&sz=16" width="16" height="16"> [NAPALM FTP Indexer](https://www.searchftps.net/) - Community-driven FTP search engine with a custom C++ indexer that crawls public FTP servers every few days.
 * <img src="https://www.google.com/s2/favicons?domain=odcrawler.xyz&sz=16" width="16" height="16"> [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
-* <img src="https://www.google.com/s2/favicons?domain=searchfiles.de&sz=16" width="16" height="16"> [SearchFiles.de](https://searchfiles.de/)
+* <img src="https://www.google.com/s2/favicons?domain=searchfiles.de&sz=16" width="16" height="16"> [SearchFiles.de](https://searchfiles.de/) - File search engine for discovering documents and media hosted on publicly accessible web and FTP servers.
 
 ## [↑](#-table-of-contents) 📋 Pastebins
 
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
-* <img src="https://www.google.com/s2/favicons?domain=0bin.net&sz=16" width="16" height="16"> [0bin](https://0bin.net)
+* <img src="https://www.google.com/s2/favicons?domain=0bin.net&sz=16" width="16" height="16"> [0bin](https://0bin.net) - Client-side encrypted pastebin where the server has zero knowledge of pasted data using browser-based AES encryption.
 * [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
 * <img src="https://www.google.com/s2/favicons?domain=bpa.st&sz=16" width="16" height="16"> [bpaste](https://bpa.st/) - Welcome to bpaste, this site is a pastebin. It allows you to share code with others.
 * <img src="https://www.google.com/s2/favicons?domain=paste.centos.org&sz=16" width="16" height="16"> [CentOS Pastebin Service](https://paste.centos.org/) - Stikked is an Open-Source PHP Pastebin, with the aim of keeping a simple and easy to use user interface.
@@ -398,16 +398,16 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=defuse.ca&sz=16" width="16" height="16"> [Defuse](https://defuse.ca/pastebin.htm) - Encrypted Pastebin - Keep your data private and secure!
 * <img src="https://www.google.com/s2/favicons?domain=doxbin.net&sz=16" width="16" height="16"> [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers.
 * [dpaste2](https://Dpaste.org) - Open-source pastebin with syntax highlighting and short-lived paste expiration.
-* <img src="https://www.google.com/s2/favicons?domain=Dpaste.com&sz=16" width="16" height="16"> [dpaste](https://Dpaste.com)
+* <img src="https://www.google.com/s2/favicons?domain=Dpaste.com&sz=16" width="16" height="16"> [dpaste](https://Dpaste.com) - Simple open-source pastebin service for sharing code snippets and text with syntax highlighting support.
 * <img src="https://www.google.com/s2/favicons?domain=pastebin.fi&sz=16" width="16" height="16"> [Etusivu](https://pastebin.fi/) - It's an open source clone of pastebin.com. Default Language is Finnish.
 * <img src="https://www.google.com/s2/favicons?domain=friendpaste.com&sz=16" width="16" height="16"> [Friendpaste](https://friendpaste.com/) - Paste stuff to your friends.
-* <img src="https://www.google.com/s2/favicons?domain=gist.github.com&sz=16" width="16" height="16"> [GitHub gist](https://gist.github.com)
+* <img src="https://www.google.com/s2/favicons?domain=gist.github.com&sz=16" width="16" height="16"> [GitHub gist](https://gist.github.com) - GitHub's code snippet sharing service supporting versioned, forkable, and searchable public or secret code pastes.
 * <img src="https://www.google.com/s2/favicons?domain=hashb.in&sz=16" width="16" height="16"> [HashBin](https://hashb.in/#Q===) - HashBin is a paste bin that never sees the contents of its pastes.
-* <img src="https://www.google.com/s2/favicons?domain=www.toptal.com&sz=16" width="16" height="16"> [hastebin](https://www.toptal.com/developers/hastebin/)
-* <img src="https://www.google.com/s2/favicons?domain=Ideone.com&sz=16" width="16" height="16"> [ideone](https://Ideone.com)
-* <img src="https://www.google.com/s2/favicons?domain=Ivpaste.com&sz=16" width="16" height="16"> [ivpaste](https://Ivpaste.com)
-* <img src="https://www.google.com/s2/favicons?domain=Jsbin.com&sz=16" width="16" height="16"> [jsbin](https://Jsbin.com)
-* <img src="https://www.google.com/s2/favicons?domain=Justpaste.it&sz=16" width="16" height="16"> [justpaste](https://Justpaste.it)
+* <img src="https://www.google.com/s2/favicons?domain=www.toptal.com&sz=16" width="16" height="16"> [hastebin](https://www.toptal.com/developers/hastebin/) - Lightweight pastebin for quickly sharing code snippets and text with automatic syntax highlighting and expiration.
+* <img src="https://www.google.com/s2/favicons?domain=Ideone.com&sz=16" width="16" height="16"> [ideone](https://Ideone.com) - Online compiler and debugging tool supporting 60+ programming languages with code sharing and paste functionality.
+* <img src="https://www.google.com/s2/favicons?domain=Ivpaste.com&sz=16" width="16" height="16"> [ivpaste](https://Ivpaste.com) - Simple pastebin service for sharing text and code snippets via generated shareable links.
+* <img src="https://www.google.com/s2/favicons?domain=Jsbin.com&sz=16" width="16" height="16"> [jsbin](https://Jsbin.com) - Interactive front-end code playground for creating and sharing HTML, CSS, and JavaScript snippets in real time.
+* <img src="https://www.google.com/s2/favicons?domain=Justpaste.it&sz=16" width="16" height="16"> [justpaste](https://Justpaste.it) - Simple text-sharing pastebin with rich formatting, image embedding, and optional password-protected notes.
 * <img src="https://www.google.com/s2/favicons?domain=katb.in&sz=16" width="16" height="16"> [Katbin](https://katb.in) - Small, lightweight pastebin.
 * [Linkode(alpha)](https://linkode.org/) - Open-source pastebin with tree-based versioning that tracks edit history across revisions.
 * <img src="https://www.google.com/s2/favicons?domain=logpasta.com&sz=16" width="16" height="16"> [Logpasta](https://logpasta.com/) - Simple, secure log paste service. Command line mode based.
@@ -425,10 +425,10 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=pastebin.pl&sz=16" width="16" height="16"> [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
 * [Pastebin.cz](https://www.pastebin.cz/en/) - Czech pastebin with syntax highlighting, useful for finding pastes in Central European languages.
 * [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
-* <img src="https://www.google.com/s2/favicons?domain=paste.centos.org&sz=16" width="16" height="16"> [paste.centos](https://paste.centos.org)
-* <img src="https://www.google.com/s2/favicons?domain=Paste.debian.net&sz=16" width="16" height="16"> [paste.debian](https://Paste.debian.net)
+* <img src="https://www.google.com/s2/favicons?domain=paste.centos.org&sz=16" width="16" height="16"> [paste.centos](https://paste.centos.org) - CentOS community pastebin for sharing configuration files, logs, and code snippets for collaborative troubleshooting.
+* <img src="https://www.google.com/s2/favicons?domain=Paste.debian.net&sz=16" width="16" height="16"> [paste.debian](https://Paste.debian.net) - Debian-hosted pastebin service useful for sharing and discovering code snippets, logs, and configuration files.
 * [paste.in.ua](https://paste.in.ua/) - Ukrainian pastebin service with syntax highlighting and paste expiration options.
-* <img src="https://www.google.com/s2/favicons?domain=Paste.kde.org&sz=16" width="16" height="16"> [paste.kde](https://Paste.kde.org)
+* <img src="https://www.google.com/s2/favicons?domain=Paste.kde.org&sz=16" width="16" height="16"> [paste.kde](https://Paste.kde.org) - KDE community pastebin for sharing text and code snippets, useful for finding leaked or shared technical data.
 * [Paste.Monster](https://paste.monster/) - Pastebin with API access, syntax highlighting, and support for encrypted private pastes.
 * [paste.ubuntu](https://paste.ubuntu.com) - Ubuntu community pastebin for sharing code snippets and log files.
 * <img src="https://www.google.com/s2/favicons?domain=pastequest.com&sz=16" width="16" height="16"> [Paste.Quest](https://pastequest.com/) - Copy and Paste text online to share with anyone anywhere. Use the password option to add a password to the pasted information.
@@ -461,8 +461,8 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [GitHub Code Search](https://github.com/search?type=code) - GitHub's enhanced code search with advanced filtering.
 * <img src="https://www.google.com/s2/favicons?domain=grep.app&sz=16" width="16" height="16"> [grep.app](https://grep.app/) - Searches code from the entire github public repositories for a given specific string or using regular expression.
 * <img src="https://www.google.com/s2/favicons?domain=nerdydata.com&sz=16" width="16" height="16"> [NerdyData](https://nerdydata.com) - Search engine for source code.
-* <img src="https://www.google.com/s2/favicons?domain=publicwww.com&sz=16" width="16" height="16"> [PublicWWW](https://publicwww.com/)
-* <img src="https://www.google.com/s2/favicons?domain=codefinder.org&sz=16" width="16" height="16"> [Reposearch](http://codefinder.org/)
+* <img src="https://www.google.com/s2/favicons?domain=publicwww.com&sz=16" width="16" height="16"> [PublicWWW](https://publicwww.com/) - Search engine for website source code that finds sites sharing specific analytics IDs, tracking codes, or code snippets.
+* <img src="https://www.google.com/s2/favicons?domain=codefinder.org&sz=16" width="16" height="16"> [Reposearch](http://codefinder.org/) - Web-based source code search engine with project-scoped autocompletion and support for SVN and GitHub repositories.
 * [SearchCode](https://searchcode.com) - Help find real world examples of functions, API's and libraries across 10+ sources.
 * <img src="https://www.google.com/s2/favicons?domain=www.sourcebot.dev&sz=16" width="16" height="16"> [Sourcebot](https://www.sourcebot.dev/) - Index thousands of repos on your machine and search through them in a fast, powerful, and modern web interface.
 * <img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=16" width="16" height="16"> [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
@@ -470,51 +470,51 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) 📱 Major Social Networks
 
 * <img src="https://www.google.com/s2/favicons?domain=bsky.app&sz=16" width="16" height="16"> [Bluesky](https://bsky.app) - Decentralized social network built on the AT Protocol.
-* <img src="https://www.google.com/s2/favicons?domain=www.draugiem.lv&sz=16" width="16" height="16"> [Draugiem (Latvia)](https://www.draugiem.lv)
-* <img src="https://www.google.com/s2/favicons?domain=www.facebook.com&sz=16" width="16" height="16"> [Facebook](http://www.facebook.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.instagram.com&sz=16" width="16" height="16"> [Instagram](https://www.instagram.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=16" width="16" height="16"> [Linkedin](https://www.linkedin.com)
-* <img src="https://www.google.com/s2/favicons?domain=mixi.jp&sz=16" width="16" height="16"> [Mixi (Japan)](https://mixi.jp)
-* <img src="https://www.google.com/s2/favicons?domain=ok.ru&sz=16" width="16" height="16"> [Odnoklassniki (Russia)](http://ok.ru)
+* <img src="https://www.google.com/s2/favicons?domain=www.draugiem.lv&sz=16" width="16" height="16"> [Draugiem (Latvia)](https://www.draugiem.lv) - Latvia's largest social network with over two million users, useful for investigating Latvian and Baltic region subjects.
+* <img src="https://www.google.com/s2/favicons?domain=www.facebook.com&sz=16" width="16" height="16"> [Facebook](http://www.facebook.com) - World's largest social network with billions of users, essential for profiling, social graph analysis, and public post research.
+* <img src="https://www.google.com/s2/favicons?domain=www.instagram.com&sz=16" width="16" height="16"> [Instagram](https://www.instagram.com) - Photo and video sharing platform with public profiles and geotagged posts valuable for visual and location-based investigations.
+* <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=16" width="16" height="16"> [Linkedin](https://www.linkedin.com) - Professional networking platform useful for mapping employment history, corporate connections, and organizational structures.
+* <img src="https://www.google.com/s2/favicons?domain=mixi.jp&sz=16" width="16" height="16"> [Mixi (Japan)](https://mixi.jp) - Japan's oldest social network with a real-name culture, useful for investigating Japanese individuals and communities.
+* <img src="https://www.google.com/s2/favicons?domain=ok.ru&sz=16" width="16" height="16"> [Odnoklassniki (Russia)](http://ok.ru) - Russia's second-largest social network focused on reconnecting classmates, valuable for researching Russian-speaking subjects.
 * <img src="https://www.google.com/s2/favicons?domain=www.pinterest.com&sz=16" width="16" height="16"> [Pinterest](http://www.pinterest.com) - is an image sharing social media service used to easly discover, share and save ideas using visual representation.
-* <img src="https://www.google.com/s2/favicons?domain=qzone.qq.com&sz=16" width="16" height="16"> [Qzone (China)](http://qzone.qq.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.reddit.com&sz=16" width="16" height="16"> [Reddit](https://www.reddit.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.taringa.net&sz=16" width="16" height="16"> [Taringa (Latin America)](http://www.taringa.net)
+* <img src="https://www.google.com/s2/favicons?domain=qzone.qq.com&sz=16" width="16" height="16"> [Qzone (China)](http://qzone.qq.com) - China's largest social networking platform by Tencent with blogs, photos, and games, useful for researching Chinese users.
+* <img src="https://www.google.com/s2/favicons?domain=www.reddit.com&sz=16" width="16" height="16"> [Reddit](https://www.reddit.com) - Community-driven discussion platform with pseudonymous users, valuable for monitoring topics, communities, and user post histories.
+* <img src="https://www.google.com/s2/favicons?domain=www.taringa.net&sz=16" width="16" height="16"> [Taringa (Latin America)](http://www.taringa.net) - Latin America's largest Spanish-language social network, useful for investigating subjects in Argentina and the broader region.
 * <img src="https://www.google.com/s2/favicons?domain=www.threads.net&sz=16" width="16" height="16"> [Threads](https://www.threads.net) - Text-based conversation app from Meta.
-* <img src="https://www.google.com/s2/favicons?domain=www.gotinder.com&sz=16" width="16" height="16"> [Tinder](https://www.gotinder.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.tumblr.com&sz=16" width="16" height="16"> [Tumblr](https://www.tumblr.com)
-* <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> [Twitter](https://twitter.com)
-* <img src="https://www.google.com/s2/favicons?domain=weibo.com&sz=16" width="16" height="16"> [Weibo (China)](http://weibo.com)
-* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VKontakte](https://vk.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](https://www.xing.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.gotinder.com&sz=16" width="16" height="16"> [Tinder](https://www.gotinder.com) - Location-based dating app whose public profiles and distance data can reveal user presence in specific geographic areas.
+* <img src="https://www.google.com/s2/favicons?domain=www.tumblr.com&sz=16" width="16" height="16"> [Tumblr](https://www.tumblr.com) - Microblogging and social platform with public blogs and reblogs, useful for tracking content sharing and online personas.
+* <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> [Twitter](https://twitter.com) - Microblogging platform essential for real-time monitoring of public statements, networks, and geotagged posts.
+* <img src="https://www.google.com/s2/favicons?domain=weibo.com&sz=16" width="16" height="16"> [Weibo (China)](http://weibo.com) - China's leading microblogging platform with hundreds of millions of users, critical for researching Chinese public discourse.
+* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VKontakte](https://vk.com) - Russia's largest social network with extensive public profiles, photos, and groups valuable for Eastern European investigations.
+* <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](https://www.xing.com) - German-speaking professional network similar to LinkedIn, useful for investigating European business contacts and career histories.
 
 ## [↑](#-table-of-contents) ⚡ Real-Time Search, Social Media Search, and General Social Media Tools
 
 * <img src="https://www.google.com/s2/favicons?domain=www.audiense.com&sz=16" width="16" height="16"> [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com) - AI-powered trend intelligence platform analyzing real-time social media signals.
-* <img src="https://www.google.com/s2/favicons?domain=www.brandwatch.com&sz=16" width="16" height="16"> [Brandwatch](https://www.brandwatch.com)
-* <img src="https://www.google.com/s2/favicons?domain=buffer.com&sz=16" width="16" height="16"> [Buffer](https://buffer.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.brandwatch.com&sz=16" width="16" height="16"> [Brandwatch](https://www.brandwatch.com) - Enterprise social listening and analytics platform for monitoring brand mentions, trends, and sentiment across the web.
+* <img src="https://www.google.com/s2/favicons?domain=buffer.com&sz=16" width="16" height="16"> [Buffer](https://buffer.com) - Social media management platform that provides publishing analytics useful for understanding account activity and reach.
 * <img src="https://www.google.com/s2/favicons?domain=buzzsumo.com&sz=16" width="16" height="16"> [Buzz sumo](http://buzzsumo.com) - "Use our content insights to generate ideas, create high-performing content, monitor your performance and identify influencers."
 * <img src="https://www.google.com/s2/favicons?domain=castrickclues.com&sz=16" width="16" height="16"> [Castrick](https://castrickclues.com) - Find social media accounts with email, username and phone number
 * <img src="https://www.google.com/s2/favicons?domain=epieos.com&sz=16" width="16" height="16"> [Epieos](https://epieos.com) - Search for social accounts with e-mail and phone
-* <img src="https://www.google.com/s2/favicons?domain=www.geocreepy.com&sz=16" width="16" height="16"> [Geocreepy](http://www.geocreepy.com)
-* <img src="https://www.google.com/s2/favicons?domain=hootsuite.com&sz=16" width="16" height="16"> [Hootsuite](http://hootsuite.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.geocreepy.com&sz=16" width="16" height="16"> [Geocreepy](http://www.geocreepy.com) - Geolocation OSINT tool that extracts and maps location data from social media posts on platforms like Twitter and Flickr.
+* <img src="https://www.google.com/s2/favicons?domain=hootsuite.com&sz=16" width="16" height="16"> [Hootsuite](http://hootsuite.com) - Social media management dashboard for monitoring multiple networks, tracking keywords, and scheduling posts across platforms.
 * <img src="https://www.google.com/s2/favicons?domain=www.idcrawl.com&sz=16" width="16" height="16"> [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
-* <img src="https://www.google.com/s2/favicons?domain=klear.com&sz=16" width="16" height="16"> [Klear](http://klear.com)
+* <img src="https://www.google.com/s2/favicons?domain=klear.com&sz=16" width="16" height="16"> [Klear](http://klear.com) - Influencer marketing and social media analytics platform that scores influence and provides audience demographic breakdowns.
 * [Kribrum](https://kribrum.io/) - Russian-language social media monitoring and analytics platform for brand tracking.
-* <img src="https://www.google.com/s2/favicons?domain=go.mail.ru&sz=16" width="16" height="16"> [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
-* <img src="https://www.google.com/s2/favicons?domain=mustbepresent.com&sz=16" width="16" height="16"> [MustBePresent](http://mustbepresent.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.netvibes.com&sz=16" width="16" height="16"> [Netvibes](http://www.netvibes.com)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Oblivion](https://github.com/loseys/Oblivion)
+* <img src="https://www.google.com/s2/favicons?domain=go.mail.ru&sz=16" width="16" height="16"> [Mail.Ru Social Network Search](https://go.mail.ru/search_social) - Mail.Ru's people search engine for finding profiles across Russian social networks by name, age, and location.
+* <img src="https://www.google.com/s2/favicons?domain=mustbepresent.com&sz=16" width="16" height="16"> [MustBePresent](http://mustbepresent.com) - Twitter response-time analyzer that measures how quickly an account replies to mentions and ranks its social responsiveness.
+* <img src="https://www.google.com/s2/favicons?domain=www.netvibes.com&sz=16" width="16" height="16"> [Netvibes](http://www.netvibes.com) - Personal dashboard and monitoring tool that aggregates RSS feeds, social media, and web content into customizable widgets.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Oblivion](https://github.com/loseys/Oblivion) - Open-source data leak checker and OSINT tool that monitors for compromised credentials and notifies users of breaches.
 * [OpinionCrawl](http://www.opinioncrawl.com) - Sentiment analysis tool for web content, showing public opinion trends on any topic.
 * <img src="https://www.google.com/s2/favicons?domain=predictasearch.com&sz=16" width="16" height="16"> [Predicta Search](https://predictasearch.com) - Search for social accounts with e-mail and phone
-* <img src="https://www.google.com/s2/favicons?domain=www.rivaliq.com&sz=16" width="16" height="16"> [Rival IQ](https://www.rivaliq.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.rivaliq.com&sz=16" width="16" height="16"> [Rival IQ](https://www.rivaliq.com) - Competitive social media analytics platform for benchmarking performance against rivals across multiple social channels.
 * [Social DownORNot](http://social.downornot.com) - Real-time status checker for social media platforms detecting outages and downtime.
-* <img src="https://www.google.com/s2/favicons?domain=www.social-searcher.com&sz=16" width="16" height="16"> [Social Searcher](http://www.social-searcher.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.socialbakers.com&sz=16" width="16" height="16"> [SocialBakers](http://www.socialbakers.com)
-* <img src="https://www.google.com/s2/favicons?domain=socialblade.com&sz=16" width="16" height="16"> [SocialBlade](http://socialblade.com)
-* <img src="https://www.google.com/s2/favicons?domain=tagboard.com&sz=16" width="16" height="16"> [Tagboard](https://tagboard.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.uvrx.com&sz=16" width="16" height="16"> [UVRX](http://www.uvrx.com/social.html)
+* <img src="https://www.google.com/s2/favicons?domain=www.social-searcher.com&sz=16" width="16" height="16"> [Social Searcher](http://www.social-searcher.com) - Free social media search engine that monitors public mentions across networks with sentiment analysis and alerts.
+* <img src="https://www.google.com/s2/favicons?domain=www.socialbakers.com&sz=16" width="16" height="16"> [SocialBakers](http://www.socialbakers.com) - Social media analytics and benchmarking platform providing performance statistics and competitive intelligence across platforms.
+* <img src="https://www.google.com/s2/favicons?domain=socialblade.com&sz=16" width="16" height="16"> [SocialBlade](http://socialblade.com) - Tracks social media statistics and growth trends for YouTube, Twitch, Twitter, and Instagram accounts over time.
+* <img src="https://www.google.com/s2/favicons?domain=tagboard.com&sz=16" width="16" height="16"> [Tagboard](https://tagboard.com) - Social media aggregation platform that collects and displays content from multiple networks around specific hashtags.
+* <img src="https://www.google.com/s2/favicons?domain=www.uvrx.com&sz=16" width="16" height="16"> [UVRX](http://www.uvrx.com/social.html) - Custom Google search engine targeting multiple social media platforms to find profiles and posts across networks simultaneously.
 * [WATools](https://watools.io/) - WhatsApp OSINT toolkit for profile picture viewing, group analysis, and number verification.
 
 ## 🛠️ Social Media Tools
@@ -522,37 +522,37 @@ algorithms, knowledgebase and AI technology.
 ### [↑](#-table-of-contents) 🐦 Twitter
 
 * <img src="https://www.google.com/s2/favicons?domain=www.exportdata.io&sz=16" width="16" height="16"> [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
-* <img src="https://www.google.com/s2/favicons?domain=foller.me&sz=16" width="16" height="16"> [Foller.me](http://foller.me)
+* <img src="https://www.google.com/s2/favicons?domain=foller.me&sz=16" width="16" height="16"> [Foller.me](http://foller.me) - Free Twitter analytics tool that generates insights on any public profile including topics, hashtags, mentions, and activity patterns.
 * [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
-* <img src="https://www.google.com/s2/favicons?domain=onemilliontweetmap.com&sz=16" width="16" height="16"> [OneMillionTweetMap](http://onemilliontweetmap.com)
-* <img src="https://www.google.com/s2/favicons?domain=ritetag.com&sz=16" width="16" height="16"> [RiteTag](https://ritetag.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.twittersentiment.appspot.com&sz=16" width="16" height="16"> [Sentiment140](http://www.twittersentiment.appspot.com)
-* <img src="https://www.google.com/s2/favicons?domain=tagdef.com&sz=16" width="16" height="16"> [Tagdef](https://tagdef.com)
-* <img src="https://www.google.com/s2/favicons?domain=trends24.in&sz=16" width="16" height="16"> [Trends24](http://trends24.in)
-* <img src="https://www.google.com/s2/favicons?domain=twchat.com&sz=16" width="16" height="16"> [TwChat](http://twchat.com)
-* <img src="https://www.google.com/s2/favicons?domain=mapd.csail.mit.edu&sz=16" width="16" height="16"> [TweetMap](http://mapd.csail.mit.edu/tweetmap)
-* <img src="https://www.google.com/s2/favicons?domain=worldmap.harvard.edu&sz=16" width="16" height="16"> [TweetMap](http://worldmap.harvard.edu/tweetmap)
-* <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
-* <img src="https://www.google.com/s2/favicons?domain=www.twitteraudit.com&sz=16" width="16" height="16"> [Twitter Audit](https://www.twitteraudit.com)
-* <img src="https://www.google.com/s2/favicons?domain=tweetreports.com&sz=16" width="16" height="16"> [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule)
+* <img src="https://www.google.com/s2/favicons?domain=onemilliontweetmap.com&sz=16" width="16" height="16"> [OneMillionTweetMap](http://onemilliontweetmap.com) - Real-time visualization of geolocated tweets on an interactive map with keyword filtering and heatmap clustering.
+* <img src="https://www.google.com/s2/favicons?domain=ritetag.com&sz=16" width="16" height="16"> [RiteTag](https://ritetag.com) - Hashtag analytics tool that provides real-time engagement data and suggests optimal hashtags for maximizing tweet reach.
+* <img src="https://www.google.com/s2/favicons?domain=www.twittersentiment.appspot.com&sz=16" width="16" height="16"> [Sentiment140](http://www.twittersentiment.appspot.com) - Twitter sentiment analysis tool that classifies tweets as positive, negative, or neutral using machine learning algorithms.
+* <img src="https://www.google.com/s2/favicons?domain=tagdef.com&sz=16" width="16" height="16"> [Tagdef](https://tagdef.com) - Community-driven hashtag dictionary where users define and vote on the meaning of social media hashtags.
+* <img src="https://www.google.com/s2/favicons?domain=trends24.in&sz=16" width="16" height="16"> [Trends24](http://trends24.in) - Real-time trending hashtag tracker showing the most popular Twitter trends by country and city worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=twchat.com&sz=16" width="16" height="16"> [TwChat](http://twchat.com) - Twitter chat management tool that filters conversations by hashtag, separates host tweets, and auto-inserts chat tags.
+* <img src="https://www.google.com/s2/favicons?domain=mapd.csail.mit.edu&sz=16" width="16" height="16"> [TweetMap](http://mapd.csail.mit.edu/tweetmap) - MIT-developed interactive map for exploring geotagged tweets with real-time filtering by keyword and location.
+* <img src="https://www.google.com/s2/favicons?domain=worldmap.harvard.edu&sz=16" width="16" height="16"> [TweetMap](http://worldmap.harvard.edu/tweetmap) - Harvard WorldMap project visualizing geotagged tweets on an interactive map for geographic social media analysis.
+* <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en) - Built-in Twitter advanced search interface for filtering tweets by date, user, engagement, language, and sentiment.
+* <img src="https://www.google.com/s2/favicons?domain=www.twitteraudit.com&sz=16" width="16" height="16"> [Twitter Audit](https://www.twitteraudit.com) - Auditing tool that analyzes Twitter followers to estimate what percentage are real accounts versus bots or inactive users.
+* <img src="https://www.google.com/s2/favicons?domain=tweetreports.com&sz=16" width="16" height="16"> [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule) - Directory of scheduled Twitter chats organized by topic, day, and time to discover industry-relevant conversations.
 * [Twitter Search](http://search.twitter.com) - Native Twitter/X search for tweets, users, hashtags, and trending topics.
 
 ### [↑](#-table-of-contents) 👤 Facebook
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
-* <img src="https://www.google.com/s2/favicons?domain=search.fb.com&sz=16" width="16" height="16"> [Facebook Search](http://search.fb.com/)
-* <img src="https://www.google.com/s2/favicons?domain=www.fanpagekarma.com&sz=16" width="16" height="16"> [Fanpage Karma](http://www.fanpagekarma.com)
+* <img src="https://www.google.com/s2/favicons?domain=search.fb.com&sz=16" width="16" height="16"> [Facebook Search](http://search.fb.com/) - Facebook's native search interface for finding people, posts, pages, groups, and public content across the platform.
+* <img src="https://www.google.com/s2/favicons?domain=www.fanpagekarma.com&sz=16" width="16" height="16"> [Fanpage Karma](http://www.fanpagekarma.com) - Social media analytics and benchmarking tool specializing in Facebook page performance, competitor analysis, and content insights.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits.
 * <img src="https://www.google.com/s2/favicons?domain=randomtools.io&sz=16" width="16" height="16"> [Find my Facebook ID](https://randomtools.io) - To find your Facebook personal numeric ID for facebook graph API operations, fb:admins, social plugins.
 * <img src="https://www.google.com/s2/favicons?domain=haveibeenzuckered.com&sz=16" width="16" height="16"> [haveibeenzuckered](https://haveibeenzuckered.com/) - A large dataset containing 533 million Facebook accounts was made available for download. The data was obtained by exploiting a vulnerability that was, according to Facebook, corrected in August 2019. Check if a telephone number is present within the Facebook data breach.
 * <img src="https://www.google.com/s2/favicons?domain=lookup-id.com&sz=16" width="16" height="16"> [Lookup-ID.com](https://lookup-id.com) - Looking for your Facebook profile ID / Group ID / Page ID.
-* <img src="https://www.google.com/s2/favicons?domain=searchisback.com&sz=16" width="16" height="16"> [SearchIsBack](https://searchisback.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.wolframalpha.com&sz=16" width="16" height="16"> [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report)
+* <img src="https://www.google.com/s2/favicons?domain=searchisback.com&sz=16" width="16" height="16"> [SearchIsBack](https://searchisback.com) - Web interface recreating Facebook Graph Search functionality for finding people by location, employer, school, and interests.
+* <img src="https://www.google.com/s2/favicons?domain=www.wolframalpha.com&sz=16" width="16" height="16"> [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report) - Wolfram Alpha feature that generates detailed analytical reports on your Facebook activity, friends, and network structure.
 
 ### [↑](#-table-of-contents) 📸 Instagram
 
 * <img src="https://www.google.com/s2/favicons?domain=www.dolphinradar.com&sz=16" width="16" height="16"> [Dolphin Radar](https://www.dolphinradar.com/web-viewer-for-instagram) - An Instagram Post Viewer lets you view posts, stories, and profiles from public accounts with ease. Free viewer limit: 1.
-* <img src="https://www.google.com/s2/favicons?domain=iconosquare.com&sz=16" width="16" height="16"> [Iconosquare](http://iconosquare.com)
+* <img src="https://www.google.com/s2/favicons?domain=iconosquare.com&sz=16" width="16" height="16"> [Iconosquare](http://iconosquare.com) - Social media analytics and management platform for Instagram with audience insights, scheduling, and competitor tracking.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [instagram_monitor](https://github.com/misiektoja/instagram_monitor) - Tool for real-time tracking of Instagram users' activities and profile changes with support for email alerts, CSV logging, showing media in the terminal, anonymous story downloads and more
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [InstagramPrivSniffer](https://github.com/obitouka/InstagramPrivSniffer) - Views Instagram PRIVATE ACCOUNT'S media without login 😱.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.
@@ -561,7 +561,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) 📌 Pinterest
 
-* <img src="https://www.google.com/s2/favicons?domain=pingroupie.com&sz=16" width="16" height="16"> [Pingroupie](http://pingroupie.com)
+* <img src="https://www.google.com/s2/favicons?domain=pingroupie.com&sz=16" width="16" height="16"> [Pingroupie](http://pingroupie.com) - Directory of Pinterest group boards searchable by category, follower count, and activity for marketing research.
 * <img src="https://www.google.com/s2/favicons?domain=chromewebstore.google.com&sz=16" width="16" height="16"> [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Display hidden Pinterest stats for each pin.
 
 ### [↑](#-table-of-contents) 🔴 Reddit
@@ -588,12 +588,12 @@ algorithms, knowledgebase and AI technology.
 
 *Perform various OSINT on Russian social media site VKontakte.*
 
-* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [Дезертир](http://vk.com/app3046467)
-* <img src="https://www.google.com/s2/favicons?domain=vk.barkov.net&sz=16" width="16" height="16"> [Barkov.net](http://vk.barkov.net)
-* <img src="https://www.google.com/s2/favicons?domain=vk5.city4me.com&sz=16" width="16" height="16"> [VK5](http://vk5.city4me.com)
-* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VK Community Search](http://vk.com/communities)
-* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VK People Search](http://vk.com/people)
-* <img src="https://www.google.com/s2/favicons?domain=vk.watch&sz=16" width="16" height="16"> [VK.watch](https://vk.watch/)
+* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [Дезертир](http://vk.com/app3046467) - VKontakte app that tracks who joins and leaves groups, useful for monitoring community membership changes.
+* <img src="https://www.google.com/s2/favicons?domain=vk.barkov.net&sz=16" width="16" height="16"> [Barkov.net](http://vk.barkov.net) - Toolset for extracting and analyzing VKontakte audience data including subscribers, likes, and cross-platform accounts.
+* <img src="https://www.google.com/s2/favicons?domain=vk5.city4me.com&sz=16" width="16" height="16"> [VK5](http://vk5.city4me.com) - VKontakte profile analyzer that reveals hidden friends, likes, and group memberships for user investigations.
+* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VK Community Search](http://vk.com/communities) - Official VKontakte community search page for finding and browsing public groups, pages, and events.
+* <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VK People Search](http://vk.com/people) - Official VKontakte people search page for finding users by name, location, workplace, and other profile fields.
+* <img src="https://www.google.com/s2/favicons?domain=vk.watch&sz=16" width="16" height="16"> [VK.watch](https://vk.watch/) - Third-party VKontakte monitoring service that tracks profile changes, online status, and public activity history.
 
 ### [↑](#-table-of-contents) 📱 WhatsApp
 
@@ -603,7 +603,7 @@ algorithms, knowledgebase and AI technology.
 
 ### [↑](#-table-of-contents) ✏️ Tumblr
 
-* <img src="https://www.google.com/s2/favicons?domain=www.tumblr.com&sz=16" width="16" height="16"> [Tumblr Search](http://www.tumblr.com/search)
+* <img src="https://www.google.com/s2/favicons?domain=www.tumblr.com&sz=16" width="16" height="16"> [Tumblr Search](http://www.tumblr.com/search) - Official Tumblr search interface for discovering posts, blogs, and tags across the Tumblr platform.
 
 ### [↑](#-table-of-contents) 💼 LinkedIn
 
@@ -721,18 +721,18 @@ algorithms, knowledgebase and AI technology.
 
 * [BlogSearchEngine](http://www.blogsearchengine.org) - Dedicated search engine for discovering blog posts and bloggers across topics.
 * <img src="https://www.google.com/s2/favicons?domain=www.notey.com&sz=16" width="16" height="16"> [Notey](http://www.notey.com) - Blog post search engine.
-* <img src="https://www.google.com/s2/favicons?domain=www.twingly.com&sz=16" width="16" height="16"> [Twingly](http://www.twingly.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.twingly.com&sz=16" width="16" height="16"> [Twingly](http://www.twingly.com) - Blog search engine indexing over one million posts daily from three million active blogs in 56 languages worldwide.
 
 ## [↑](#-table-of-contents) 💬 Forums and Discussion Boards Search
 
-* <img src="https://www.google.com/s2/favicons?domain=4chansearch.com&sz=16" width="16" height="16"> [4chan Search](https://4chansearch.com/)
-* <img src="https://www.google.com/s2/favicons?domain=boardreader.com&sz=16" width="16" height="16"> [Boardreader](http://boardreader.com)
+* <img src="https://www.google.com/s2/favicons?domain=4chansearch.com&sz=16" width="16" height="16"> [4chan Search](https://4chansearch.com/) - Search engine specifically for 4chan boards, enabling keyword searches across archived and active threads.
+* <img src="https://www.google.com/s2/favicons?domain=boardreader.com&sz=16" width="16" height="16"> [Boardreader](http://boardreader.com) - Forum-focused search engine indexing hundreds of millions of posts from message boards and discussion forums worldwide.
 * [Built With Flarum](https://builtwithflarum.com/) - Directory of forums built with the Flarum platform, useful for finding niche communities.
-* <img src="https://www.google.com/s2/favicons?domain=www.facebook.com&sz=16" width="16" height="16"> [Facebook Groups](https://www.facebook.com)
-* <img src="https://www.google.com/s2/favicons?domain=groups.google.com&sz=16" width="16" height="16"> [Google Groups](https://groups.google.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=16" width="16" height="16"> [Linkedin Groups](http://www.linkedin.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.ning.com&sz=16" width="16" height="16"> [Ning](http://www.ning.com)
-* <img src="https://www.google.com/s2/favicons?domain=groups.yahoo.com&sz=16" width="16" height="16"> [Yahoo Groups](https://groups.yahoo.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.facebook.com&sz=16" width="16" height="16"> [Facebook Groups](https://www.facebook.com) - Facebook's group discovery page for finding public and private discussion communities across all topics and interests.
+* <img src="https://www.google.com/s2/favicons?domain=groups.google.com&sz=16" width="16" height="16"> [Google Groups](https://groups.google.com) - Google's platform for finding and searching Usenet newsgroups and email-based discussion groups by topic.
+* <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=16" width="16" height="16"> [Linkedin Groups](http://www.linkedin.com) - LinkedIn's group discovery feature for finding professional discussion groups organized by industry and interest.
+* <img src="https://www.google.com/s2/favicons?domain=www.ning.com&sz=16" width="16" height="16"> [Ning](http://www.ning.com) - Platform for creating and discovering niche social networks and online communities around specific topics.
+* <img src="https://www.google.com/s2/favicons?domain=groups.yahoo.com&sz=16" width="16" height="16"> [Yahoo Groups](https://groups.yahoo.com) - Yahoo's group discussion platform for searching and joining email-based mailing lists and community forums.
 
 ## [↑](#-table-of-contents) 🔎 Username Check
 
@@ -765,7 +765,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.411.com&sz=16" width="16" height="16"> [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 * <img src="https://www.google.com/s2/favicons?domain=www.ancestry.com&sz=16" width="16" height="16"> [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
 * <img src="https://www.google.com/s2/favicons?domain=www.apollo.io&sz=16" width="16" height="16"> [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
-* <img src="https://www.google.com/s2/favicons?domain=www.backgroundchecks.com&sz=16" width="16" height="16"> [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
+* <img src="https://www.google.com/s2/favicons?domain=www.backgroundchecks.com&sz=16" width="16" height="16"> [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified) - Background check service providing access to public records, contact details, criminal history, and property information.
 * <img src="https://www.google.com/s2/favicons?domain=www.blackbookonline.info&sz=16" width="16" height="16"> [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 * <img src="https://www.google.com/s2/favicons?domain=www.canada411.ca&sz=16" width="16" height="16"> [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * <img src="https://www.google.com/s2/favicons?domain=www.classmates.com&sz=16" width="16" height="16"> [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
@@ -783,7 +783,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=infotracer.com&sz=16" width="16" height="16"> [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 * <img src="https://www.google.com/s2/favicons?domain=www.judyrecords.com&sz=16" width="16" height="16"> [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 * <img src="https://www.google.com/s2/favicons?domain=www.kompass.com&sz=16" width="16" height="16"> [Kompass](http://www.kompass.com) - Business directory and search.
-* <img src="https://www.google.com/s2/favicons?domain=mugshots.com&sz=16" width="16" height="16"> [Mugshots](https://mugshots.com/)
+* <img src="https://www.google.com/s2/favicons?domain=mugshots.com&sz=16" width="16" height="16"> [Mugshots](https://mugshots.com/) - Searchable database of publicly available arrest photos and booking records from law enforcement agencies across the US.
 * <img src="https://www.google.com/s2/favicons?domain=www.opensanctions.org&sz=16" width="16" height="16"> [OpenSanctions](https://www.opensanctions.org/search/) - Information on sanctions and public office holders.
 * <img src="https://www.google.com/s2/favicons?domain=www.peekyou.com&sz=16" width="16" height="16"> [PeekYou](https://www.peekyou.com/) - PeekYou offers the ability to search for people with checks done against more sites. Can check for arrest records as well.
 * <img src="https://www.google.com/s2/favicons?domain=reunion.com&sz=16" width="16" height="16"> [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
@@ -797,7 +797,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.vinelink.com&sz=16" width="16" height="16"> [VineLink](https://www.vinelink.com/#state-selection) - Inmate search and notification service for victims of crime, linked to multiple correctional facilities' booking systems in the U.S.
 * <img src="https://www.google.com/s2/favicons?domain=voterrecords.com&sz=16" width="16" height="16"> [Voter Records](https://voterrecords.com/) - Free political research tool to study more than 100 Million US voter records.
 * <img src="https://www.google.com/s2/favicons?domain=www.whitepages.com&sz=16" width="16" height="16"> [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
-* <img src="https://www.google.com/s2/favicons?domain=www.zabasearch.com&sz=16" width="16" height="16"> [ZabaSearch](https://www.zabasearch.com/)
+* <img src="https://www.google.com/s2/favicons?domain=www.zabasearch.com&sz=16" width="16" height="16"> [ZabaSearch](https://www.zabasearch.com/) - Free people search engine that aggregates public records including addresses, phone numbers, and associated individuals.
 
 ## [↑](#-table-of-contents) 📧 Email Search / Email Check
 
@@ -863,236 +863,236 @@ algorithms, knowledgebase and AI technology.
 ## [↑](#-table-of-contents) 🎓 Expert Search
 
 * <img src="https://www.google.com/s2/favicons?domain=academia.edu&sz=16" width="16" height="16"> [Academia](http://academia.edu) - is a platform for sharing academic research.
-* <img src="https://www.google.com/s2/favicons?domain=www.expertisefinder.com&sz=16" width="16" height="16"> [ExpertiseFinder](http://www.expertisefinder.com)
-* <img src="https://www.google.com/s2/favicons?domain=expertpages.com&sz=16" width="16" height="16"> [ExpertPages](http://expertpages.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.experts.com&sz=16" width="16" height="16"> [Experts.com](http://www.experts.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.helpareporter.com&sz=16" width="16" height="16"> [HARO](http://www.helpareporter.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.expertisefinder.com&sz=16" width="16" height="16"> [ExpertiseFinder](http://www.expertisefinder.com) - Academic expert search engine for finding university researchers and faculty by field of expertise and institution.
+* <img src="https://www.google.com/s2/favicons?domain=expertpages.com&sz=16" width="16" height="16"> [ExpertPages](http://expertpages.com) - Directory of expert witnesses and consultants searchable by specialty for legal and professional consulting needs.
+* <img src="https://www.google.com/s2/favicons?domain=www.experts.com&sz=16" width="16" height="16"> [Experts.com](http://www.experts.com) - Expert witness referral service connecting researchers with credentialed professionals across hundreds of specialties.
+* <img src="https://www.google.com/s2/favicons?domain=www.helpareporter.com&sz=16" width="16" height="16"> [HARO](http://www.helpareporter.com) - Help A Reporter Out connects journalists with expert sources, useful for identifying subject matter experts and media contacts.
 * [Licenseplates](http://www.worldlicenseplates.com/) - Reference database of license plate designs from countries and territories worldwide.
 * [GlobalExperts](http://www.theglobalexperts.org) - Database of expert sources available for media interviews on international issues.
-* <img src="https://www.google.com/s2/favicons?domain=www.idealist.org&sz=16" width="16" height="16"> [Idealist](http://www.idealist.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.innocentive.com&sz=16" width="16" height="16"> [Innocentive](http://www.innocentive.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.idealist.org&sz=16" width="16" height="16"> [Idealist](http://www.idealist.org) - Platform for discovering nonprofit organizations and professionals working in social impact and public service sectors.
+* <img src="https://www.google.com/s2/favicons?domain=www.innocentive.com&sz=16" width="16" height="16"> [Innocentive](http://www.innocentive.com) - Crowdsourcing platform connecting organizations with expert problem-solvers, useful for identifying domain specialists.
 * [Internet Experts](http://www.internetexperts.info) - Directory of subject matter experts available for consultation and media inquiries.
-* <img src="https://www.google.com/s2/favicons?domain=www.loc.gov&sz=16" width="16" height="16"> [Library of Congress: Ask a Librarian](http://www.loc.gov/rr/askalib)
+* <img src="https://www.google.com/s2/favicons?domain=www.loc.gov&sz=16" width="16" height="16"> [Library of Congress: Ask a Librarian](http://www.loc.gov/rr/askalib) - Library of Congress reference service connecting researchers with specialist librarians across all subject areas.
 * [Maven](http://www.maven.co) - Expert network platform connecting researchers with industry professionals for paid consultations.
 * <img src="https://www.google.com/s2/favicons?domain=muckrack.com&sz=16" width="16" height="16"> [MuckRack](http://muckrack.com) - Extensive database of U.S. government public records obtained through federal and state public records requests. Automated tool that will make public records requests and follow up until records are obtained on your behalf.
-* <img src="https://www.google.com/s2/favicons?domain=www.nsaspeaker.org&sz=16" width="16" height="16"> [National Speakers Association](http://www.nsaspeaker.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.newswise.com&sz=16" width="16" height="16"> [Newswise](http://www.newswise.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.nsaspeaker.org&sz=16" width="16" height="16"> [National Speakers Association](http://www.nsaspeaker.org) - Professional directory of public speakers searchable by topic and expertise for identifying subject matter authorities.
+* <img src="https://www.google.com/s2/favicons?domain=www.newswise.com&sz=16" width="16" height="16"> [Newswise](http://www.newswise.com) - News service connecting journalists with expert sources at universities and research institutions for media inquiries.
 * <img src="https://www.google.com/s2/favicons?domain=oedci.uspto.gov&sz=16" width="16" height="16"> [Patent Attorneys/Agent Search](https://oedci.uspto.gov/OEDCI/) - Official listing of U.S. attorneys qualified to represent individuals in U.S. patent office proceedings.
 * [PRNewswire](https://prnmedia.prnewswire.com) - Press release distribution and media monitoring service with searchable archives.
-* <img src="https://www.google.com/s2/favicons?domain=www.researcherid.com&sz=16" width="16" height="16"> [ReseacherID](http://www.researcherid.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.researcherid.com&sz=16" width="16" height="16"> [ReseacherID](http://www.researcherid.com) - Web of Science researcher identification system linking authors to their scholarly publications and citation records.
 * [SheSource](http://www.shesource.org) - Database of female experts available for media commentary across policy and technical topics.
-* <img src="https://www.google.com/s2/favicons?domain=www.sources.com&sz=16" width="16" height="16"> [Sources](http://www.sources.com)
-* <img src="https://www.google.com/s2/favicons?domain=trexpertwitness.com&sz=16" width="16" height="16"> [TRExpertWitness](https://trexpertwitness.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.zintro.com&sz=16" width="16" height="16"> [Zintro](https://www.zintro.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.sources.com&sz=16" width="16" height="16"> [Sources](http://www.sources.com) - Canadian media directory listing expert sources, spokespersons, and organizations available for journalist inquiries.
+* <img src="https://www.google.com/s2/favicons?domain=trexpertwitness.com&sz=16" width="16" height="16"> [TRExpertWitness](https://trexpertwitness.com) - Searchable directory of expert witnesses for litigation, organized by area of technical or professional expertise.
+* <img src="https://www.google.com/s2/favicons?domain=www.zintro.com&sz=16" width="16" height="16"> [Zintro](https://www.zintro.com) - Expert network connecting businesses with over one million industry professionals for consulting and market research.
 
 ## [↑](#-table-of-contents) 🏢 Company Research
 
-* <img src="https://www.google.com/s2/favicons?domain=www.allstocks.com&sz=16" width="16" height="16"> [AllStocksLinks](http://www.allstocks.com/links)
-* <img src="https://www.google.com/s2/favicons?domain=www.bbb.org&sz=16" width="16" height="16"> [Better Business Bureau](http://www.bbb.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.bizeurope.com&sz=16" width="16" height="16"> [Bizeurope](http://www.bizeurope.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&sz=16" width="16" height="16"> [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)
-* <img src="https://www.google.com/s2/favicons?domain=www.brownbook.net&sz=16" width="16" height="16"> [BrownBook](https://www.brownbook.net/)
-* <img src="https://www.google.com/s2/favicons?domain=www.bvdinfo.com&sz=16" width="16" height="16"> [Bureau Van Dijk](http://www.bvdinfo.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.ebscohost.com&sz=16" width="16" height="16"> [Business Source](https://www.ebscohost.com/academic/business-source-complete)
-* <img src="https://www.google.com/s2/favicons?domain=www.canada.ca&sz=16" width="16" height="16"> [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
+* <img src="https://www.google.com/s2/favicons?domain=www.allstocks.com&sz=16" width="16" height="16"> [AllStocksLinks](http://www.allstocks.com/links) - Curated link directory for stock market and financial research resources organized by investment category.
+* <img src="https://www.google.com/s2/favicons?domain=www.bbb.org&sz=16" width="16" height="16"> [Better Business Bureau](http://www.bbb.org) - Nonprofit organization providing business reliability ratings, complaint histories, and accreditation status for companies.
+* <img src="https://www.google.com/s2/favicons?domain=www.bizeurope.com&sz=16" width="16" height="16"> [Bizeurope](http://www.bizeurope.com) - European business directory for researching companies across EU member states by industry and location.
+* <img src="https://www.google.com/s2/favicons?domain=www.bloomberg.com&sz=16" width="16" height="16"> [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp) - Bloomberg's company overview tool providing financial data, executive profiles, and market analysis for public companies.
+* <img src="https://www.google.com/s2/favicons?domain=www.brownbook.net&sz=16" width="16" height="16"> [BrownBook](https://www.brownbook.net/) - Global business listing database with over 44 million entries across 200 countries for company discovery and verification.
+* <img src="https://www.google.com/s2/favicons?domain=www.bvdinfo.com&sz=16" width="16" height="16"> [Bureau Van Dijk](http://www.bvdinfo.com) - Major provider of corporate financial data and business intelligence covering private and public companies worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.ebscohost.com&sz=16" width="16" height="16"> [Business Source](https://www.ebscohost.com/academic/business-source-complete) - EBSCO's comprehensive database of full-text business journals, market reports, and company profiles for academic research.
+* <img src="https://www.google.com/s2/favicons?domain=www.canada.ca&sz=16" width="16" height="16"> [Canadian Business Research](https://www.canada.ca/en/services/business/research.html) - Canadian government portal for business research resources including market data, regulations, and industry statistics.
 * <img src="https://www.google.com/s2/favicons?domain=case.law&sz=16" width="16" height="16"> [Caselaw Access Project](https://case.law/) - Collection of full text of historical (not up-to-date) cases from United States state appellate courts.
-* <img src="https://www.google.com/s2/favicons?domain=www.commercial-register.sg.ch&sz=16" width="16" height="16"> [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)
-* <img src="https://www.google.com/s2/favicons?domain=www.comparably.com&sz=16" width="16" height="16"> [Company Research Resources by Country Comparably](https://www.comparably.com)
-* <img src="https://www.google.com/s2/favicons?domain=competeshark.com&sz=16" width="16" height="16"> [CompeteShark](http://competeshark.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.commercial-register.sg.ch&sz=16" width="16" height="16"> [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html) - Swiss-hosted directory linking to official commercial registers and company registration authorities worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.comparably.com&sz=16" width="16" height="16"> [Company Research Resources by Country Comparably](https://www.comparably.com) - Workplace culture and compensation comparison platform with employee reviews, salary data, and company rankings.
+* <img src="https://www.google.com/s2/favicons?domain=competeshark.com&sz=16" width="16" height="16"> [CompeteShark](http://competeshark.com) - Competitive intelligence tool that monitors competitor websites for changes in content, promotions, and marketing strategies.
 * <img src="https://www.google.com/s2/favicons?domain=www.corporateinformation.com&sz=16" width="16" height="16"> [Corporate Information](http://www.corporateinformation.com) - Aggregated information from publicly available sources on publicly traded companies worldwide.
-* <img src="https://www.google.com/s2/favicons?domain=www.corporationwiki.com&sz=16" width="16" height="16"> [CorporationWiki](https://www.corporationwiki.com/)
+* <img src="https://www.google.com/s2/favicons?domain=www.corporationwiki.com&sz=16" width="16" height="16"> [CorporationWiki](https://www.corporationwiki.com/) - Visual corporate relationship mapper connecting officers and directors to companies using public registration records.
 * <img src="https://www.google.com/s2/favicons?domain=www.crunchbase.com&sz=16" width="16" height="16"> [CrunchBase](https://www.crunchbase.com) - Detailed information on startup businesses, with a specific focus on funding sources and funding procedures used by specific businesses.
 * [Data.com Connect](https://connect.data.com) - Business contact and company data platform by Salesforce for B2B intelligence.
 * <img src="https://www.google.com/s2/favicons?domain=www.edgar-online.com&sz=16" width="16" height="16"> [EDGAR U.S. Securities and Exchange Commission Filings](http://www.edgar-online.com) - Periodic reports and extensive corporate disclosures from all businesses publicly traded in the United States.
-* <img src="https://www.google.com/s2/favicons?domain=www.europages.co.uk&sz=16" width="16" height="16"> [Europages](http://www.europages.co.uk)
-* <img src="https://www.google.com/s2/favicons?domain=www.ebr.org&sz=16" width="16" height="16"> [European Business Register](http://www.ebr.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.ezilon.com&sz=16" width="16" height="16"> [Ezilon](http://www.ezilon.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.europages.co.uk&sz=16" width="16" height="16"> [Europages](http://www.europages.co.uk) - European B2B directory listing manufacturers, suppliers, and service providers across 30 countries for trade research.
+* <img src="https://www.google.com/s2/favicons?domain=www.ebr.org&sz=16" width="16" height="16"> [European Business Register](http://www.ebr.org) - Network connecting official European business registers for cross-border company verification and corporate data access.
+* <img src="https://www.google.com/s2/favicons?domain=www.ezilon.com&sz=16" width="16" height="16"> [Ezilon](http://www.ezilon.com) - Regional web directory organizing websites by geography across multiple continents for location-based research.
 * [Factiva](https://global.factiva.com) - Dow Jones business intelligence tool aggregating content from 33,000+ news and data sources.
-* <img src="https://www.google.com/s2/favicons?domain=www.forbes.com&sz=16" width="16" height="16"> [Forbes Global 2000](http://www.forbes.com/global2000/)
-* <img src="https://www.google.com/s2/favicons?domain=www.glassdoor.com&sz=16" width="16" height="16"> [Glassdoor](https://www.glassdoor.com)
-* <img src="https://www.google.com/s2/favicons?domain=globaledge.msu.edu&sz=16" width="16" height="16"> [globalEdge](http://globaledge.msu.edu)
+* <img src="https://www.google.com/s2/favicons?domain=www.forbes.com&sz=16" width="16" height="16"> [Forbes Global 2000](http://www.forbes.com/global2000/) - Forbes annual ranking of the world's 2,000 largest public companies by revenue, profit, assets, and market value.
+* <img src="https://www.google.com/s2/favicons?domain=www.glassdoor.com&sz=16" width="16" height="16"> [Glassdoor](https://www.glassdoor.com) - Employee-sourced company reviews, salary reports, and interview insights useful for investigating corporate culture.
+* <img src="https://www.google.com/s2/favicons?domain=globaledge.msu.edu&sz=16" width="16" height="16"> [globalEdge](http://globaledge.msu.edu) - Michigan State University knowledge portal providing international business research, country profiles, and global trade data.
 * [GoodFirms](https://www.goodfirms.co/) - Research and review platform for IT companies and software with verified client feedback.
-* <img src="https://www.google.com/s2/favicons?domain=www.guidestar.org&sz=16" width="16" height="16"> [GuideStar](http://www.guidestar.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.hoovers.com&sz=16" width="16" height="16"> [Hoovers](http://www.hoovers.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.inc.com&sz=16" width="16" height="16"> [Inc. 5000](http://www.inc.com/inc5000)
+* <img src="https://www.google.com/s2/favicons?domain=www.guidestar.org&sz=16" width="16" height="16"> [GuideStar](http://www.guidestar.org) - Nonprofit information database providing financial data, executive compensation, and tax filings for U.S. charitable organizations.
+* <img src="https://www.google.com/s2/favicons?domain=www.hoovers.com&sz=16" width="16" height="16"> [Hoovers](http://www.hoovers.com) - Dun & Bradstreet company intelligence platform offering detailed business profiles, financials, and industry analysis.
+* <img src="https://www.google.com/s2/favicons?domain=www.inc.com&sz=16" width="16" height="16"> [Inc. 5000](http://www.inc.com/inc5000) - Annual ranking of the 5,000 fastest-growing private companies in the United States with revenue and growth data.
 * <img src="https://www.google.com/s2/favicons?domain=www.judyrecords.com&sz=16" width="16" height="16"> [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
-* <img src="https://www.google.com/s2/favicons?domain=www.icaew.com&sz=16" width="16" height="16"> [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
+* <img src="https://www.google.com/s2/favicons?domain=www.icaew.com&sz=16" width="16" height="16"> [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration) - ICAEW reference guide linking to official company registration authorities and filing requirements across multiple countries.
 * <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=16" width="16" height="16"> [Linkedin](https://www.linkedin.com) - Commonly used social-media platform with a focus on professional profiles and recruitment. Spans a wide variety of industries. Very useful for gathering information on what specific individuals are active within an entity.
 * [Mergent Intellect](http://www.mergentintellect.com) - Business database with financial data and corporate profiles on millions of companies.
-* <img src="https://www.google.com/s2/favicons?domain=www.mergentonline.com&sz=16" width="16" height="16"> [Mergent Online](http://www.mergentonline.com/login.php)
-* <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=16" width="16" height="16"> [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
+* <img src="https://www.google.com/s2/favicons?domain=www.mergentonline.com&sz=16" width="16" height="16"> [Mergent Online](http://www.mergentonline.com/login.php) - Business research database offering corporate financials, annual reports, and industry data from global public and private companies.
+* <img src="https://www.google.com/s2/favicons?domain=en.wikipedia.org&sz=16" width="16" height="16"> [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers) - Wikipedia-maintained list of official company registers worldwide, useful for locating corporate filings by country.
 * <img src="https://www.google.com/s2/favicons?domain=opencorporates.com&sz=16" width="16" height="16"> [OpenCorporates](https://opencorporates.com) - Global search of registered corporate entities and their associated individual officers or investors.
-* <img src="https://www.google.com/s2/favicons?domain=register.openownership.org&sz=16" width="16" height="16"> [OpenOwnership Register](https://register.openownership.org/)
+* <img src="https://www.google.com/s2/favicons?domain=register.openownership.org&sz=16" width="16" height="16"> [OpenOwnership Register](https://register.openownership.org/) - Global beneficial ownership register linking companies to their true owners across multiple jurisdictions for transparency research.
 * [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies) - Bureau van Dijk database of corporate ownership structures and financial information worldwide.
-* <img src="https://www.google.com/s2/favicons?domain=www.gov.uk&sz=16" width="16" height="16"> [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
-* <img src="https://www.google.com/s2/favicons?domain=www.plunkettresearchonline.com&sz=16" width="16" height="16"> [Plunkett Research](http://www.plunkettresearchonline.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.scoot.co.uk&sz=16" width="16" height="16"> [Scoot](http://www.scoot.co.uk)
-* <img src="https://www.google.com/s2/favicons?domain=www.semrush.com&sz=16" width="16" height="16"> [SEMrush](https://www.semrush.com)
-* <img src="https://www.google.com/s2/favicons?domain=serpstat.com&sz=16" width="16" height="16"> [Serpstat](https://serpstat.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.spyfu.com&sz=16" width="16" height="16"> [SpyFu](http://www.spyfu.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.gov.uk&sz=16" width="16" height="16"> [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries) - UK government directory of overseas company registries with links to official corporate filing authorities by country.
+* <img src="https://www.google.com/s2/favicons?domain=www.plunkettresearchonline.com&sz=16" width="16" height="16"> [Plunkett Research](http://www.plunkettresearchonline.com) - Market research platform providing industry statistics, trends, and company profiles across major business sectors.
+* <img src="https://www.google.com/s2/favicons?domain=www.scoot.co.uk&sz=16" width="16" height="16"> [Scoot](http://www.scoot.co.uk) - UK business directory with over two million listings including contact details, reviews, and location information.
+* <img src="https://www.google.com/s2/favicons?domain=www.semrush.com&sz=16" width="16" height="16"> [SEMrush](https://www.semrush.com) - SEO and competitive intelligence platform for analyzing website traffic, keyword rankings, and competitor advertising strategies.
+* <img src="https://www.google.com/s2/favicons?domain=serpstat.com&sz=16" width="16" height="16"> [Serpstat](https://serpstat.com) - All-in-one SEO platform for keyword research, rank tracking, backlink analysis, and competitor site auditing.
+* <img src="https://www.google.com/s2/favicons?domain=www.spyfu.com&sz=16" width="16" height="16"> [SpyFu](http://www.spyfu.com) - Competitive intelligence tool revealing competitors' paid and organic search keywords, ad history, and ranking data.
 * <img src="https://www.google.com/s2/favicons?domain=thewebco.ai&sz=16" width="16" height="16"> [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * <img src="https://www.google.com/s2/favicons?domain=unicourt.com&sz=16" width="16" height="16"> [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
 * <img src="https://www.google.com/s2/favicons?domain=www.vault.com&sz=16" width="16" height="16"> [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
-* <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com)
-* <img src="https://www.google.com/s2/favicons?domain=youcontrol.com.ua&sz=16" width="16" height="16"> [YouControl](https://youcontrol.com.ua/en/)
+* <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com) - European professional networking platform popular in German-speaking countries for career connections and company research.
+* <img src="https://www.google.com/s2/favicons?domain=youcontrol.com.ua&sz=16" width="16" height="16"> [YouControl](https://youcontrol.com.ua/en/) - Ukrainian business intelligence platform providing company registration data, ownership structures, and financial records.
 
 ## [↑](#-table-of-contents) 👔 Job Search Resources
 
-* <img src="https://www.google.com/s2/favicons?domain=www.beyond.com&sz=16" width="16" height="16"> [Beyond](http://www.beyond.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.campuscareercenter.com&sz=16" width="16" height="16"> [CampusCareerCenter](http://www.campuscareercenter.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.careerbuilder.com&sz=16" width="16" height="16"> [CareerBuilder](http://www.careerbuilder.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.collegerecruiter.com&sz=16" width="16" height="16"> [College Recruiter](https://www.collegerecruiter.com)
-* <img src="https://www.google.com/s2/favicons?domain=losangeles.craigslist.org&sz=16" width="16" height="16"> [Craiglist](http://losangeles.craigslist.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.beyond.com&sz=16" width="16" height="16"> [Beyond](http://www.beyond.com) - Career network and job search platform aggregating listings and connecting job seekers with employers.
+* <img src="https://www.google.com/s2/favicons?domain=www.campuscareercenter.com&sz=16" width="16" height="16"> [CampusCareerCenter](http://www.campuscareercenter.com) - Job search portal connecting college students and recent graduates with entry-level positions and internships.
+* <img src="https://www.google.com/s2/favicons?domain=www.careerbuilder.com&sz=16" width="16" height="16"> [CareerBuilder](http://www.careerbuilder.com) - Major job board and employment platform with millions of listings, resume posting, and company research tools.
+* <img src="https://www.google.com/s2/favicons?domain=www.collegerecruiter.com&sz=16" width="16" height="16"> [College Recruiter](https://www.collegerecruiter.com) - Job board specializing in entry-level positions and internships for college students and recent graduates.
+* <img src="https://www.google.com/s2/favicons?domain=losangeles.craigslist.org&sz=16" width="16" height="16"> [Craiglist](http://losangeles.craigslist.org) - Community classifieds platform with job postings, services, and local listings useful for regional OSINT research.
 * [CVFox](http://www.cvfox.com) - Job search aggregator pulling listings from multiple job boards and company career pages.
-* <img src="https://www.google.com/s2/favicons?domain=www.dice.com&sz=16" width="16" height="16"> [Dice](http://www.dice.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.eluta.ca&sz=16" width="16" height="16"> [Eluta (Canada)](http://www.eluta.ca)
-* <img src="https://www.google.com/s2/favicons?domain=www.eurojobs.com&sz=16" width="16" height="16"> [Eurojobs](https://www.eurojobs.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.dice.com&sz=16" width="16" height="16"> [Dice](http://www.dice.com) - Technology and engineering focused job board with listings for IT, software development, and technical positions.
+* <img src="https://www.google.com/s2/favicons?domain=www.eluta.ca&sz=16" width="16" height="16"> [Eluta (Canada)](http://www.eluta.ca) - Canadian job search engine indexing positions directly from employer websites across Canada.
+* <img src="https://www.google.com/s2/favicons?domain=www.eurojobs.com&sz=16" width="16" height="16"> [Eurojobs](https://www.eurojobs.com) - European job board aggregating employment opportunities across EU member countries and major European markets.
 * [Fish4Jobs](http://www.fish4.co.uk) - UK job search engine aggregating vacancies from regional newspapers and employers.
-* <img src="https://www.google.com/s2/favicons?domain=www.glassdoor.com&sz=16" width="16" height="16"> [Glassdoor](https://www.glassdoor.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.headhunter.com&sz=16" width="16" height="16"> [Headhunter](http://www.headhunter.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.glassdoor.com&sz=16" width="16" height="16"> [Glassdoor](https://www.glassdoor.com) - Company review platform where employees share salaries, interview experiences, and workplace insights anonymously.
+* <img src="https://www.google.com/s2/favicons?domain=www.headhunter.com&sz=16" width="16" height="16"> [Headhunter](http://www.headhunter.com) - Job search and recruitment platform connecting candidates with employers across multiple industries.
 * <img src="https://www.google.com/s2/favicons?domain=www.indeed.com&sz=16" width="16" height="16"> [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
-* <img src="https://www.google.com/s2/favicons?domain=www.jobs.pl&sz=16" width="16" height="16"> [Jobs (Poland)](http://www.jobs.pl)
-* <img src="https://www.google.com/s2/favicons?domain=www.jobsite.co.uk&sz=16" width="16" height="16"> [Jobsite (UK)](http://www.jobsite.co.uk)
-* <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=16" width="16" height="16"> [Linkedin](https://www.linkedin.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.monster.com&sz=16" width="16" height="16"> [Monster](http://www.monster.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.naukri.com&sz=16" width="16" height="16"> [Naukri (India)](http://www.naukri.com)
-* <img src="https://www.google.com/s2/favicons?domain=recruitin.net&sz=16" width="16" height="16"> [RecruitEm](https://recruitin.net/)
-* <img src="https://www.google.com/s2/favicons?domain=www.reed.co.uk&sz=16" width="16" height="16"> [Reed (UK)](http://www.reed.co.uk)
-* <img src="https://www.google.com/s2/favicons?domain=www.seek.com.au&sz=16" width="16" height="16"> [Seek (Australia)](http://www.seek.com.au)
-* <img src="https://www.google.com/s2/favicons?domain=www.simplyhired.com&sz=16" width="16" height="16"> [SimplyHired](http://www.simplyhired.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.ziprecruiter.com&sz=16" width="16" height="16"> [ZipRecruiter](https://www.ziprecruiter.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.jobs.pl&sz=16" width="16" height="16"> [Jobs (Poland)](http://www.jobs.pl) - Polish job board listing employment opportunities and company information for the Polish labor market.
+* <img src="https://www.google.com/s2/favicons?domain=www.jobsite.co.uk&sz=16" width="16" height="16"> [Jobsite (UK)](http://www.jobsite.co.uk) - UK-based job board with listings across multiple industries, offering CV upload and job alert features.
+* <img src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=16" width="16" height="16"> [Linkedin](https://www.linkedin.com) - Professional networking platform with over 900 million members, essential for people and company OSINT research.
+* <img src="https://www.google.com/s2/favicons?domain=www.monster.com&sz=16" width="16" height="16"> [Monster](http://www.monster.com) - Global employment website with job listings, resume services, and career advice across numerous industries and countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.naukri.com&sz=16" width="16" height="16"> [Naukri (India)](http://www.naukri.com) - India's largest job portal with millions of listings, useful for researching Indian companies and their hiring patterns.
+* <img src="https://www.google.com/s2/favicons?domain=recruitin.net&sz=16" width="16" height="16"> [RecruitEm](https://recruitin.net/) - Google X-Ray search generator that builds targeted Boolean queries to find profiles on LinkedIn, GitHub, and other platforms.
+* <img src="https://www.google.com/s2/favicons?domain=www.reed.co.uk&sz=16" width="16" height="16"> [Reed (UK)](http://www.reed.co.uk) - UK job board with listings across industries, offering salary data and company profiles for employment research.
+* <img src="https://www.google.com/s2/favicons?domain=www.seek.com.au&sz=16" width="16" height="16"> [Seek (Australia)](http://www.seek.com.au) - Australia and New Zealand's leading employment marketplace with job listings and company reviews.
+* <img src="https://www.google.com/s2/favicons?domain=www.simplyhired.com&sz=16" width="16" height="16"> [SimplyHired](http://www.simplyhired.com) - Job search engine aggregating millions of listings from job boards, company pages, and newspapers worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com) - European professional networking platform popular in German-speaking countries for career connections and company research.
+* <img src="https://www.google.com/s2/favicons?domain=www.ziprecruiter.com&sz=16" width="16" height="16"> [ZipRecruiter](https://www.ziprecruiter.com) - Online employment marketplace using AI matching to connect job seekers with relevant opportunities across industries.
 
 ## [↑](#-table-of-contents) ❓ Q&A Sites
 
-* <img src="https://www.google.com/s2/favicons?domain=www.answers.com&sz=16" width="16" height="16"> [Answers.com](http://www.answers.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.ask.com&sz=16" width="16" height="16"> [Ask](http://www.ask.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.ehow.com&sz=16" width="16" height="16"> [eHow](http://www.ehow.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.quora.com&sz=16" width="16" height="16"> [Quora](http://www.quora.com)
-* <img src="https://www.google.com/s2/favicons?domain=stackexchange.com&sz=16" width="16" height="16"> [StackExchange](http://stackexchange.com)
-* <img src="https://www.google.com/s2/favicons?domain=answers.yahoo.com&sz=16" width="16" height="16"> [Yahoo Answers](http://answers.yahoo.com)
-* <img src="https://www.google.com/s2/favicons?domain=otvet.mail.ru&sz=16" width="16" height="16"> [Ответы](https://otvet.mail.ru/)
+* <img src="https://www.google.com/s2/favicons?domain=www.answers.com&sz=16" width="16" height="16"> [Answers.com](http://www.answers.com) - General knowledge Q&A platform with user-generated answers across a wide range of topics.
+* <img src="https://www.google.com/s2/favicons?domain=www.ask.com&sz=16" width="16" height="16"> [Ask](http://www.ask.com) - Question-and-answer search engine providing direct answers and results from community-sourced responses.
+* <img src="https://www.google.com/s2/favicons?domain=www.ehow.com&sz=16" width="16" height="16"> [eHow](http://www.ehow.com) - How-to reference site with step-by-step instructional articles covering practical skills and everyday tasks.
+* <img src="https://www.google.com/s2/favicons?domain=www.quora.com&sz=16" width="16" height="16"> [Quora](http://www.quora.com) - Large Q&A platform where experts and professionals share knowledge, useful for identifying subject matter specialists.
+* <img src="https://www.google.com/s2/favicons?domain=stackexchange.com&sz=16" width="16" height="16"> [StackExchange](http://stackexchange.com) - Network of over 170 topic-specific Q&A communities covering technology, science, academia, and professional fields.
+* <img src="https://www.google.com/s2/favicons?domain=answers.yahoo.com&sz=16" width="16" height="16"> [Yahoo Answers](http://answers.yahoo.com) - Yahoo's community Q&A platform with archived user-generated questions and answers across diverse topics.
+* <img src="https://www.google.com/s2/favicons?domain=otvet.mail.ru&sz=16" width="16" height="16"> [Ответы](https://otvet.mail.ru/) - Russian-language Q&A platform by Mail.ru where users ask and answer questions across a wide range of topics.
 
 ## [↑](#-table-of-contents) 🖥️ Domain and IP Research
 
 * <img src="https://www.google.com/s2/favicons?domain=db.aa419.org&sz=16" width="16" height="16"> [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
-* <img src="https://www.google.com/s2/favicons?domain=www.accuranker.com&sz=16" width="16" height="16"> [Accuranker](https://www.accuranker.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.accuranker.com&sz=16" width="16" height="16"> [Accuranker](https://www.accuranker.com) - Enterprise rank tracking tool monitoring search engine keyword positions with daily updates and SERP feature analysis.
 * [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 * <img src="https://www.google.com/s2/favicons?domain=tenantresolution.pingcastle.com&sz=16" width="16" height="16"> [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 * [Bgpview.io](https://bgpview.io) - The website bgpview.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
-* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
+* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster) - Microsoft's webmaster toolkit providing site diagnostics, indexing data, and search performance insights for Bing.
 * <img src="https://www.google.com/s2/favicons?domain=www.browserling.com&sz=16" width="16" height="16"> [Browserling](https://www.browserling.com) - Browserling is an online sandbox that lets users safely test potentially malicious links across browsers and operating systems in real time.
 * <img src="https://www.google.com/s2/favicons?domain=builtwith.com&sz=16" width="16" height="16"> [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net) - Free online network intelligence tools including WHOIS, DNS, traceroute, and domain dossier.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
-* <img src="https://www.google.com/s2/favicons?domain=dedicatedornot.com&sz=16" width="16" height="16"> [Dedicated or Not](http://dedicatedornot.com)
-* <img src="https://www.google.com/s2/favicons?domain=completedns.com&sz=16" width="16" height="16"> [DNS History](https://completedns.com/dns-history/)
+* <img src="https://www.google.com/s2/favicons?domain=dedicatedornot.com&sz=16" width="16" height="16"> [Dedicated or Not](http://dedicatedornot.com) - Tool that checks whether a website uses dedicated or shared hosting and reveals co-hosted domains on the same server.
+* <img src="https://www.google.com/s2/favicons?domain=completedns.com&sz=16" width="16" height="16"> [DNS History](https://completedns.com/dns-history/) - Historical DNS record lookup service showing past A, MX, NS, and other DNS record changes for any domain.
 * <img src="https://www.google.com/s2/favicons?domain=dnsdumpster.com&sz=16" width="16" height="16"> [DNSDumpster](https://dnsdumpster.com) - is a website that will help you discover hosts related to a specific domain.
-* <img src="https://www.google.com/s2/favicons?domain=www.dnsstuff.com&sz=16" width="16" height="16"> [DNSStuff](http://www.dnsstuff.com)
-* <img src="https://www.google.com/s2/favicons?domain=dnsviz.net&sz=16" width="16" height="16"> [DNSViz](http://dnsviz.net)
-* <img src="https://www.google.com/s2/favicons?domain=www.domaincrawler.com&sz=16" width="16" height="16"> [Domain Crawler](http://www.domaincrawler.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.dnsstuff.com&sz=16" width="16" height="16"> [DNSStuff](http://www.dnsstuff.com) - Network diagnostic and DNS lookup toolkit providing detailed domain, IP, and mail server troubleshooting information.
+* <img src="https://www.google.com/s2/favicons?domain=dnsviz.net&sz=16" width="16" height="16"> [DNSViz](http://dnsviz.net) - DNS analysis and visualization tool that maps DNSSEC authentication chains and identifies configuration errors.
+* <img src="https://www.google.com/s2/favicons?domain=www.domaincrawler.com&sz=16" width="16" height="16"> [Domain Crawler](http://www.domaincrawler.com) - Searches a database of over 1.4 billion domains with historical WHOIS, DNS, and SSL records for digital investigations.
 * [Domain Dossier](http://centralops.net/co/DomainDossier.aspx) - Generates detailed reports on domain registration, DNS records, network WHOIS, and service scans.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
 * [Easy whois](https://www.easywhois.com) - Simple WHOIS lookup tool for domain registration details and availability checks.
 * <img src="https://www.google.com/s2/favicons?domain=exonerator.torproject.org&sz=16" width="16" height="16"> [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * <img src="https://www.google.com/s2/favicons?domain=focsec.com&sz=16" width="16" height="16"> [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
-* <img src="https://www.google.com/s2/favicons?domain=follow.net&sz=16" width="16" height="16"> [Follow.net](http://follow.net)
+* <img src="https://www.google.com/s2/favicons?domain=follow.net&sz=16" width="16" height="16"> [Follow.net](http://follow.net) - Provides website traffic estimates, audience demographics, and competitive analytics for any domain.
 * <img src="https://www.google.com/s2/favicons?domain=fullhunt.io&sz=16" width="16" height="16"> [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
-* <img src="https://www.google.com/s2/favicons?domain=app.graphystories.com&sz=16" width="16" height="16"> [GraphyStories](http://app.graphystories.com)
+* <img src="https://www.google.com/s2/favicons?domain=app.graphystories.com&sz=16" width="16" height="16"> [GraphyStories](http://app.graphystories.com) - Monitors social media performance of web content and predicts which articles are about to go viral.
 * <img src="https://www.google.com/s2/favicons?domain=www.hudsonrock.com&sz=16" width="16" height="16"> [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 * <img src="https://www.google.com/s2/favicons?domain=www.hybrid-analysis.com&sz=16" width="16" height="16"> [Hybrid Analysis](https://www.hybrid-analysis.com) - Online service for detailed and free analysis of suspicious files and URLs.
-* <img src="https://www.google.com/s2/favicons?domain=www.hypestat.com&sz=16" width="16" height="16"> [HypeStat](https://www.hypestat.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.hypestat.com&sz=16" width="16" height="16"> [HypeStat](https://www.hypestat.com) - Displays website traffic estimates, hosting details, DNS records, and SEO metrics for any domain.
 * <img src="https://www.google.com/s2/favicons?domain=lookup.icann.org&sz=16" width="16" height="16"> [Icann Lookup](https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
-* <img src="https://www.google.com/s2/favicons?domain=www.infosniper.net&sz=16" width="16" height="16"> [Infosniper](http://www.infosniper.net)
+* <img src="https://www.google.com/s2/favicons?domain=www.infosniper.net&sz=16" width="16" height="16"> [Infosniper](http://www.infosniper.net) - Maps IP addresses to geographic locations with city, ISP, timezone, and coordinate data on an interactive map.
 * <img src="https://www.google.com/s2/favicons?domain=ismalicious.com&sz=16" width="16" height="16"> [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
-* <img src="https://www.google.com/s2/favicons?domain=www.intodns.com&sz=16" width="16" height="16"> [intoDNS](http://www.intodns.com)
-* <img src="https://www.google.com/s2/favicons?domain=ip2geolocation.com&sz=16" width="16" height="16"> [IP 2 Geolocation](http://ip2geolocation.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.ip2location.com&sz=16" width="16" height="16"> [IP 2 Location](http://www.ip2location.com/demo.aspx)
+* <img src="https://www.google.com/s2/favicons?domain=www.intodns.com&sz=16" width="16" height="16"> [intoDNS](http://www.intodns.com) - Checks DNS server health and configuration, reporting delegation issues and mail server setup problems.
+* <img src="https://www.google.com/s2/favicons?domain=ip2geolocation.com&sz=16" width="16" height="16"> [IP 2 Geolocation](http://ip2geolocation.com) - Converts IP addresses to approximate geographic locations including country, city, and coordinates.
+* <img src="https://www.google.com/s2/favicons?domain=www.ip2location.com&sz=16" width="16" height="16"> [IP 2 Location](http://www.ip2location.com/demo.aspx) - Geolocates IP addresses with city-level accuracy and provides ISP, domain, and proxy detection data.
 * <img src="https://www.google.com/s2/favicons?domain=db-ip.com&sz=16" width="16" height="16"> [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
-* <img src="https://www.google.com/s2/favicons?domain=www.ipchecking.com&sz=16" width="16" height="16"> [IP Checking](http://www.ipchecking.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.ipchecking.com&sz=16" width="16" height="16"> [IP Checking](http://www.ipchecking.com) - Performs IP address lookups showing geolocation, hostname, ISP, and network information.
 * <img src="https://www.google.com/s2/favicons?domain=www.iplocation.net&sz=16" width="16" height="16"> [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
 * <img src="https://www.google.com/s2/favicons?domain=iplocation.io&sz=16" width="16" height="16"> [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
 * <img src="https://www.google.com/s2/favicons?domain=www.ipfingerprints.com&sz=16" width="16" height="16"> [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 * <img src="https://www.google.com/s2/favicons?domain=www.ipvoid.com&sz=16" width="16" height="16"> [IPVoid](http://www.ipvoid.com) - IP address toolset.
 * <img src="https://www.google.com/s2/favicons?domain=www.isp.tools&sz=16" width="16" height="16"> [ISP.Tools](https://www.isp.tools) - Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.
-* <img src="https://www.google.com/s2/favicons?domain=www.kloth.net&sz=16" width="16" height="16"> [Kloth](http://www.kloth.net/services)
+* <img src="https://www.google.com/s2/favicons?domain=www.kloth.net&sz=16" width="16" height="16"> [Kloth](http://www.kloth.net/services) - Provides online DNS lookup, dig, ping, traceroute, and whois tools for network reconnaissance.
 * <img src="https://www.google.com/s2/favicons?domain=majestic.com&sz=16" width="16" height="16"> [Majestic](https://majestic.com) - Find out who links to your website.
 * [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
-* <img src="https://www.google.com/s2/favicons?domain=www.maxmind.com&sz=16" width="16" height="16"> [MaxMind](https://www.maxmind.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.maxmind.com&sz=16" width="16" height="16"> [MaxMind](https://www.maxmind.com) - Industry-standard IP geolocation and online fraud detection database used by thousands of companies worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=metadefender.com&sz=16" width="16" height="16"> [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
 * <img src="https://www.google.com/s2/favicons?domain=toolbar.netcraft.com&sz=16" width="16" height="16"> [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
-* <img src="https://www.google.com/s2/favicons?domain=www.openlinkprofiler.org&sz=16" width="16" height="16"> [OpenLinkProfiler](http://www.openlinkprofiler.org/)
+* <img src="https://www.google.com/s2/favicons?domain=www.openlinkprofiler.org&sz=16" width="16" height="16"> [OpenLinkProfiler](http://www.openlinkprofiler.org/) - Analyzes backlink profiles for any website showing link sources, anchor text, and link freshness for free.
 * [PageGlimpse](http://www.pageglimpse.com) - Website preview and thumbnail service providing snapshots of any URL.
 * <img src="https://www.google.com/s2/favicons?domain=pentest-tools.com&sz=16" width="16" height="16"> [Pentest-Tools.com](https://pentest-tools.com/information-gathering/google-hacking) - uses advanced search operators (Google Dorks) to find juicy information about target websites.
-* <img src="https://www.google.com/s2/favicons?domain=phishstats.info&sz=16" width="16" height="16"> [PhishStats](https://phishstats.info/)
-* <img src="https://www.google.com/s2/favicons?domain=pulsedive.com&sz=16" width="16" height="16"> [Pulsedive](https://pulsedive.com)
+* <img src="https://www.google.com/s2/favicons?domain=phishstats.info&sz=16" width="16" height="16"> [PhishStats](https://phishstats.info/) - Aggregates and indexes phishing URLs, IPs, and domains from multiple threat feeds for security research.
+* <img src="https://www.google.com/s2/favicons?domain=pulsedive.com&sz=16" width="16" height="16"> [Pulsedive](https://pulsedive.com) - Community-driven threat intelligence platform that enriches indicators of compromise with risk scoring and context.
 * <img src="https://www.google.com/s2/favicons?domain=www.ssllabs.com&sz=16" width="16" height="16"> [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
-* <img src="https://www.google.com/s2/favicons?domain=www.quantcast.com&sz=16" width="16" height="16"> [Quantcast](https://www.quantcast.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.quicksprout.com&sz=16" width="16" height="16"> [Quick Sprout](https://www.quicksprout.com)
-* <img src="https://www.google.com/s2/favicons?domain=redirectdetective.com&sz=16" width="16" height="16"> [RedirectDetective](http://redirectdetective.com)
-* <img src="https://www.google.com/s2/favicons?domain=remote.12dt.com&sz=16" width="16" height="16"> [Remote DNS Lookup](https://remote.12dt.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.quantcast.com&sz=16" width="16" height="16"> [Quantcast](https://www.quantcast.com) - Measures website audience reach and demographics using direct traffic measurement across millions of sites.
+* <img src="https://www.google.com/s2/favicons?domain=www.quicksprout.com&sz=16" width="16" height="16"> [Quick Sprout](https://www.quicksprout.com) - Analyzes websites for SEO performance, content suggestions, and competitive benchmarking insights.
+* <img src="https://www.google.com/s2/favicons?domain=redirectdetective.com&sz=16" width="16" height="16"> [RedirectDetective](http://redirectdetective.com) - Traces the complete redirect chain of any URL, revealing intermediate hops and final destination endpoints.
+* <img src="https://www.google.com/s2/favicons?domain=remote.12dt.com&sz=16" width="16" height="16"> [Remote DNS Lookup](https://remote.12dt.com) - Performs DNS lookups from a remote server, useful for verifying DNS propagation and detecting DNS-based blocking.
 * <img src="https://www.google.com/s2/favicons?domain=www.robtex.com&sz=16" width="16" height="16"> [Robtex](https://www.robtex.com) - is an IP address and domain name based researching websites that offers multiple services such as Reverse DNS Lookup, Whois, and AS Macros.
-* <img src="https://www.google.com/s2/favicons?domain=sameid.net&sz=16" width="16" height="16"> [SameID](http://sameid.net)
+* <img src="https://www.google.com/s2/favicons?domain=sameid.net&sz=16" width="16" height="16"> [SameID](http://sameid.net) - Finds websites sharing the same analytics tracking IDs or affiliate codes to uncover hidden ownership connections.
 * <img src="https://www.google.com/s2/favicons?domain=securitytrails.com&sz=16" width="16" height="16"> [SecurityTrails](https://securitytrails.com/dns-trails) - API to search current and historical DNS records, current and historical WHOIS, technologies used by sites and whois search for phone, email, address, IPs etc.
 * <img src="https://www.google.com/s2/favicons?domain=subdomainradar.io&sz=16" width="16" height="16"> [SubDomainRadar.io](https://subdomainradar.io) - Fast subdomain finder with multiple search modes and the most extensive data sources, offering real-time notifications.
-* <img src="https://www.google.com/s2/favicons?domain=www.semrush.com&sz=16" width="16" height="16"> [SEMrush](https://www.semrush.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.semrush.com&sz=16" width="16" height="16"> [SEMrush](https://www.semrush.com) - Comprehensive SEO and competitive research platform providing keyword data, backlinks, traffic analytics, and domain comparisons.
 * [SEO Chat Tools](http://tools.seochat.com) - Collection of free SEO tools for backlink checking, keyword analysis, and domain research.
-* <img src="https://www.google.com/s2/favicons?domain=seotoolsforexcel.com&sz=16" width="16" height="16"> [SEOTools for Excel](http://seotoolsforexcel.com)
+* <img src="https://www.google.com/s2/favicons?domain=seotoolsforexcel.com&sz=16" width="16" height="16"> [SEOTools for Excel](http://seotoolsforexcel.com) - Excel plugin that pulls SEO metrics, backlinks, and ranking data directly into spreadsheets for bulk domain analysis.
 * <img src="https://www.google.com/s2/favicons?domain=www.similarweb.com&sz=16" width="16" height="16"> [Similar Web](https://www.similarweb.com) - Compare any website traffic statistics & analytics.
-* <img src="https://www.google.com/s2/favicons?domain=smallseotools.com&sz=16" width="16" height="16"> [SmallSEOTools](http://smallseotools.com)
+* <img src="https://www.google.com/s2/favicons?domain=smallseotools.com&sz=16" width="16" height="16"> [SmallSEOTools](http://smallseotools.com) - Collection of free SEO utilities including plagiarism checker, backlink analysis, keyword tools, and domain authority checks.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Squatm3gator](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
-* <img src="https://www.google.com/s2/favicons?domain=www.statscrop.com&sz=16" width="16" height="16"> [StatsCrop](http://www.statscrop.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.statscrop.com&sz=16" width="16" height="16"> [StatsCrop](http://www.statscrop.com) - Free website analyzer that reports traffic trends, ranking, keywords, backlinks, and technology stack for any domain.
 * [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [TracerouteVisualizer](https://kriztalz.sh/traceroute-visualizer/) - An online tool that displays your mtr / traceroute / flyingroutes output on a map for visual analysis.
 * <img src="https://www.google.com/s2/favicons?domain=urldna.io&sz=16" width="16" height="16"> [urlDNA](https://urldna.io/) -  Unleash website insights! urldna.io analyzes url, monitors brands and track phishing sites.
 * <img src="https://www.google.com/s2/favicons?domain=urlhaus.abuse.ch&sz=16" width="16" height="16"> [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
-* <img src="https://www.google.com/s2/favicons?domain=urlquery.net&sz=16" width="16" height="16"> [urlQuery](http://urlquery.net)
+* <img src="https://www.google.com/s2/favicons?domain=urlquery.net&sz=16" width="16" height="16"> [urlQuery](http://urlquery.net) - Scans URLs for malicious content, suspicious scripts, and blacklist status to detect phishing and malware threats.
 * <img src="https://www.google.com/s2/favicons?domain=urlscan.io&sz=16" width="16" height="16"> [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 * <img src="https://www.google.com/s2/favicons?domain=www.urlvoid.com&sz=16" width="16" height="16"> [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
 * [Validin](https://app.validin.com/) - Website and API to search current and historical DNS records for free
 * [Verisign](http://dnssec-debugger.verisignlabs.com) - DNSSEC debugger that checks the chain of trust from root to a specific domain.
-* <img src="https://www.google.com/s2/favicons?domain=viewdns.info&sz=16" width="16" height="16"> [ViewDNS.info](http://viewdns.info)
+* <img src="https://www.google.com/s2/favicons?domain=viewdns.info&sz=16" width="16" height="16"> [ViewDNS.info](http://viewdns.info) - Suite of free DNS and domain tools including reverse IP lookup, WHOIS, port scanning, and DNS record queries.
 * <img src="https://www.google.com/s2/favicons?domain=www.virustotal.com&sz=16" width="16" height="16"> [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
 * <img src="https://www.google.com/s2/favicons?domain=webboar.com.w3snoop.com&sz=16" width="16" height="16"> [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 * <img src="https://www.google.com/s2/favicons?domain=web-check.as93.net&sz=16" width="16" height="16"> [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
 * <img src="https://www.google.com/s2/favicons?domain=webmeup.com&sz=16" width="16" height="16"> [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 * [Webscore](https://garvit835.github.io/WebScore/) - Enter a website URL to check its legitimacy.
 * <img src="https://www.google.com/s2/favicons?domain=webscout.io&sz=16" width="16" height="16"> [Webscout](https://webscout.io/)  - A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains.
-* <img src="https://www.google.com/s2/favicons?domain=website.informer.com&sz=16" width="16" height="16"> [Website Informer](http://website.informer.com)
+* <img src="https://www.google.com/s2/favicons?domain=website.informer.com&sz=16" width="16" height="16"> [Website Informer](http://website.informer.com) - Provides website ownership details, traffic statistics, server information, and related domain data.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [WebsiteTechMiner.py](https://github.com/cybersader/WebsiteTechMiner-py) - automates gathering website profiling data into a CSV from the "BuiltWith" or "Wappalyzer" API for tech stack information, technographic data, website reports, website tech lookups, website architecture lookups, etc.
-* <img src="https://www.google.com/s2/favicons?domain=whatismyipaddress.com&sz=16" width="16" height="16"> [WhatIsMyIPAddress](http://whatismyipaddress.com)
+* <img src="https://www.google.com/s2/favicons?domain=whatismyipaddress.com&sz=16" width="16" height="16"> [WhatIsMyIPAddress](http://whatismyipaddress.com) - Looks up IP address geolocation, ISP details, and proxy detection with tools for email tracing and network diagnostics.
 * <img src="https://www.google.com/s2/favicons?domain=who.is&sz=16" width="16" height="16"> [Who.is](https://who.is/) - Domain whois information.
 * [Whois Arin Online](https://whois.arin.net) - is a web service for Whois data contained within ARIN's registration database
-* <img src="https://www.google.com/s2/favicons?domain=www.whoishostingthis.com&sz=16" width="16" height="16"> [WhoIsHostingThis](http://www.whoishostingthis.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.whoismind.com&sz=16" width="16" height="16"> [WhoisMind](http://www.whoismind.com)
-* <img src="https://www.google.com/s2/favicons?domain=whoisology.com&sz=16" width="16" height="16"> [Whoisology](https://whoisology.com)
-* <img src="https://www.google.com/s2/favicons?domain=whoisrequest.com&sz=16" width="16" height="16"> [WhoIsRequest](http://whoisrequest.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.whoishostingthis.com&sz=16" width="16" height="16"> [WhoIsHostingThis](http://www.whoishostingthis.com) - Identifies the web hosting provider for any domain by checking IP address ownership and server records.
+* <img src="https://www.google.com/s2/favicons?domain=www.whoismind.com&sz=16" width="16" height="16"> [WhoisMind](http://www.whoismind.com) - Reverse WHOIS search engine that finds domains by registrant name or email with historical ownership records.
+* <img src="https://www.google.com/s2/favicons?domain=whoisology.com&sz=16" width="16" height="16"> [Whoisology](https://whoisology.com) - Links related domains through shared WHOIS registration details, revealing domain ownership networks and portfolios.
+* <img src="https://www.google.com/s2/favicons?domain=whoisrequest.com&sz=16" width="16" height="16"> [WhoIsRequest](http://whoisrequest.com) - Performs WHOIS lookups and reverse searches to identify domain registration details and ownership history.
 * <img src="https://www.google.com/s2/favicons?domain=wigle.net&sz=16" width="16" height="16"> [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
-* <img src="https://www.google.com/s2/favicons?domain=www.yougetsignal.com&sz=16" width="16" height="16"> [You Get Signal](http://www.yougetsignal.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.yougetsignal.com&sz=16" width="16" height="16"> [You Get Signal](http://www.yougetsignal.com) - Network diagnostic toolkit offering reverse IP lookup, port forwarding tests, and visual traceroute mapping.
 
 ## [↑](#-table-of-contents) 🔑 Keywords Discovery and Research
 
 * <img src="https://www.google.com/s2/favicons?domain=adwords.google.com&sz=16" width="16" height="16"> [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
 * <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
-* <img src="https://www.google.com/s2/favicons?domain=www.keyworddiscovery.com&sz=16" width="16" height="16"> [Keyword Discovery](http://www.keyworddiscovery.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.keywordspy.com&sz=16" width="16" height="16"> [Keyword Spy](http://www.keywordspy.com)
-* <img src="https://www.google.com/s2/favicons?domain=keywordtool.io&sz=16" width="16" height="16"> [KeywordTool](http://keywordtool.io)
-* <img src="https://www.google.com/s2/favicons?domain=www.onelook.com&sz=16" width="16" height="16"> [One Look Reverse Dictionary](http://www.onelook.com/reverse-dictionary.shtml)
-* <img src="https://www.google.com/s2/favicons?domain=www.soovle.com&sz=16" width="16" height="16"> [Soovle](http://www.soovle.com)
-* <img src="https://www.google.com/s2/favicons?domain=ubersuggest.org&sz=16" width="16" height="16"> [Ubersuggest](http://ubersuggest.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.wordtracker.com&sz=16" width="16" height="16"> [Word Tracker](https://www.wordtracker.com)
-* <img src="https://www.google.com/s2/favicons?domain=wordstat.yandex.com&sz=16" width="16" height="16"> [Yandex Wordstat](https://wordstat.yandex.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.keyworddiscovery.com&sz=16" width="16" height="16"> [Keyword Discovery](http://www.keyworddiscovery.com) - Discovers high-value keywords by analyzing search engine query data, trends, and competitive keyword metrics.
+* <img src="https://www.google.com/s2/favicons?domain=www.keywordspy.com&sz=16" width="16" height="16"> [Keyword Spy](http://www.keywordspy.com) - Monitors competitors' keyword strategies across organic and paid search, revealing ad copy and landing pages.
+* <img src="https://www.google.com/s2/favicons?domain=keywordtool.io&sz=16" width="16" height="16"> [KeywordTool](http://keywordtool.io) - Generates long-tail keyword suggestions from Google, YouTube, Bing, and other platforms using autocomplete data.
+* <img src="https://www.google.com/s2/favicons?domain=www.onelook.com&sz=16" width="16" height="16"> [One Look Reverse Dictionary](http://www.onelook.com/reverse-dictionary.shtml) - Finds words and phrases from their definitions, letting you describe a concept and discover matching terminology.
+* <img src="https://www.google.com/s2/favicons?domain=www.soovle.com&sz=16" width="16" height="16"> [Soovle](http://www.soovle.com) - Aggregates autocomplete suggestions from Google, Bing, Yahoo, YouTube, and Amazon on a single page.
+* <img src="https://www.google.com/s2/favicons?domain=ubersuggest.org&sz=16" width="16" height="16"> [Ubersuggest](http://ubersuggest.org) - Generates keyword ideas with search volume, competition scores, and content suggestions from any seed keyword.
+* <img src="https://www.google.com/s2/favicons?domain=www.wordtracker.com&sz=16" width="16" height="16"> [Word Tracker](https://www.wordtracker.com) - Reveals profitable keywords with search volumes, competition data, and PPC insights for market research.
+* <img src="https://www.google.com/s2/favicons?domain=wordstat.yandex.com&sz=16" width="16" height="16"> [Yandex Wordstat](https://wordstat.yandex.com) - Shows search query popularity and trends across Yandex, the dominant search engine in Russia and CIS countries.
 
 ## [↑](#-table-of-contents) ⏳ Web History and Website Capture
 
 * <img src="https://www.google.com/s2/favicons?domain=archive.is&sz=16" width="16" height="16"> [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
-* <img src="https://www.google.com/s2/favicons?domain=softbytelabs.com&sz=16" width="16" height="16"> [BlackWidow](http://softbytelabs.com/wp/blackwidow/)
-* <img src="https://www.google.com/s2/favicons?domain=www.cachedpages.com&sz=16" width="16" height="16"> [CashedPages](http://www.cachedpages.com)
+* <img src="https://www.google.com/s2/favicons?domain=softbytelabs.com&sz=16" width="16" height="16"> [BlackWidow](http://softbytelabs.com/wp/blackwidow/) - Website crawler that maps site structure, extracts emails, finds downloadable files, and identifies broken links.
+* <img src="https://www.google.com/s2/favicons?domain=www.cachedpages.com&sz=16" width="16" height="16"> [CashedPages](http://www.cachedpages.com) - Retrieves cached versions of web pages from Google, Wayback Machine, and other cache sources in one interface.
 * [CachedView](http://cachedview.com) - View cached versions of any webpage from Google, Bing, and the Wayback Machine.
-* <img src="https://www.google.com/s2/favicons?domain=stored.website&sz=16" width="16" height="16"> [stored.website](https://stored.website)
+* <img src="https://www.google.com/s2/favicons?domain=stored.website&sz=16" width="16" height="16"> [stored.website](https://stored.website) - Accesses stored snapshots of websites from the Wayback Machine to view historical versions of web pages.
 * <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Wayback Machine Archiver](https://github.com/jsvine/waybackpack)
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Wayback Machine Archiver](https://github.com/jsvine/waybackpack) - Command-line tool that downloads the entire Wayback Machine archive history for any given URL.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
 ## [↑](#-table-of-contents) 🗣️ Language Tools
@@ -1101,55 +1101,55 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) 🖼️ Image Search
 
-* <img src="https://www.google.com/s2/favicons?domain=image.baidu.com&sz=16" width="16" height="16"> [Baidu Images](https://image.baidu.com)
+* <img src="https://www.google.com/s2/favicons?domain=image.baidu.com&sz=16" width="16" height="16"> [Baidu Images](https://image.baidu.com) - Chinese search engine image search useful for finding visual content indexed primarily from Asian web sources.
 * [Betaface](https://www.betaface.com/demo.html) - Face detection and recognition API that analyzes age, gender, ethnicity, and facial features.
-* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Images](https://www.bing.com/images)
-* <img src="https://www.google.com/s2/favicons?domain=clarify.io&sz=16" width="16" height="16"> [Clarify](https://clarify.io)
+* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Images](https://www.bing.com/images) - Microsoft's image search engine with visual search, filtering by license, and reverse image lookup capabilities.
+* <img src="https://www.google.com/s2/favicons?domain=clarify.io&sz=16" width="16" height="16"> [Clarify](https://clarify.io) - AI-powered media analysis API that extracts searchable metadata from images, audio, and video content.
 * <img src="https://www.google.com/s2/favicons?domain=www.duplichecker.com&sz=16" width="16" height="16"> [Dupli Checker](https://www.duplichecker.com/reverse-image-search.php) - You can search for an image by uploading + with URL or typing the keyword or any word you want to explore related to images.
 * <img src="https://www.google.com/s2/favicons?domain=facecheck.id&sz=16" width="16" height="16"> [FaceCheck.ID](https://facecheck.id) - Facial recognition search engine.
 * [Faceagle](https://faceagle.com/) - Face recognition search engine that finds matching faces across social media and public databases.
-* <img src="https://www.google.com/s2/favicons?domain=flickr.com&sz=16" width="16" height="16"> [Flickr](https://flickr.com/search/)
+* <img src="https://www.google.com/s2/favicons?domain=flickr.com&sz=16" width="16" height="16"> [Flickr](https://flickr.com/search/) - Searches billions of photos with filters for license type, date, and location, useful for geolocating imagery.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [GeoSpyer](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
-* <img src="https://www.google.com/s2/favicons?domain=images.google.com&sz=16" width="16" height="16"> [Google Image](https://images.google.com)
-* <img src="https://www.google.com/s2/favicons?domain=lens.google.com&sz=16" width="16" height="16"> [Google Lens](https://lens.google.com/)
-* <img src="https://www.google.com/s2/favicons?domain=www.imageidentify.com&sz=16" width="16" height="16"> [Image Identification Project](https://www.imageidentify.com)
+* <img src="https://www.google.com/s2/favicons?domain=images.google.com&sz=16" width="16" height="16"> [Google Image](https://images.google.com) - Google's image search with reverse image lookup to find visually similar images and trace image origins.
+* <img src="https://www.google.com/s2/favicons?domain=lens.google.com&sz=16" width="16" height="16"> [Google Lens](https://lens.google.com/) - Visual search tool that identifies objects, text, landmarks, and products from any image or camera input.
+* <img src="https://www.google.com/s2/favicons?domain=www.imageidentify.com&sz=16" width="16" height="16"> [Image Identification Project](https://www.imageidentify.com) - Wolfram-powered AI tool that identifies objects, animals, and scenes in uploaded images using deep learning.
 * [Image Raider](https://www.imageraider.com) - is our reverse image search tool for completing individual searches. When you upload an image to this page, we'll scour the internet to find its source and all of the other pages where it has been posted.
 * <img src="https://www.google.com/s2/favicons?domain=kartavision.com&sz=16" width="16" height="16"> [KartaVision](https://kartavision.com/) - search engine for KartaView imagery. It supports natural-language search and search by image
 * <img src="https://www.google.com/s2/favicons?domain=lenso.ai&sz=16" width="16" height="16"> [Lenso.ai](https://lenso.ai) - Reverse image search tool with facial recognition, created for finding people, similar images, copies of photos, identical places and more.
-* <img src="https://www.google.com/s2/favicons?domain=search.lycos.com&sz=16" width="16" height="16"> [Lycos Image Search](https://search.lycos.com)
-* <img src="https://www.google.com/s2/favicons?domain=photobucket.com&sz=16" width="16" height="16"> [PhotoBucket](https://photobucket.com)
+* <img src="https://www.google.com/s2/favicons?domain=search.lycos.com&sz=16" width="16" height="16"> [Lycos Image Search](https://search.lycos.com) - Web image search engine by Lycos that indexes photos and graphics across the internet.
+* <img src="https://www.google.com/s2/favicons?domain=photobucket.com&sz=16" width="16" height="16"> [PhotoBucket](https://photobucket.com) - Image hosting and sharing platform where users upload photos, useful for finding publicly shared images.
 * <img src="https://www.google.com/s2/favicons?domain=www.pictriev.com&sz=16" width="16" height="16"> [PicTriev](http://www.pictriev.com) - a face search engine.
 * <img src="https://www.google.com/s2/favicons?domain=pimeyes.com&sz=16" width="16" height="16"> [PimEyes](https://pimeyes.com) - an online face search engine that goes through the Internet to find pictures containing given faces.
 * <img src="https://www.google.com/s2/favicons?domain=www.pixsy.com&sz=16" width="16" height="16"> [Pixsy](https://www.pixsy.com/) - Take back control of your images. See where & how your images are being used online!
 * <img src="https://www.google.com/s2/favicons?domain=search4faces.com&sz=16" width="16" height="16"> [Search4faces](https://search4faces.com/) - a service for searching people on the Internet by photo.
 * <img src="https://www.google.com/s2/favicons?domain=surfface.com&sz=16" width="16" height="16"> [Surfface](https://surfface.com) - face search and people finder indexing social profiles and public images from social media and the web.
 * <img src="https://www.google.com/s2/favicons?domain=tineye.com&sz=16" width="16" height="16"> [TinEye](https://tineye.com) - Reverse image search engine.
-* <img src="https://www.google.com/s2/favicons?domain=images.search.yahoo.com&sz=16" width="16" height="16"> [Yahoo Image Search](https://images.search.yahoo.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.yandex.com&sz=16" width="16" height="16"> [Yandex Images](https://www.yandex.com/images)
+* <img src="https://www.google.com/s2/favicons?domain=images.search.yahoo.com&sz=16" width="16" height="16"> [Yahoo Image Search](https://images.search.yahoo.com) - Yahoo's image search engine for finding photos and graphics across the web with filtering options.
+* <img src="https://www.google.com/s2/favicons?domain=www.yandex.com&sz=16" width="16" height="16"> [Yandex Images](https://www.yandex.com/images) - Russian search engine's image search with powerful reverse image lookup and visual similarity matching.
 
 ## [↑](#-table-of-contents) 🔬 Image Analysis
 
-* <img src="https://www.google.com/s2/favicons?domain=www.diffchecker.com&sz=16" width="16" height="16"> [DiffChecker](https://www.diffchecker.com/image-diff/)
+* <img src="https://www.google.com/s2/favicons?domain=www.diffchecker.com&sz=16" width="16" height="16"> [DiffChecker](https://www.diffchecker.com/image-diff/) - Online tool that compares two images side by side and highlights pixel-level differences between them.
 * <img src="https://www.google.com/s2/favicons?domain=exifeditor.io&sz=16" width="16" height="16"> [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [ExifLooter](https://github.com/aydinnyunus/exiflooter)
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [ExifLooter](https://github.com/aydinnyunus/exiflooter) - Go-based CLI tool that extracts EXIF geolocation data from images and generates OpenStreetMap links.
 * [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool) - Industry-standard Perl tool for reading, writing, and editing metadata in images, video, and documents.
-* <img src="https://www.google.com/s2/favicons?domain=29a.ch&sz=16" width="16" height="16"> [Forensically](https://29a.ch/photo-forensics/)
+* <img src="https://www.google.com/s2/favicons?domain=29a.ch&sz=16" width="16" height="16"> [Forensically](https://29a.ch/photo-forensics/) - Free browser-based image forensics toolkit offering error level analysis, clone detection, and metadata extraction.
 * [FotoForensics](http://www.fotoforensics.com) - Image forensics tool using Error Level Analysis (ELA) to detect manipulated or doctored photos.
 * <img src="https://www.google.com/s2/favicons?domain=geospy.web.app&sz=16" width="16" height="16"> [GeoSpy](https://geospy.web.app/) - AI based image osint tool
 * [ImgOps](https://imgops.com/) - Image operations hub linking to reverse searches, EXIF viewers, editors, and forensic tools for any image URL.
-* <img src="https://www.google.com/s2/favicons?domain=www.impulseadventure.com&sz=16" width="16" height="16"> [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)
+* <img src="https://www.google.com/s2/favicons?domain=www.impulseadventure.com&sz=16" width="16" height="16"> [ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html) - Website hosting JPEGsnoop, a detailed JPEG decoder that reveals compression signatures and editing history.
 * [Jeffreys Image Metadata Viewer](http://exif.regex.info/) - Online EXIF viewer that extracts and displays all metadata embedded in uploaded images.
 * <img src="https://www.google.com/s2/favicons?domain=jimpl.com&sz=16" width="16" height="16"> [JIMPL](https://jimpl.com/) - Online EXIF data viewer
-* <img src="https://www.google.com/s2/favicons?domain=sourceforge.net&sz=16" width="16" height="16"> [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)
+* <img src="https://www.google.com/s2/favicons?domain=sourceforge.net&sz=16" width="16" height="16"> [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop) - Windows JPEG analysis utility that detects image tampering by examining metadata and compression signatures.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * <img src="https://www.google.com/s2/favicons?domain=profileimageintel.com&sz=16" width="16" height="16"> [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 
 ## [↑](#-table-of-contents) 🎥 Video Search and Other Video Tools
 
-* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Videos](http://www.bing.com/?scope=video)
-* <img src="https://www.google.com/s2/favicons?domain=clarify.io&sz=16" width="16" height="16"> [Clarify](http://clarify.io)
-* <img src="https://www.google.com/s2/favicons?domain=www.clipblast.com&sz=16" width="16" height="16"> [Clip Blast](http://www.clipblast.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=16" width="16" height="16"> [DailyMotion](http://www.dailymotion.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Videos](http://www.bing.com/?scope=video) - Bing's dedicated video search engine for finding and previewing videos across the web.
+* <img src="https://www.google.com/s2/favicons?domain=clarify.io&sz=16" width="16" height="16"> [Clarify](http://clarify.io) - API platform that makes audio and video content searchable by converting speech to indexed text.
+* <img src="https://www.google.com/s2/favicons?domain=www.clipblast.com&sz=16" width="16" height="16"> [Clip Blast](http://www.clipblast.com) - Meta-search engine that crawls and indexes video content across multiple video hosting platforms simultaneously.
+* <img src="https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=16" width="16" height="16"> [DailyMotion](http://www.dailymotion.com) - Major video sharing platform and search engine, useful for discovering user-uploaded video content worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=deturl.com&sz=16" width="16" height="16"> [Deturl](http://deturl.com) - Download a YouTube video from any web page.
 * <img src="https://www.google.com/s2/favicons?domain=www.downloadhelper.net&sz=16" width="16" height="16"> [DownloadHelper](http://www.downloadhelper.net) - Download any video from any websites, it just works!
 * <img src="https://www.google.com/s2/favicons?domain=www.earthcam.com&sz=16" width="16" height="16"> [Earthcam](http://www.earthcam.com) - EarthCam is the leading network of live streaming webcams for tourism and entertainment.
@@ -1158,514 +1158,514 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [Frame by Frame](https://chrome.google.com/webstore/detail/frame-by-frame/cclnaabdfgnehogonpeddbgejclcjneh/) - Browser plugin that allows you to watch YouTube videos frame by frame.
 * [Geosearch](http://www.geosearchtool.com) - Location-based social media search tool for finding geotagged posts near any coordinates.
 * <img src="https://www.google.com/s2/favicons?domain=insecam.org&sz=16" width="16" height="16"> [Insecam](http://insecam.org/) - Live cameras directory
-* <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)
+* <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies) - Internet Archive's collection of freely available open-source video content for research and preservation.
 * [Metacafe](http://www.metacafe.com) - Video sharing platform focused on short-form entertainment and how-to content.
-* <img src="https://www.google.com/s2/favicons?domain=www.metatube.com&sz=16" width="16" height="16"> [Metatube](http://www.metatube.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.metatube.com&sz=16" width="16" height="16"> [Metatube](http://www.metatube.com) - Meta-search engine that queries over 100 video sharing sites simultaneously from a single interface.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Tubuep](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-* <img src="https://www.google.com/s2/favicons?domain=www.veoh.com&sz=16" width="16" height="16"> [Veoh](http://www.veoh.com)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization)
-* <img src="https://www.google.com/s2/favicons?domain=vimeo.com&sz=16" width="16" height="16"> [Vimeo](https://vimeo.com)
-* <img src="https://www.google.com/s2/favicons?domain=video.search.yahoo.com&sz=16" width="16" height="16"> [Yahoo Video Search](http://video.search.yahoo.com)
-* <img src="https://www.google.com/s2/favicons?domain=mattw.io&sz=16" width="16" height="16"> [YouTube Geofind](https://mattw.io/youtube-geofind/)
-* <img src="https://www.google.com/s2/favicons?domain=mattw.io&sz=16" width="16" height="16"> [YouTube Metadata](https://mattw.io/youtube-metadata/)
-* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [YouTube](https://www.youtube.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.veoh.com&sz=16" width="16" height="16"> [Veoh](http://www.veoh.com) - Video hosting platform for discovering and watching long-form user-uploaded content across many categories.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Video Stabilization Methods](https://github.com/yaochih/awesome-video-stabilization) - Curated GitHub list of research papers and code for video stabilization methods and techniques.
+* <img src="https://www.google.com/s2/favicons?domain=vimeo.com&sz=16" width="16" height="16"> [Vimeo](https://vimeo.com) - Professional video hosting platform popular with creators, useful for finding high-quality original video content.
+* <img src="https://www.google.com/s2/favicons?domain=video.search.yahoo.com&sz=16" width="16" height="16"> [Yahoo Video Search](http://video.search.yahoo.com) - Yahoo's video search engine for discovering and previewing video content indexed across the web.
+* <img src="https://www.google.com/s2/favicons?domain=mattw.io&sz=16" width="16" height="16"> [YouTube Geofind](https://mattw.io/youtube-geofind/) - Web tool that finds and maps geotagged YouTube videos from specific channels on an interactive map.
+* <img src="https://www.google.com/s2/favicons?domain=mattw.io&sz=16" width="16" height="16"> [YouTube Metadata](https://mattw.io/youtube-metadata/) - Extracts and displays detailed metadata from YouTube videos, playlists, and channels including hidden properties.
+* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [YouTube](https://www.youtube.com) - World's largest video sharing platform, essential for OSINT video discovery and social media investigations.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) 📚 Academic Resources and Grey Literature
 
-* <img src="https://www.google.com/s2/favicons?domain=www.academia.edu&sz=16" width="16" height="16"> [Academia](https://www.academia.edu)
+* <img src="https://www.google.com/s2/favicons?domain=www.academia.edu&sz=16" width="16" height="16"> [Academia](https://www.academia.edu) - Social networking site for academics to share papers, enabling discovery of researchers and their publications.
 * [Academic Journals](http://www.academicjournals.org) - Open-access publisher hosting peer-reviewed journals across science, engineering, and social sciences.
 * <img src="https://www.google.com/s2/favicons?domain=www.ajol.info&sz=16" width="16" height="16"> [African Journal Online](http://www.ajol.info) -  is the world's largest and preeminent platform of African-published scholarly journals
-* <img src="https://www.google.com/s2/favicons?domain=ascelibrary.org&sz=16" width="16" height="16"> [American Society of Civil Engineers](http://ascelibrary.org)
+* <img src="https://www.google.com/s2/favicons?domain=ascelibrary.org&sz=16" width="16" height="16"> [American Society of Civil Engineers](http://ascelibrary.org) - Digital library providing access to civil engineering journals, conference papers, and technical publications.
 * [Base](http://www.base-search.net) - Bielefeld Academic Search Engine indexing 300M+ documents from 10,000+ academic sources worldwide.
-* <img src="https://www.google.com/s2/favicons?domain=www.bibsonomy.org&sz=16" width="16" height="16"> [Bibsonomy](http://www.bibsonomy.org)
-* <img src="https://www.google.com/s2/favicons?domain=core.ac.uk&sz=16" width="16" height="16"> [Core](https://core.ac.uk/search)
-* <img src="https://www.google.com/s2/favicons?domain=www.elsevier.com&sz=16" width="16" height="16"> [Elsevier](https://www.elsevier.com)
-* <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=16" width="16" height="16"> [Google Scholar](https://scholar.google.com)
-* <img src="https://www.google.com/s2/favicons?domain=greyguide.isti.cnr.it&sz=16" width="16" height="16"> [Grey Guide](http://greyguide.isti.cnr.it)
+* <img src="https://www.google.com/s2/favicons?domain=www.bibsonomy.org&sz=16" width="16" height="16"> [Bibsonomy](http://www.bibsonomy.org) - Social bookmarking system for sharing and organizing academic references, publications, and bibliographic data.
+* <img src="https://www.google.com/s2/favicons?domain=core.ac.uk&sz=16" width="16" height="16"> [Core](https://core.ac.uk/search) - Aggregator providing free access to millions of open-access research papers from repositories worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.elsevier.com&sz=16" width="16" height="16"> [Elsevier](https://www.elsevier.com) - Major academic publisher providing access to scientific journals, books, and research databases across disciplines.
+* <img src="https://www.google.com/s2/favicons?domain=scholar.google.com&sz=16" width="16" height="16"> [Google Scholar](https://scholar.google.com) - Google's academic search engine indexing scholarly articles, theses, patents, and court opinions across disciplines.
+* <img src="https://www.google.com/s2/favicons?domain=greyguide.isti.cnr.it&sz=16" width="16" height="16"> [Grey Guide](http://greyguide.isti.cnr.it) - Portal and repository of best practices and resources for discovering and producing grey literature.
 * [Grey Literature Strategies](http://greylitstrategies.info) - Guide to finding unpublished reports, theses, government documents, and other non-commercial literature.
-* <img src="https://www.google.com/s2/favicons?domain=csulb.libguides.com&sz=16" width="16" height="16"> [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit)
-* <img src="https://www.google.com/s2/favicons?domain=www.greynet.org&sz=16" width="16" height="16"> [GreyNet International](http://www.greynet.org)
+* <img src="https://www.google.com/s2/favicons?domain=csulb.libguides.com&sz=16" width="16" height="16"> [Grey Literature – List of Gateways](http://csulb.libguides.com/graylit) - Curated library guide listing gateways and repositories for finding grey literature across disciplines.
+* <img src="https://www.google.com/s2/favicons?domain=www.greynet.org&sz=16" width="16" height="16"> [GreyNet International](http://www.greynet.org) - International network dedicated to grey literature research, conferences, and document access for professionals.
 * [HighWire: Free Online Full-text Articles](http://highwire.stanford.edu/lists/freeart.dtl) - Stanford-hosted portal providing free access to millions of full-text scholarly articles.
 * [Journal Guide](https://www.journalguide.com) - Tool for finding the best academic journal to publish in based on topic, impact, and open-access status.
-* <img src="https://www.google.com/s2/favicons?domain=journalseek.net&sz=16" width="16" height="16"> [Journal Seek](http://journalseek.net)
+* <img src="https://www.google.com/s2/favicons?domain=journalseek.net&sz=16" width="16" height="16"> [Journal Seek](http://journalseek.net) - Searchable database of academic journals across all disciplines with links to publisher sites and descriptions.
 * <img src="https://www.google.com/s2/favicons?domain=www.jstor.org&sz=16" width="16" height="16"> [JSTOR](http://www.jstor.org) - Search over 10 million academic journal articles, books, and primary sources.
 * [Lazy Scholar](http://www.lazyscholar.org) - Browser extension that auto-finds free PDFs, references, and impact metrics for academic papers.
 * <img src="https://www.google.com/s2/favicons?domain=www.tib.eu&sz=16" width="16" height="16"> [Leibniz Information Centre For Science and Technology University Library](https://www.tib.eu/en/search-discover/) - indexes all reports of German publicly funded projects and many scientific papers.
 * [Microsoft Academic](http://academic.research.microsoft.com) - Academic search engine with citation graphs, author profiles, and institutional analytics (discontinued 2022).
-* <img src="https://www.google.com/s2/favicons?domain=www.nrcresearchpress.com&sz=16" width="16" height="16"> [NRC Research Press](http://www.nrcresearchpress.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.nrcresearchpress.com&sz=16" width="16" height="16"> [NRC Research Press](http://www.nrcresearchpress.com) - Canadian government research press publishing peer-reviewed journals across natural sciences and engineering.
 * <img src="https://www.google.com/s2/favicons?domain=oa.mg&sz=16" width="16" height="16"> [OA.mg](http://oa.mg) A database of over 240 million scientific works, with PDFs for all Open Access papers in their catalogue (~ 40 million)
 * [Open Access Scientific Journals](http://www.pagepress.org) - Publisher of open-access peer-reviewed journals in medicine, agriculture, and veterinary science.
-* <img src="https://www.google.com/s2/favicons?domain=www.opengrey.eu&sz=16" width="16" height="16"> [Open Grey](http://www.opengrey.eu)
+* <img src="https://www.google.com/s2/favicons?domain=www.opengrey.eu&sz=16" width="16" height="16"> [Open Grey](http://www.opengrey.eu) - European repository for grey literature including technical reports, theses, and conference papers.
 * [Oxford Journals](http://www.oxfordjournals.org) - Oxford University Press collection of 500+ academic journals across sciences and humanities.
 * <img src="https://www.google.com/s2/favicons?domain=www.ncbi.nlm.nih.gov&sz=16" width="16" height="16"> [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) - Search more than 27 millions citations for biomedical literature from MEDLINE, life science journals, and online books.
 * [Quetzal Search](https://www.quetzal-search.info) - Academic meta-search engine querying multiple scholarly databases simultaneously.
-* <img src="https://www.google.com/s2/favicons?domain=www.researchgate.net&sz=16" width="16" height="16"> [Research Gate](http://www.researchgate.net)
-* <img src="https://www.google.com/s2/favicons?domain=online.sagepub.com&sz=16" width="16" height="16"> [SAGE Journals](http://online.sagepub.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.thescipub.com&sz=16" width="16" height="16"> [Science Publications](http://www.thescipub.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.sciencedirect.com&sz=16" width="16" height="16"> [ScienceDirect](http://www.sciencedirect.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.researchgate.net&sz=16" width="16" height="16"> [Research Gate](http://www.researchgate.net) - Social network for researchers to share publications, track citations, and discover academic work globally.
+* <img src="https://www.google.com/s2/favicons?domain=online.sagepub.com&sz=16" width="16" height="16"> [SAGE Journals](http://online.sagepub.com) - Publisher of peer-reviewed academic journals across social sciences, humanities, and STEM disciplines.
+* <img src="https://www.google.com/s2/favicons?domain=www.thescipub.com&sz=16" width="16" height="16"> [Science Publications](http://www.thescipub.com) - Open-access publisher hosting scientific journals and research papers across multiple academic fields.
+* <img src="https://www.google.com/s2/favicons?domain=www.sciencedirect.com&sz=16" width="16" height="16"> [ScienceDirect](http://www.sciencedirect.com) - Elsevier's full-text database of scientific journal articles, book chapters, and conference proceedings.
 * [ScienceDomain](http://www.sciencedomain.org) - Open-access publisher of peer-reviewed international scientific journals.
-* <img src="https://www.google.com/s2/favicons?domain=www.scirp.org&sz=16" width="16" height="16"> [SCIRP](http://www.scirp.org)
-* <img src="https://www.google.com/s2/favicons?domain=link.springer.com&sz=16" width="16" height="16"> [Springer](http://link.springer.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.tandfonline.com&sz=16" width="16" height="16"> [Taylor & Francis Online](http://www.tandfonline.com)
-* <img src="https://www.google.com/s2/favicons?domain=opensyllabusproject.org&sz=16" width="16" height="16"> [The Open Syllabus Project](http://opensyllabusproject.org/)
+* <img src="https://www.google.com/s2/favicons?domain=www.scirp.org&sz=16" width="16" height="16"> [SCIRP](http://www.scirp.org) - Open-access academic publisher offering peer-reviewed journals across science, technology, and social sciences.
+* <img src="https://www.google.com/s2/favicons?domain=link.springer.com&sz=16" width="16" height="16"> [Springer](http://link.springer.com) - Major academic publisher providing access to millions of research articles, books, and reference works.
+* <img src="https://www.google.com/s2/favicons?domain=www.tandfonline.com&sz=16" width="16" height="16"> [Taylor & Francis Online](http://www.tandfonline.com) - Academic publisher hosting thousands of peer-reviewed journals across humanities, social sciences, and STEM.
+* <img src="https://www.google.com/s2/favicons?domain=opensyllabusproject.org&sz=16" width="16" height="16"> [The Open Syllabus Project](http://opensyllabusproject.org/) - Nonprofit analyzing millions of college syllabi to reveal which texts are most taught at universities worldwide.
 * [Wiley](http://eu.wiley.com) - Major academic publisher with 1,700+ journals covering science, technology, medicine, and social sciences.
-* <img src="https://www.google.com/s2/favicons?domain=www.wdl.org&sz=16" width="16" height="16"> [World Digital Library](http://www.wdl.org)
-* <img src="https://www.google.com/s2/favicons?domain=worldwidescience.org&sz=16" width="16" height="16"> [World Science](http://worldwidescience.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.wdl.org&sz=16" width="16" height="16"> [World Digital Library](http://www.wdl.org) - UNESCO digital library preserving significant cultural heritage documents and artifacts from around the world.
+* <img src="https://www.google.com/s2/favicons?domain=worldwidescience.org&sz=16" width="16" height="16"> [World Science](http://worldwidescience.org) - Global science gateway searching national and international databases for scientific literature and research.
 * [Zetoc](http://zetoc.jisc.ac.uk) - British Library database providing access to 35,000+ journal titles and conference proceedings.
 
 
 ## [↑](#-table-of-contents) 🌍 Geospatial Research and Mapping Tools
 
-* <img src="https://www.google.com/s2/favicons?domain=apify.com&sz=16" width="16" height="16"> [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places)
-* <img src="https://www.google.com/s2/favicons?domain=livingatlas.arcgis.com&sz=16" width="16" height="16"> [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
-* <img src="https://www.google.com/s2/favicons?domain=atlas.co&sz=16" width="16" height="16"> [Atlas](https://atlas.co)
+* <img src="https://www.google.com/s2/favicons?domain=apify.com&sz=16" width="16" height="16"> [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places) - Apify actor that scrapes Google Maps business data including contacts, reviews, and geolocation details.
+* <img src="https://www.google.com/s2/favicons?domain=livingatlas.arcgis.com&sz=16" width="16" height="16"> [ArcGIS](https://livingatlas.arcgis.com/en/browse/) - Esri's curated collection of geographic data, maps, and imagery layers for spatial analysis and visualization.
+* <img src="https://www.google.com/s2/favicons?domain=atlas.co&sz=16" width="16" height="16"> [Atlas](https://atlas.co) - Browser-based collaborative GIS platform for teams to create, share, and analyze interactive maps together.
 * [Atlasify](http://www.atlasify.com) - Tool for visualizing the semantic similarity between any topic and geographic regions on a world map.
-* <img src="https://www.google.com/s2/favicons?domain=map.baidu.com&sz=16" width="16" height="16"> [Baidu Maps](https://map.baidu.com/)
-* <img src="https://www.google.com/s2/favicons?domain=batchgeo.com&sz=16" width="16" height="16"> [Batchgeo](http://batchgeo.com)
+* <img src="https://www.google.com/s2/favicons?domain=map.baidu.com&sz=16" width="16" height="16"> [Baidu Maps](https://map.baidu.com/) - Chinese mapping service by Baidu offering street maps, satellite imagery, and local business search in China.
+* <img src="https://www.google.com/s2/favicons?domain=batchgeo.com&sz=16" width="16" height="16"> [Batchgeo](http://batchgeo.com) - Simple tool that geocodes spreadsheet data and plots multiple locations on an interactive Google Map.
 * [Beholder](https://beholder.me) - Real-time global OSINT threat map aggregating aircraft, vessel, and satellite tracking with natural disaster, conflict, and environmental data on an interactive 3D globe.
-* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Maps](http://www.bing.com/maps)
-* <img src="https://www.google.com/s2/favicons?domain=cartodb.com&sz=16" width="16" height="16"> [CartoDB](https://cartodb.com)
-* <img src="https://www.google.com/s2/favicons?domain=colorbrewer2.org&sz=16" width="16" height="16"> [Colorbrewer](http://colorbrewer2.org)
-* <img src="https://www.google.com/s2/favicons?domain=crowdmap.com&sz=16" width="16" height="16"> [CrowdMap](https://crowdmap.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Maps](http://www.bing.com/maps) - Microsoft's mapping platform with aerial imagery, bird's eye views, and streetside panoramas for location research.
+* <img src="https://www.google.com/s2/favicons?domain=cartodb.com&sz=16" width="16" height="16"> [CartoDB](https://cartodb.com) - Cloud-based platform for creating interactive geospatial visualizations and location intelligence from large datasets.
+* <img src="https://www.google.com/s2/favicons?domain=colorbrewer2.org&sz=16" width="16" height="16"> [Colorbrewer](http://colorbrewer2.org) - Web tool for selecting effective color schemes for thematic maps, optimized for cartographic data visualization.
+* <img src="https://www.google.com/s2/favicons?domain=crowdmap.com&sz=16" width="16" height="16"> [CrowdMap](https://crowdmap.com) - Crowdsourced mapping platform built on Ushahidi for collecting and visualizing field reports from SMS, email, and social media.
 * [CTLRQ Address Lookup](https://ctrlq.org/maps/address) - Find the postal address and GPS coordinates of any location by clicking on a map.
-* <img src="https://www.google.com/s2/favicons?domain=www.digikam.org&sz=16" width="16" height="16"> [digiKam](https://www.digikam.org/)
-* <img src="https://www.google.com/s2/favicons?domain=dominoc925-pages.appspot.com&sz=16" width="16" height="16"> [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
-* <img src="https://www.google.com/s2/favicons?domain=www.mapchannels.com&sz=16" width="16" height="16"> [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
-* <img src="https://www.google.com/s2/favicons?domain=www.esri.com&sz=16" width="16" height="16"> [Esri](http://www.esri.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.flashearth.com&sz=16" width="16" height="16"> [Flash Earth](http://www.flashearth.com)
-* <img src="https://www.google.com/s2/favicons?domain=geogig.org&sz=16" width="16" height="16"> [GeoGig](http://geogig.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.digikam.org&sz=16" width="16" height="16"> [digiKam](https://www.digikam.org/) - Open-source photo management application with geotagging, face recognition, and EXIF metadata extraction capabilities.
+* <img src="https://www.google.com/s2/favicons?domain=dominoc925-pages.appspot.com&sz=16" width="16" height="16"> [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html) - Web-based converter for displaying and looking up Military Grid Reference System (MGRS) coordinates on Google Maps.
+* <img src="https://www.google.com/s2/favicons?domain=www.mapchannels.com&sz=16" width="16" height="16"> [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm) - Side-by-side map viewer combining Google Maps, aerial imagery, and Street View for comparing locations simultaneously.
+* <img src="https://www.google.com/s2/favicons?domain=www.esri.com&sz=16" width="16" height="16"> [Esri](http://www.esri.com) - Industry-leading GIS platform offering spatial analysis, mapping, and geospatial data management tools for professional use.
+* <img src="https://www.google.com/s2/favicons?domain=www.flashearth.com&sz=16" width="16" height="16"> [Flash Earth](http://www.flashearth.com) - Aggregated satellite imagery viewer that composites multiple providers into a seamless zoomable world map.
+* <img src="https://www.google.com/s2/favicons?domain=geogig.org&sz=16" width="16" height="16"> [GeoGig](http://geogig.org) - Distributed version control system designed for geospatial data, enabling branching, merging, and history tracking of geodatasets.
 * <img src="https://www.google.com/s2/favicons?domain=geoinfer.com&sz=16" width="16" height="16"> [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
 * <img src="https://www.google.com/s2/favicons?domain=geoguessr.ai&sz=16" width="16" height="16"> [GeoGuessr.ai](https://geoguessr.ai) - AI-powered geolocation tool for identifying locations from images.
-* <img src="https://www.google.com/s2/favicons?domain=www.geonames.org&sz=16" width="16" height="16"> [GeoNames](http://www.geonames.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Earth](http://www.google.com/earth)
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Maps](https://www.google.com/maps)
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google My Maps](https://www.google.com/maps/about/mymaps)
-* <img src="https://www.google.com/s2/favicons?domain=www.gpsvisualizer.com&sz=16" width="16" height="16"> [GPSVisualizer](http://www.gpsvisualizer.com)
-* <img src="https://www.google.com/s2/favicons?domain=grass.osgeo.org&sz=16" width="16" height="16"> [GrassGIS](http://grass.osgeo.org)
-* <img src="https://www.google.com/s2/favicons?domain=here.com&sz=16" width="16" height="16"> [Here](http://here.com)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Hyperlapse](https://github.com/TeehanLax/Hyperlapse.js)
+* <img src="https://www.google.com/s2/favicons?domain=www.geonames.org&sz=16" width="16" height="16"> [GeoNames](http://www.geonames.org) - Worldwide geographical database providing place names, coordinates, and administrative data for over 11 million locations.
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro) - Advanced desktop version of Google Earth with measurement tools, GPS import, and high-resolution printing for detailed analysis.
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Earth](http://www.google.com/earth) - Interactive 3D globe with satellite imagery, terrain, and Street View for exploring any location on Earth.
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Maps](https://www.google.com/maps) - Google's web mapping service with Street View, real-time traffic, satellite imagery, and business location data.
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google My Maps](https://www.google.com/maps/about/mymaps) - Tool for creating custom, shareable maps with personalized markers, routes, and annotations on Google Maps.
+* <img src="https://www.google.com/s2/favicons?domain=www.gpsvisualizer.com&sz=16" width="16" height="16"> [GPSVisualizer](http://www.gpsvisualizer.com) - Utility for converting GPS data files into maps, elevation profiles, and other visualizations from various formats.
+* <img src="https://www.google.com/s2/favicons?domain=grass.osgeo.org&sz=16" width="16" height="16"> [GrassGIS](http://grass.osgeo.org) - Free open-source GIS for raster and vector geospatial analysis, image processing, and spatial modeling.
+* <img src="https://www.google.com/s2/favicons?domain=here.com&sz=16" width="16" height="16"> [Here](http://here.com) - Mapping platform offering detailed location data, routing, and real-time traffic information across 200+ countries.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Hyperlapse](https://github.com/TeehanLax/Hyperlapse.js) - JavaScript library for generating smooth hyperlapse animations along routes using Google Street View imagery.
 * [Inspire Geoportal](http://inspire-geoportal.ec.europa.eu) - European Commission portal providing access to spatial datasets from EU member states.
-* <img src="https://www.google.com/s2/favicons?domain=www.instantstreetview.com&sz=16" width="16" height="16"> [Instant Google Street View](http://www.instantstreetview.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.instantatlas.com&sz=16" width="16" height="16"> [InstantAtlas](http://www.instantatlas.com)
-* <img src="https://www.google.com/s2/favicons?domain=kartaview.org&sz=16" width="16" height="16"> [KartaView](https://kartaview.org/map/)
+* <img src="https://www.google.com/s2/favicons?domain=www.instantstreetview.com&sz=16" width="16" height="16"> [Instant Google Street View](http://www.instantstreetview.com) - Instantly jump to any Google Street View location worldwide by entering an address or clicking the map.
+* <img src="https://www.google.com/s2/favicons?domain=www.instantatlas.com&sz=16" width="16" height="16"> [InstantAtlas](http://www.instantatlas.com) - Platform for creating interactive thematic maps and dashboards to visualize statistical and demographic data by region.
+* <img src="https://www.google.com/s2/favicons?domain=kartaview.org&sz=16" width="16" height="16"> [KartaView](https://kartaview.org/map/) - Crowdsourced street-level imagery platform contributing free, open photos to improve OpenStreetMap coverage.
 * [Kartograph](http://kartograph.org) - Framework for building interactive SVG maps without any external mapping service.
-* <img src="https://www.google.com/s2/favicons?domain=leafletjs.com&sz=16" width="16" height="16"> [Leaflet](http://leafletjs.com)
-* <img src="https://www.google.com/s2/favicons?domain=liveuamap.com&sz=16" width="16" height="16"> [Liveuamap](https://liveuamap.com/)
-* <img src="https://www.google.com/s2/favicons?domain=maps.co&sz=16" width="16" height="16"> [Map Maker](https://maps.co)
-* <img src="https://www.google.com/s2/favicons?domain=mapalist.com&sz=16" width="16" height="16"> [MapAList](http://mapalist.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.mapbox.com&sz=16" width="16" height="16"> [MapBox](https://www.mapbox.com)
-* <img src="https://www.google.com/s2/favicons?domain=mapchart.net&sz=16" width="16" height="16"> [Mapchart.net](https://mapchart.net)
-* <img src="https://www.google.com/s2/favicons?domain=www.mapchecking.com&sz=16" width="16" height="16"> [MapChecking](https://www.mapchecking.com/)
+* <img src="https://www.google.com/s2/favicons?domain=leafletjs.com&sz=16" width="16" height="16"> [Leaflet](http://leafletjs.com) - Lightweight open-source JavaScript library for building interactive, mobile-friendly web maps with extensive plugin support.
+* <img src="https://www.google.com/s2/favicons?domain=liveuamap.com&sz=16" width="16" height="16"> [Liveuamap](https://liveuamap.com/) - Real-time interactive map tracking global conflicts, protests, terrorism, and security events with geolocated news reports.
+* <img src="https://www.google.com/s2/favicons?domain=maps.co&sz=16" width="16" height="16"> [Map Maker](https://maps.co) - Simple web tool for quickly creating embeddable custom maps with markers from address lists and spreadsheet data.
+* <img src="https://www.google.com/s2/favicons?domain=mapalist.com&sz=16" width="16" height="16"> [MapAList](http://mapalist.com) - Free wizard for creating interactive Google Maps from address lists stored in Google Sheets with auto-sync.
+* <img src="https://www.google.com/s2/favicons?domain=www.mapbox.com&sz=16" width="16" height="16"> [MapBox](https://www.mapbox.com) - Developer platform for custom map design, geocoding, and location search with highly customizable vector tile rendering.
+* <img src="https://www.google.com/s2/favicons?domain=mapchart.net&sz=16" width="16" height="16"> [Mapchart.net](https://mapchart.net) - Web tool for creating customizable, color-coded maps of countries, US states, and regions for data visualization.
+* <img src="https://www.google.com/s2/favicons?domain=www.mapchecking.com&sz=16" width="16" height="16"> [MapChecking](https://www.mapchecking.com/) - Crowd-counting tool that estimates maximum number of people in a selected map area based on density settings.
 * [Maperitive](http://maperitive.net) - Desktop tool for rendering custom maps from OpenStreetMap and GPS data with rule-based styling.
-* <img src="https://www.google.com/s2/favicons?domain=maphub.net&sz=16" width="16" height="16"> [MapHub](https://maphub.net)
-* <img src="https://www.google.com/s2/favicons?domain=www.mapillary.com&sz=16" width="16" height="16"> [Mapillary](https://www.mapillary.com/app/)
-* <img src="https://www.google.com/s2/favicons?domain=mapjam.com&sz=16" width="16" height="16"> [MapJam](http://mapjam.com)
-* <img src="https://www.google.com/s2/favicons?domain=mapline.com&sz=16" width="16" height="16"> [Mapline](https://mapline.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.mapquest.com&sz=16" width="16" height="16"> [Mapquest](https://www.mapquest.com)
-* <img src="https://www.google.com/s2/favicons?domain=modestmaps.com&sz=16" width="16" height="16"> [Modest Maps](http://modestmaps.com)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [NGA GEOINT](https://github.com/ngageoint)
-* <img src="https://www.google.com/s2/favicons?domain=www.openstreetmap.org&sz=16" width="16" height="16"> [Open Street Map](http://www.openstreetmap.org)
-* <img src="https://www.google.com/s2/favicons?domain=openlayers.org&sz=16" width="16" height="16"> [OpenLayers](http://openlayers.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.lib.utexas.edu&sz=16" width="16" height="16"> [Perry Castaneda Library](https://www.lib.utexas.edu/maps)
-* <img src="https://www.google.com/s2/favicons?domain=www.pic2map.com&sz=16" width="16" height="16"> [Pic2Map](https://www.pic2map.com/)
+* <img src="https://www.google.com/s2/favicons?domain=maphub.net&sz=16" width="16" height="16"> [MapHub](https://maphub.net) - Collaborative platform for creating, sharing, and embedding interactive maps with custom markers and GeoJSON data.
+* <img src="https://www.google.com/s2/favicons?domain=www.mapillary.com&sz=16" width="16" height="16"> [Mapillary](https://www.mapillary.com/app/) - Crowdsourced street-level imagery platform with AI-powered feature detection for mapping and geolocation verification.
+* <img src="https://www.google.com/s2/favicons?domain=mapjam.com&sz=16" width="16" height="16"> [MapJam](http://mapjam.com) - Drag-and-drop map creation tool for building branded, media-rich interactive maps without coding knowledge.
+* <img src="https://www.google.com/s2/favicons?domain=mapline.com&sz=16" width="16" height="16"> [Mapline](https://mapline.com) - Business mapping software for plotting spreadsheet data on maps with territory management and route optimization.
+* <img src="https://www.google.com/s2/favicons?domain=www.mapquest.com&sz=16" width="16" height="16"> [Mapquest](https://www.mapquest.com) - Web mapping service providing driving directions, live traffic, satellite views, and local business search.
+* <img src="https://www.google.com/s2/favicons?domain=modestmaps.com&sz=16" width="16" height="16"> [Modest Maps](http://modestmaps.com) - Lightweight JavaScript library providing a simple API for building interactive tile-based slippy maps.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [NGA GEOINT](https://github.com/ngageoint) - National Geospatial-Intelligence Agency's open-source geospatial tools and libraries for intelligence analysis on GitHub.
+* <img src="https://www.google.com/s2/favicons?domain=www.openstreetmap.org&sz=16" width="16" height="16"> [Open Street Map](http://www.openstreetmap.org) - Community-driven free editable world map providing detailed geographic data exportable in multiple formats.
+* <img src="https://www.google.com/s2/favicons?domain=openlayers.org&sz=16" width="16" height="16"> [OpenLayers](http://openlayers.org) - High-performance open-source JavaScript library for rendering interactive maps from vector tiles and various data sources.
+* <img src="https://www.google.com/s2/favicons?domain=www.lib.utexas.edu&sz=16" width="16" height="16"> [Perry Castaneda Library](https://www.lib.utexas.edu/maps) - University of Texas collection of over 250,000 historical and contemporary maps covering every world region.
+* <img src="https://www.google.com/s2/favicons?domain=www.pic2map.com&sz=16" width="16" height="16"> [Pic2Map](https://www.pic2map.com/) - Tool that extracts GPS coordinates from photo EXIF metadata and displays the capture location on a map.
 * [Polymaps](http://polymaps.org) - JavaScript library for creating dynamic, interactive maps with SVG overlays on tiled imagery.
-* <img src="https://www.google.com/s2/favicons?domain=qgis.org&sz=16" width="16" height="16"> [QGIS](http://qgis.org)
-* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [QuickMaps](https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij)
+* <img src="https://www.google.com/s2/favicons?domain=qgis.org&sz=16" width="16" height="16"> [QGIS](http://qgis.org) - Free open-source desktop GIS supporting vector, raster, and database layers with extensive analysis and plugin capabilities.
+* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [QuickMaps](https://chrome.google.com/webstore/detail/quick-maps/bgbojmobaekecckmomemopckmeipecij) - Chrome extension for quickly viewing any selected address or location on Google Maps without leaving the current page.
 * <img src="https://www.google.com/s2/favicons?domain=www.sasgis.org&sz=16" width="16" height="16"> [SAS Planet](http://www.sasgis.org/sasplaneta/)  - Software used to view, download and stitch satellite images.
-* <img src="https://www.google.com/s2/favicons?domain=satellites.pro&sz=16" width="16" height="16"> [Satellites Pro](https://satellites.pro/)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [SatIntel](https://github.com/ANG13T/SatIntel)
-* <img src="https://www.google.com/s2/favicons?domain=scribblemaps.com&sz=16" width="16" height="16"> [Scribble Maps](http://scribblemaps.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.sentinel-hub.com&sz=16" width="16" height="16"> [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
-* <img src="https://www.google.com/s2/favicons?domain=soar.earth&sz=16" width="16" height="16"> [SOAR](https://soar.earth/)
-* <img src="https://www.google.com/s2/favicons?domain=storymaps.arcgis.com&sz=16" width="16" height="16"> [StoryMaps](http://storymaps.arcgis.com/en)
-* <img src="https://www.google.com/s2/favicons?domain=www.suncalc.org&sz=16" width="16" height="16"> [SunCalc](https://www.suncalc.org/)
-* <img src="https://www.google.com/s2/favicons?domain=www.tableausoftware.com&sz=16" width="16" height="16"> [Tableau](http://www.tableausoftware.com)
-* <img src="https://www.google.com/s2/favicons?domain=earthexplorer.usgs.gov&sz=16" width="16" height="16"> [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
-* <img src="https://www.google.com/s2/favicons?domain=www.viamichelin.com&sz=16" width="16" height="16"> [ViaMichelin](http://www.viamichelin.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.mgmaps.com&sz=16" width="16" height="16"> [View in Google Earth](http://www.mgmaps.com/kml/#view)
-* <img src="https://www.google.com/s2/favicons?domain=wikimapia.org&sz=16" width="16" height="16"> [Wikimapia](http://wikimapia.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.windy.com&sz=16" width="16" height="16"> [Windy](https://www.windy.com/)
-* <img src="https://www.google.com/s2/favicons?domain=worldmap.harvard.edu&sz=16" width="16" height="16"> [WorldMap Harvard](http://worldmap.harvard.edu)
+* <img src="https://www.google.com/s2/favicons?domain=satellites.pro&sz=16" width="16" height="16"> [Satellites Pro](https://satellites.pro/) - Multi-source satellite imagery viewer that lets researchers quickly switch between Google, Bing, Yandex, and Apple Maps.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [SatIntel](https://github.com/ANG13T/SatIntel) - OSINT tool for extracting satellite telemetry, orbital predictions, and TLE data using NORAD and N2YO APIs.
+* <img src="https://www.google.com/s2/favicons?domain=scribblemaps.com&sz=16" width="16" height="16"> [Scribble Maps](http://scribblemaps.com) - Web-based drawing tool for creating, annotating, and sharing custom maps with shapes, markers, and text overlays.
+* <img src="https://www.google.com/s2/favicons?domain=www.sentinel-hub.com&sz=16" width="16" height="16"> [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/) - Browser for exploring Copernicus Sentinel satellite imagery with custom band combinations and time-series analysis.
+* <img src="https://www.google.com/s2/favicons?domain=soar.earth&sz=16" width="16" height="16"> [SOAR](https://soar.earth/) - Digital atlas platform aggregating satellite, aerial, and drone imagery into a searchable, community-contributed world map.
+* <img src="https://www.google.com/s2/favicons?domain=storymaps.arcgis.com&sz=16" width="16" height="16"> [StoryMaps](http://storymaps.arcgis.com/en) - Esri's platform for creating narrative-driven interactive maps that combine geography with multimedia storytelling.
+* <img src="https://www.google.com/s2/favicons?domain=www.suncalc.org&sz=16" width="16" height="16"> [SunCalc](https://www.suncalc.org/) - Web tool calculating sun position, sunlight phases, sunrise, sunset, and shadow length for any location and date.
+* <img src="https://www.google.com/s2/favicons?domain=www.tableausoftware.com&sz=16" width="16" height="16"> [Tableau](http://www.tableausoftware.com) - Business intelligence platform with powerful geospatial visualization for mapping and analyzing location-based datasets.
+* <img src="https://www.google.com/s2/favicons?domain=earthexplorer.usgs.gov&sz=16" width="16" height="16"> [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/) - Access satellite imagery, aerial photographs, and cartographic data from the USGS for geospatial research.
+* <img src="https://www.google.com/s2/favicons?domain=www.viamichelin.com&sz=16" width="16" height="16"> [ViaMichelin](http://www.viamichelin.com) - European route planner and mapping service with driving directions, traffic info, and points of interest.
+* <img src="https://www.google.com/s2/favicons?domain=www.mgmaps.com&sz=16" width="16" height="16"> [View in Google Earth](http://www.mgmaps.com/kml/#view) - Convert mobile map links into KML format for viewing locations directly in Google Earth.
+* <img src="https://www.google.com/s2/favicons?domain=wikimapia.org&sz=16" width="16" height="16"> [Wikimapia](http://wikimapia.org) - Collaboratively edited map combining satellite imagery with user-contributed descriptions of locations worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.windy.com&sz=16" width="16" height="16"> [Windy](https://www.windy.com/) - Interactive weather visualization platform showing real-time wind, rain, temperature, and atmospheric data globally.
+* <img src="https://www.google.com/s2/favicons?domain=worldmap.harvard.edu&sz=16" width="16" height="16"> [WorldMap Harvard](http://worldmap.harvard.edu) - Harvard University platform for creating, visualizing, and sharing multi-layer geospatial datasets for research.
 * [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
-* <img src="https://www.google.com/s2/favicons?domain=maps.yahoo.com&sz=16" width="16" height="16"> [Yahoo Maps](https://maps.yahoo.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.zeemaps.com&sz=16" width="16" height="16"> [Zeemaps](https://www.zeemaps.com)
-* <img src="https://www.google.com/s2/favicons?domain=zoom.earth&sz=16" width="16" height="16"> [Zoom Earth](https://zoom.earth/)
+* <img src="https://www.google.com/s2/favicons?domain=maps.yahoo.com&sz=16" width="16" height="16"> [Yahoo Maps](https://maps.yahoo.com) - Yahoo's mapping service providing street maps, satellite imagery, and driving directions worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.zeemaps.com&sz=16" width="16" height="16"> [Zeemaps](https://www.zeemaps.com) - Create, publish, and share interactive maps with custom markers, regions, and crowd-sourced location data.
+* <img src="https://www.google.com/s2/favicons?domain=zoom.earth&sz=16" width="16" height="16"> [Zoom Earth](https://zoom.earth/) - Near real-time satellite imagery viewer with daily updates showing weather, fires, and storms across the globe.
 
 ## [↑](#-table-of-contents) 📰 News
 
-* <img src="https://www.google.com/s2/favicons?domain=www.1stheadlines.com&sz=16" width="16" height="16"> [1st Headlines](http://www.1stheadlines.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.abyznewslinks.com&sz=16" width="16" height="16"> [ABYZNewsLinks](http://www.abyznewslinks.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.afp.com&sz=16" width="16" height="16"> [Agence France-Presse (AFP)](http://www.afp.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.allyoucanread.com&sz=16" width="16" height="16"> [AllYouCanRead](http://www.allyoucanread.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.1stheadlines.com&sz=16" width="16" height="16"> [1st Headlines](http://www.1stheadlines.com) - Aggregator displaying current front-page headlines from newspapers and news sources around the world.
+* <img src="https://www.google.com/s2/favicons?domain=www.abyznewslinks.com&sz=16" width="16" height="16"> [ABYZNewsLinks](http://www.abyznewslinks.com) - Comprehensive directory of links to newspapers, magazines, and news sources organized by country and region.
+* <img src="https://www.google.com/s2/favicons?domain=www.afp.com&sz=16" width="16" height="16"> [Agence France-Presse (AFP)](http://www.afp.com) - Global news wire service providing real-time reporting from journalists stationed in over 150 countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.allyoucanread.com&sz=16" width="16" height="16"> [AllYouCanRead](http://www.allyoucanread.com) - Directory of thousands of newspapers, magazines, and media sources from every country, browsable by region.
 * [AP](http://hosted.ap.org) - Associated Press news archive with searchable articles from one of the world's largest news agencies.
-* <img src="https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=16" width="16" height="16"> [BBC News](http://www.bbc.co.uk/news)
-* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing News](http://www.bing.com/news)
-* <img src="https://www.google.com/s2/favicons?domain=edition.cnn.com&sz=16" width="16" height="16"> [CNN](http://edition.cnn.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=16" width="16" height="16"> [BBC News](http://www.bbc.co.uk/news) - Comprehensive global news coverage from the British Broadcasting Corporation with regional and topical sections.
+* <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing News](http://www.bing.com/news) - Microsoft's news aggregation engine indexing stories across thousands of sources with trending topic detection.
+* <img src="https://www.google.com/s2/favicons?domain=edition.cnn.com&sz=16" width="16" height="16"> [CNN](http://edition.cnn.com) - Major international news network offering 24/7 coverage of breaking news, politics, and world events.
 * [Cyber Alert](http://www.cyberalert.com) - Media monitoring service tracking news coverage across online, print, broadcast, and social media.
 * [DailyEarth](http://dailyearth.com) - News aggregator mapping global stories geographically on an interactive world map.
 * [DPA International](http://www.dpa-international.com) - Deutsche Presse-Agentur international news service covering global events in English.
-* <img src="https://www.google.com/s2/favicons?domain=www.euronews.com&sz=16" width="16" height="16"> [Euronews](http://www.euronews.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.dowjones.com&sz=16" width="16" height="16"> [Factiva](http://www.dowjones.com/factiva)
-* <img src="https://www.google.com/s2/favicons?domain=www.france24.com&sz=16" width="16" height="16"> [France24](http://www.france24.com)
-* <img src="https://www.google.com/s2/favicons?domain=news.google.com&sz=16" width="16" height="16"> [Google News](https://news.google.com)
-* <img src="https://www.google.com/s2/favicons?domain=news.google.com&sz=16" width="16" height="16"> [Google News Print Archive](http://news.google.com/newspapers)
+* <img src="https://www.google.com/s2/favicons?domain=www.euronews.com&sz=16" width="16" height="16"> [Euronews](http://www.euronews.com) - Multilingual European news channel covering world events from a pan-European editorial perspective.
+* <img src="https://www.google.com/s2/favicons?domain=www.dowjones.com&sz=16" width="16" height="16"> [Factiva](http://www.dowjones.com/factiva) - Dow Jones premium news database aggregating content from thousands of global publications for deep research.
+* <img src="https://www.google.com/s2/favicons?domain=www.france24.com&sz=16" width="16" height="16"> [France24](http://www.france24.com) - French international news channel broadcasting in multiple languages with focus on global current affairs.
+* <img src="https://www.google.com/s2/favicons?domain=news.google.com&sz=16" width="16" height="16"> [Google News](https://news.google.com) - Google's AI-powered news aggregator that personalizes and clusters stories from thousands of global sources.
+* <img src="https://www.google.com/s2/favicons?domain=news.google.com&sz=16" width="16" height="16"> [Google News Print Archive](http://news.google.com/newspapers) - Searchable archive of digitized historical newspapers spanning several centuries for historical research.
 * [HeadlineSpot](http://www.headlinespot.com) - Directory of news sources organized by topic, region, and media type.
-* <img src="https://www.google.com/s2/favicons?domain=www.itar-tass.com&sz=16" width="16" height="16"> [Itar-Tass](http://www.itar-tass.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.listofnewspapers.com&sz=16" width="16" height="16"> [List of Newspapers.com](http://www.listofnewspapers.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.magportal.com&sz=16" width="16" height="16"> [MagPortal](http://www.magportal.com)
-* <img src="https://www.google.com/s2/favicons?domain=newsmap.jp&sz=16" width="16" height="16"> [News Map](http://newsmap.jp)
-* <img src="https://www.google.com/s2/favicons?domain=www.newsnow.co.uk&sz=16" width="16" height="16"> [News Now](http://www.newsnow.co.uk)
-* <img src="https://www.google.com/s2/favicons?domain=www.newseum.org&sz=16" width="16" height="16"> [Newseum - Today Front Pages](http://www.newseum.org/todaysfrontpages)
-* <img src="https://www.google.com/s2/favicons?domain=www.newslink.org&sz=16" width="16" height="16"> [Newslink](http://www.newslink.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.itar-tass.com&sz=16" width="16" height="16"> [Itar-Tass](http://www.itar-tass.com) - Russian state news agency TASS providing English-language coverage of Russian and international affairs.
+* <img src="https://www.google.com/s2/favicons?domain=www.listofnewspapers.com&sz=16" width="16" height="16"> [List of Newspapers.com](http://www.listofnewspapers.com) - Directory of newspapers worldwide organized by country, making it easy to find local news sources globally.
+* <img src="https://www.google.com/s2/favicons?domain=www.magportal.com&sz=16" width="16" height="16"> [MagPortal](http://www.magportal.com) - Search engine for magazine articles, indexing content from free online publications across many topics.
+* <img src="https://www.google.com/s2/favicons?domain=newsmap.jp&sz=16" width="16" height="16"> [News Map](http://newsmap.jp) - Treemap visualization of Google News headlines, color-coded by topic and sized by story volume.
+* <img src="https://www.google.com/s2/favicons?domain=www.newsnow.co.uk&sz=16" width="16" height="16"> [News Now](http://www.newsnow.co.uk) - Real-time news aggregator monitoring thousands of sources with categorized feeds updated every few minutes.
+* <img src="https://www.google.com/s2/favicons?domain=www.newseum.org&sz=16" width="16" height="16"> [Newseum - Today Front Pages](http://www.newseum.org/todaysfrontpages) - Daily gallery of newspaper front pages from around the world, useful for comparing media coverage.
+* <img src="https://www.google.com/s2/favicons?domain=www.newslink.org&sz=16" width="16" height="16"> [Newslink](http://www.newslink.org) - Curated directory of U.S. and international news sources organized by media type and geographic region.
 * [NewsLookup](http://www.newslookup.com) - News search engine indexing thousands of sources with real-time headline updates.
 * [Newspaper Map](http://newspapermap.com) - Interactive map showing the locations of thousands of newspapers worldwide with direct links.
-* <img src="https://www.google.com/s2/favicons?domain=www.newspaperindex.com&sz=16" width="16" height="16"> [Newspaperindex](http://www.newspaperindex.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.newspapers.com&sz=16" width="16" height="16"> [Newspapers.com](http://www.newspapers.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.newswhip.com&sz=16" width="16" height="16"> [NewsWhip](http://www.newswhip.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.onlinenewspapers.com&sz=16" width="16" height="16"> [OnlineNewspapers](http://www.onlinenewspapers.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.thepaperboy.com&sz=16" width="16" height="16"> [Paperboy](http://www.thepaperboy.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=16" width="16" height="16"> [PR Newswire](http://www.prnewswire.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.pressreader.com&sz=16" width="16" height="16"> [Press Reader](http://www.pressreader.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.reuters.com&sz=16" width="16" height="16"> [Reuters](http://www.reuters.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.silobreaker.com&sz=16" width="16" height="16"> [Silobreaker](http://www.silobreaker.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.topix.com&sz=16" width="16" height="16"> [Topix](http://www.topix.com)
-* <img src="https://www.google.com/s2/favicons?domain=wn.com&sz=16" width="16" height="16"> [WorldNews](http://wn.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.world-newspapers.com&sz=16" width="16" height="16"> [World-Newspapers](http://www.world-newspapers.com)
-* <img src="https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=16" width="16" height="16"> [Yahoo News](http://news.yahoo.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.newspaperindex.com&sz=16" width="16" height="16"> [Newspaperindex](http://www.newspaperindex.com) - Search engine and directory for finding newspapers by name, location, or topic across many countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.newspapers.com&sz=16" width="16" height="16"> [Newspapers.com](http://www.newspapers.com) - Massive searchable archive of historical newspapers with billions of digitized pages for genealogy and research.
+* <img src="https://www.google.com/s2/favicons?domain=www.newswhip.com&sz=16" width="16" height="16"> [NewsWhip](http://www.newswhip.com) - Predictive media monitoring platform that identifies trending stories and viral content across social and news.
+* <img src="https://www.google.com/s2/favicons?domain=www.onlinenewspapers.com&sz=16" width="16" height="16"> [OnlineNewspapers](http://www.onlinenewspapers.com) - Directory listing thousands of online newspapers from countries worldwide, organized by continent and nation.
+* <img src="https://www.google.com/s2/favicons?domain=www.thepaperboy.com&sz=16" width="16" height="16"> [Paperboy](http://www.thepaperboy.com) - Global newspaper directory linking to front pages and websites of newspapers from over 100 countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.prnewswire.com&sz=16" width="16" height="16"> [PR Newswire](http://www.prnewswire.com) - Leading press release distribution service used by organizations to publish official news and announcements.
+* <img src="https://www.google.com/s2/favicons?domain=www.pressreader.com&sz=16" width="16" height="16"> [Press Reader](http://www.pressreader.com) - Digital newsstand providing full-page replicas of thousands of newspapers and magazines from around the world.
+* <img src="https://www.google.com/s2/favicons?domain=www.reuters.com&sz=16" width="16" height="16"> [Reuters](http://www.reuters.com) - Major international news agency delivering real-time financial, political, and general news coverage globally.
+* <img src="https://www.google.com/s2/favicons?domain=www.silobreaker.com&sz=16" width="16" height="16"> [Silobreaker](http://www.silobreaker.com) - AI-powered threat intelligence platform aggregating and analyzing news for security and risk monitoring.
+* <img src="https://www.google.com/s2/favicons?domain=www.topix.com&sz=16" width="16" height="16"> [Topix](http://www.topix.com) - Hyperlocal news aggregator organizing stories by city and topic from thousands of U.S. news sources.
+* <img src="https://www.google.com/s2/favicons?domain=wn.com&sz=16" width="16" height="16"> [WorldNews](http://wn.com) - Video news aggregator compiling broadcast clips and reports from news channels around the world.
+* <img src="https://www.google.com/s2/favicons?domain=www.world-newspapers.com&sz=16" width="16" height="16"> [World-Newspapers](http://www.world-newspapers.com) - Comprehensive directory of world newspapers and news media organized by country for global media research.
+* <img src="https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=16" width="16" height="16"> [Yahoo News](http://news.yahoo.com) - Yahoo's news aggregation service pulling stories from major outlets with personalized topic feeds.
 
 ## [↑](#-table-of-contents) 📡 News Digest and Discovery Tools
 
 * [Flipboard](https://flipboard.com) - News aggregation app curating stories from publishers and social media into magazine-style feeds.
-* <img src="https://www.google.com/s2/favicons?domain=www.inshorts.com&sz=16" width="16" height="16"> [Inshorts](https://www.inshorts.com)
-* <img src="https://www.google.com/s2/favicons?domain=newsinshorts.com&sz=16" width="16" height="16"> [Newsinshorts](http://newsinshorts.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.inshorts.com&sz=16" width="16" height="16"> [Inshorts](https://www.inshorts.com) - Indian news app delivering 60-word summaries of top stories for quick consumption of current events.
+* <img src="https://www.google.com/s2/favicons?domain=newsinshorts.com&sz=16" width="16" height="16"> [Newsinshorts](http://newsinshorts.com) - Short-format news service condensing stories into brief summaries for rapid news consumption on mobile.
 * [Nod](http://get-nod.com) - Chrome extension for quickly saving and organizing articles and web pages for later reading.
 * [Reeder](http://reederapp.com) - RSS feed reader app for macOS and iOS with a clean interface for following news sources.
-* <img src="https://www.google.com/s2/favicons?domain=www.newswhip.com&sz=16" width="16" height="16"> [Spike](http://www.newswhip.com)
-* <img src="https://www.google.com/s2/favicons?domain=storyful.com&sz=16" width="16" height="16"> [Storyful](http://storyful.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.superdesk.org&sz=16" width="16" height="16"> [Superdesk](https://www.superdesk.org)
-* <img src="https://www.google.com/s2/favicons?domain=trooclick.com&sz=16" width="16" height="16"> [Trooclick](http://trooclick.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.newswhip.com&sz=16" width="16" height="16"> [Spike](http://www.newswhip.com) - NewsWhip's real-time media monitoring tool that predicts which stories will go viral using engagement data.
+* <img src="https://www.google.com/s2/favicons?domain=storyful.com&sz=16" width="16" height="16"> [Storyful](http://storyful.com) - Social media verification agency that discovers, verifies, and clears user-generated content for newsrooms.
+* <img src="https://www.google.com/s2/favicons?domain=www.superdesk.org&sz=16" width="16" height="16"> [Superdesk](https://www.superdesk.org) - Open-source newsroom management system for end-to-end news creation, production, and multi-channel publishing.
+* <img src="https://www.google.com/s2/favicons?domain=trooclick.com&sz=16" width="16" height="16"> [Trooclick](http://trooclick.com) - Browser extension that automated fact-checking of news articles by cross-referencing claims against public data.
 
 ## [↑](#-table-of-contents) ✅ Fact Checking
 
 
-* <img src="https://www.google.com/s2/favicons?domain=captainfact.io&sz=16" width="16" height="16"> [Captin Fact](https://captainfact.io/)
-* <img src="https://www.google.com/s2/favicons?domain=meedan.com&sz=16" width="16" height="16"> [Check](https://meedan.com/check)
+* <img src="https://www.google.com/s2/favicons?domain=captainfact.io&sz=16" width="16" height="16"> [Captin Fact](https://captainfact.io/) - Open-source collaborative platform for real-time fact-checking of YouTube video claims with community sourcing.
+* <img src="https://www.google.com/s2/favicons?domain=meedan.com&sz=16" width="16" height="16"> [Check](https://meedan.com/check) - Collaborative media verification platform by Meedan for fact-checking content across messaging apps and social media.
 * [Emergent](http://www.emergent.info) - Real-time rumor tracker that monitors how unverified claims spread through online news and social media.
-* <img src="https://www.google.com/s2/favicons?domain=www.factcheck.org&sz=16" width="16" height="16"> [Fact Check](http://www.factcheck.org)
-* <img src="https://www.google.com/s2/favicons?domain=fullfact.org&sz=16" width="16" height="16"> [Full Fact](https://fullfact.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.factcheck.org&sz=16" width="16" height="16"> [Fact Check](http://www.factcheck.org) - Nonpartisan project by the Annenberg Public Policy Center monitoring accuracy of U.S. political claims.
+* <img src="https://www.google.com/s2/favicons?domain=fullfact.org&sz=16" width="16" height="16"> [Full Fact](https://fullfact.org) - UK independent fact-checking organization that verifies claims by politicians, media, and public figures.
 * <img src="https://www.google.com/s2/favicons?domain=www.snopes.com&sz=16" width="16" height="16"> [Snopes](http://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
-* <img src="https://www.google.com/s2/favicons?domain=verificationhandbook.com&sz=16" width="16" height="16"> [Verification Handbook](http://verificationhandbook.com)
+* <img src="https://www.google.com/s2/favicons?domain=verificationhandbook.com&sz=16" width="16" height="16"> [Verification Handbook](http://verificationhandbook.com) - Guide for journalists and responders on verifying user-generated content and digital sources during emergencies.
 
 ## [↑](#-table-of-contents) 📊 Data and Statistics
 
 * [AGOA Data Center](http://agoa.info) - Trade data and analysis for the African Growth and Opportunity Act covering US-Africa commerce.
-* <img src="https://www.google.com/s2/favicons?domain=aiddata.org&sz=16" width="16" height="16"> [AidData](http://aiddata.org)
-* <img src="https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=16" width="16" height="16"> [AWS Public Datasets](http://aws.amazon.com/datasets)
-* <img src="https://www.google.com/s2/favicons?domain=www.bis.org&sz=16" width="16" height="16"> [Bank for International Settlements Statistics](http://www.bis.org/statistics/index.htm)
-* <img src="https://www.google.com/s2/favicons?domain=www.lib.berkeley.edu&sz=16" width="16" height="16"> [Berkely Library: Data Lab](http://www.lib.berkeley.edu/libraries/data-lab)
-* <img src="https://www.google.com/s2/favicons?domain=www.bp.com&sz=16" width="16" height="16"> [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
+* <img src="https://www.google.com/s2/favicons?domain=aiddata.org&sz=16" width="16" height="16"> [AidData](http://aiddata.org) - Research lab tracking international development finance flows with geocoded datasets on aid and investment worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=16" width="16" height="16"> [AWS Public Datasets](http://aws.amazon.com/datasets) - Centralized registry of publicly available datasets hosted on Amazon Web Services for research and analysis.
+* <img src="https://www.google.com/s2/favicons?domain=www.bis.org&sz=16" width="16" height="16"> [Bank for International Settlements Statistics](http://www.bis.org/statistics/index.htm) - International financial statistics from central banks covering banking, securities, derivatives, and payment systems globally.
+* <img src="https://www.google.com/s2/favicons?domain=www.lib.berkeley.edu&sz=16" width="16" height="16"> [Berkely Library: Data Lab](http://www.lib.berkeley.edu/libraries/data-lab) - UC Berkeley library resource offering data consultation, tools, and access to statistical datasets for research.
+* <img src="https://www.google.com/s2/favicons?domain=www.bp.com&sz=16" width="16" height="16"> [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html) - Annual compilation of global energy data covering production, consumption, and prices across all fuel types.
 * [Center for International Earth Science Information Network](http://www.ciesin.org) - Columbia University center providing geospatial population, poverty, and environmental datasets.
-* <img src="https://www.google.com/s2/favicons?domain=www.cepii.fr&sz=16" width="16" height="16"> [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
-* <img src="https://www.google.com/s2/favicons?domain=www.cia.gov&sz=16" width="16" height="16"> [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+* <img src="https://www.google.com/s2/favicons?domain=www.cepii.fr&sz=16" width="16" height="16"> [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp) - French research center providing databases on international trade, gravity models, and macroeconomic indicators for 165+ countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.cia.gov&sz=16" width="16" height="16"> [CIA World Factbook](https://www.cia.gov/the-world-factbook/) - Comprehensive reference on every country's demographics, economy, government, military, and geography maintained by the CIA.
 * [Data.gov.uk](https://data.gov.uk) - UK government open data portal with thousands of datasets across public services and statistics.
-* <img src="https://www.google.com/s2/favicons?domain=wiki.dbpedia.org&sz=16" width="16" height="16"> [DBPedia](http://wiki.dbpedia.org)
+* <img src="https://www.google.com/s2/favicons?domain=wiki.dbpedia.org&sz=16" width="16" height="16"> [DBPedia](http://wiki.dbpedia.org) - Structured knowledge base extracting factual data from Wikipedia into machine-readable RDF format for querying.
 * [European Union Open Data Portal](http://open-data.europa.eu/en/data) - Official EU open data repository with datasets from European institutions and agencies.
-* <img src="https://www.google.com/s2/favicons?domain=ec.europa.eu&sz=16" width="16" height="16"> [Eurostat](http://ec.europa.eu/eurostat)
-* <img src="https://www.google.com/s2/favicons?domain=developers.google.com&sz=16" width="16" height="16"> [Freebase](https://developers.google.com/freebase)
-* <img src="https://www.google.com/s2/favicons?domain=www.gapminder.org&sz=16" width="16" height="16"> [Gapminder World](http://www.gapminder.org/data)
-* <img src="https://www.google.com/s2/favicons?domain=globaledge.msu.edu&sz=16" width="16" height="16"> [globalEDGE Database of International Business Statistics](http://globaledge.msu.edu/tools-and-data/dibs)
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Finance](https://www.google.com/finance)
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Public Data Explorer](http://www.google.com/publicdata/directory)
-* <img src="https://www.google.com/s2/favicons?domain=open.canada.ca&sz=16" width="16" height="16"> [Government of Canada Open Data](http://open.canada.ca/en)
-* <img src="https://www.google.com/s2/favicons?domain=www.ihs.com&sz=16" width="16" height="16"> [HIS Piers](https://www.ihs.com/products/piers.html)
-* <img src="https://www.google.com/s2/favicons?domain=hdr.undp.org&sz=16" width="16" height="16"> [Human Development Reports](http://hdr.undp.org/en/global-reports)
-* <img src="https://www.google.com/s2/favicons?domain=www.ilo.org&sz=16" width="16" height="16"> [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm)
-* <img src="https://www.google.com/s2/favicons?domain=www.ilo.org&sz=16" width="16" height="16"> [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9)
-* <img src="https://www.google.com/s2/favicons?domain=www.imf.org&sz=16" width="16" height="16"> [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28)
-* <img src="https://www.google.com/s2/favicons?domain=www.indexmundi.com&sz=16" width="16" height="16"> [Index Mundi](http://www.indexmundi.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.iea.org&sz=16" width="16" height="16"> [International Energy Agency Statistics](http://www.iea.org/statistics)
-* <img src="https://www.google.com/s2/favicons?domain=www.bls.gov&sz=16" width="16" height="16"> [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm)
+* <img src="https://www.google.com/s2/favicons?domain=ec.europa.eu&sz=16" width="16" height="16"> [Eurostat](http://ec.europa.eu/eurostat) - Official statistical office of the European Union providing comparable data across EU member states and regions.
+* <img src="https://www.google.com/s2/favicons?domain=developers.google.com&sz=16" width="16" height="16"> [Freebase](https://developers.google.com/freebase) - Google's open knowledge graph database of structured data on people, places, and things with API access.
+* <img src="https://www.google.com/s2/favicons?domain=www.gapminder.org&sz=16" width="16" height="16"> [Gapminder World](http://www.gapminder.org/data) - Interactive visualization tool presenting global development indicators on health, wealth, and population over time.
+* <img src="https://www.google.com/s2/favicons?domain=globaledge.msu.edu&sz=16" width="16" height="16"> [globalEDGE Database of International Business Statistics](http://globaledge.msu.edu/tools-and-data/dibs) - Michigan State University database offering 2,460 fields of international business statistics across countries and years.
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Finance](https://www.google.com/finance) - Real-time and historical financial market data including stock quotes, currency rates, and market trends from Google.
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Public Data Explorer](http://www.google.com/publicdata/directory) - Interactive tool for exploring and visualizing large public datasets from international organizations and statistical offices.
+* <img src="https://www.google.com/s2/favicons?domain=open.canada.ca&sz=16" width="16" height="16"> [Government of Canada Open Data](http://open.canada.ca/en) - Canadian federal government portal providing free access to datasets on health, environment, finance, and public services.
+* <img src="https://www.google.com/s2/favicons?domain=www.ihs.com&sz=16" width="16" height="16"> [HIS Piers](https://www.ihs.com/products/piers.html) - Port Import/Export Reporting Service providing U.S. waterborne trade data from bills of lading for shipping analysis.
+* <img src="https://www.google.com/s2/favicons?domain=hdr.undp.org&sz=16" width="16" height="16"> [Human Development Reports](http://hdr.undp.org/en/global-reports) - UNDP reports measuring country-level progress in health, education, and living standards through the Human Development Index.
+* <img src="https://www.google.com/s2/favicons?domain=www.ilo.org&sz=16" width="16" height="16"> [ILO World Employment and Social Outlook Trends](http://www.ilo.org/global/research/global-reports/weso/2015/lang--en/index.htm) - ILO flagship report analyzing global employment trends, working conditions, and labor market projections by region.
+* <img src="https://www.google.com/s2/favicons?domain=www.ilo.org&sz=16" width="16" height="16"> [ILOSTAT](http://www.ilo.org/ilostat/faces/oracle/webcenter/portalapp/pagehierarchy/Page137.jspx?_afrLoop=443508925711569&clean=true#%40%3F_afrLoop%3D443508925711569%26clean%3Dtrue%26_adf.ctrl-state%3Dl4dwldaf3_9) - International Labour Organization statistical database providing labor market indicators for over 200 countries since 1970.
+* <img src="https://www.google.com/s2/favicons?domain=www.imf.org&sz=16" width="16" height="16"> [IMF World Economic Outlook Database](http://www.imf.org/external/ns/cs.aspx?id=28) - IMF database of macroeconomic forecasts and projections for GDP, inflation, and trade across member countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.indexmundi.com&sz=16" width="16" height="16"> [Index Mundi](http://www.indexmundi.com) - Country comparison tool aggregating statistics from the CIA, UN, and World Bank on demographics and economics.
+* <img src="https://www.google.com/s2/favicons?domain=www.iea.org&sz=16" width="16" height="16"> [International Energy Agency Statistics](http://www.iea.org/statistics) - Comprehensive energy statistics covering supply, demand, prices, and emissions for IEA member and partner countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.bls.gov&sz=16" width="16" height="16"> [International Labour Comparisons](http://www.bls.gov/fls/chartbook.htm) - Bureau of Labor Statistics resource comparing labor costs, productivity, and employment across major economies.
 * [International Trade Center](http://www.intracen.org/ByCountry.aspx) - UN/WTO trade statistics and market analysis data organized by country and product.
-* <img src="https://www.google.com/s2/favicons?domain=junar.com&sz=16" width="16" height="16"> [Junar](http://junar.com)
-* <img src="https://www.google.com/s2/favicons?domain=knoema.com&sz=16" width="16" height="16"> [Knoema](https://knoema.com)
-* <img src="https://www.google.com/s2/favicons?domain=landmatrix.org&sz=16" width="16" height="16"> [LandMatrix](http://landmatrix.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.latinobarometro.org&sz=16" width="16" height="16"> [Latinobarometro](http://www.latinobarometro.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.lib.umich.edu&sz=16" width="16" height="16"> [Library, University of Michigan: Statistics and Datasets](http://www.lib.umich.edu/browse/Statistics%20and%20Data%20Sets)
-* <img src="https://www.google.com/s2/favicons?domain=www.nationmaster.com&sz=16" width="16" height="16"> [Nation Master](http://www.nationmaster.com/statistics)
-* <img src="https://www.google.com/s2/favicons?domain=www.oecd.org&sz=16" width="16" height="16"> [OECD Aid Database](http://www.oecd.org/dac/stats/data.htm)
-* <img src="https://www.google.com/s2/favicons?domain=data.oecd.org&sz=16" width="16" height="16"> [OECD Data](https://data.oecd.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.oecd-ilibrary.org&sz=16" width="16" height="16"> [OECD Factbook](http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364)
+* <img src="https://www.google.com/s2/favicons?domain=junar.com&sz=16" width="16" height="16"> [Junar](http://junar.com) - Cloud-based open data platform enabling governments and organizations to publish, manage, and share datasets via APIs.
+* <img src="https://www.google.com/s2/favicons?domain=knoema.com&sz=16" width="16" height="16"> [Knoema](https://knoema.com) - Data aggregator offering searchable statistics and visualizations from hundreds of public and proprietary global sources.
+* <img src="https://www.google.com/s2/favicons?domain=landmatrix.org&sz=16" width="16" height="16"> [LandMatrix](http://landmatrix.org) - Global observatory monitoring large-scale land acquisitions and deals in low- and middle-income countries for transparency.
+* <img src="https://www.google.com/s2/favicons?domain=www.latinobarometro.org&sz=16" width="16" height="16"> [Latinobarometro](http://www.latinobarometro.org) - Annual public opinion survey measuring democratic attitudes, economic perceptions, and social values across 18 Latin American countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.lib.umich.edu&sz=16" width="16" height="16"> [Library, University of Michigan: Statistics and Datasets](http://www.lib.umich.edu/browse/Statistics%20and%20Data%20Sets) - University of Michigan library guide curating links to major statistical datasets across social sciences and public policy.
+* <img src="https://www.google.com/s2/favicons?domain=www.nationmaster.com&sz=16" width="16" height="16"> [Nation Master](http://www.nationmaster.com/statistics) - Country comparison website offering ranked statistics on economy, health, education, and environment from public data sources.
+* <img src="https://www.google.com/s2/favicons?domain=www.oecd.org&sz=16" width="16" height="16"> [OECD Aid Database](http://www.oecd.org/dac/stats/data.htm) - OECD database tracking official development assistance and aid flows from donor countries to developing nations.
+* <img src="https://www.google.com/s2/favicons?domain=data.oecd.org&sz=16" width="16" height="16"> [OECD Data](https://data.oecd.org) - Open data portal from the OECD providing downloadable indicators on economy, education, health, and environment for member countries.
+* <img src="https://www.google.com/s2/favicons?domain=www.oecd-ilibrary.org&sz=16" width="16" height="16"> [OECD Factbook](http://www.oecd-ilibrary.org/economics/oecd-factbook_18147364) - OECD annual compendium of key economic, social, and environmental statistics for member and partner countries.
 * [Open Data Network](http://www.opendatanetwork.com) - Search engine for open government datasets from cities, states, and federal agencies across the US.
 * [Paul Hensel's General Informational Data Page](http://www.paulhensel.org/dataintl.html) - Curated collection of international relations datasets covering conflicts, territory, and governance.
-* <img src="https://www.google.com/s2/favicons?domain=www.rug.nl&sz=16" width="16" height="16"> [Penn World Table](http://www.rug.nl/research/ggdc/data/pwt/pwt-8.1)
-* <img src="https://www.google.com/s2/favicons?domain=www.pewinternet.org&sz=16" width="16" height="16"> [Pew Research Center](http://www.pewinternet.org/datasets)
-* <img src="https://www.google.com/s2/favicons?domain=www.prb.org&sz=16" width="16" height="16"> [Population Reference Bureau Data Finder](http://www.prb.org/DataFinder.aspx)
-* <img src="https://www.google.com/s2/favicons?domain=www.prsgroup.com&sz=16" width="16" height="16"> [PRS Risk Indicators](http://www.prsgroup.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.sesric.org&sz=16" width="16" height="16"> [SESRIC Basic Social and Economic Indicators](http://www.sesric.org/baseind.php)
-* <img src="https://www.google.com/s2/favicons?domain=www.sesric.org&sz=16" width="16" height="16"> [SESRIC Databases](http://www.sesric.org/databases-index.php)
-* <img src="https://www.google.com/s2/favicons?domain=www.statista.com&sz=16" width="16" height="16"> [Statista](http://www.statista.com)
-* <img src="https://www.google.com/s2/favicons?domain=atlas.cid.harvard.edu&sz=16" width="16" height="16"> [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu)
+* <img src="https://www.google.com/s2/favicons?domain=www.rug.nl&sz=16" width="16" height="16"> [Penn World Table](http://www.rug.nl/research/ggdc/data/pwt/pwt-8.1) - Academic dataset providing purchasing-power-parity-adjusted GDP and productivity comparisons across 183 countries since 1950.
+* <img src="https://www.google.com/s2/favicons?domain=www.pewinternet.org&sz=16" width="16" height="16"> [Pew Research Center](http://www.pewinternet.org/datasets) - Downloadable survey datasets from Pew Research Center covering internet usage, technology adoption, and digital trends.
+* <img src="https://www.google.com/s2/favicons?domain=www.prb.org&sz=16" width="16" height="16"> [Population Reference Bureau Data Finder](http://www.prb.org/DataFinder.aspx) - Interactive tool for accessing population, health, and environment statistics for countries and regions worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.prsgroup.com&sz=16" width="16" height="16"> [PRS Risk Indicators](http://www.prsgroup.com) - Political risk rating service providing country risk scores covering political stability, financial transfer, and investment risk.
+* <img src="https://www.google.com/s2/favicons?domain=www.sesric.org&sz=16" width="16" height="16"> [SESRIC Basic Social and Economic Indicators](http://www.sesric.org/baseind.php) - Socioeconomic indicators database covering 57 OIC member countries across 24 categories dating back to 1970.
+* <img src="https://www.google.com/s2/favicons?domain=www.sesric.org&sz=16" width="16" height="16"> [SESRIC Databases](http://www.sesric.org/databases-index.php) - Collection of statistical databases maintained by SESRIC on economic and social conditions in Islamic Cooperation member states.
+* <img src="https://www.google.com/s2/favicons?domain=www.statista.com&sz=16" width="16" height="16"> [Statista](http://www.statista.com) - Major statistics portal providing market data, consumer insights, and industry reports across 170+ industries and 150 countries.
+* <img src="https://www.google.com/s2/favicons?domain=atlas.cid.harvard.edu&sz=16" width="16" height="16"> [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu) - Harvard visualization tool mapping global trade flows and economic complexity to identify growth opportunities for countries.
 * [The Data and Story Library](http://lib.stat.cmu.edu/DASL) - Carnegie Mellon archive of statistical datasets with context stories for teaching and analysis.
-* <img src="https://www.google.com/s2/favicons?domain=www.tradingeconomics.com&sz=16" width="16" height="16"> [Trading Economics](http://www.tradingeconomics.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.transparency.org&sz=16" width="16" height="16"> [Transparency.org Corruption Perception Index](http://www.transparency.org/cpi2015)
-* <img src="https://www.google.com/s2/favicons?domain=comtrade.un.org&sz=16" width="16" height="16"> [UN COMTRADE Database](http://comtrade.un.org)
-* <img src="https://www.google.com/s2/favicons?domain=data.un.org&sz=16" width="16" height="16"> [UN Data](http://data.un.org)
-* <img src="https://www.google.com/s2/favicons?domain=unctad.org&sz=16" width="16" height="16"> [UNCTAD Country Fact Sheets](http://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Country-Fact-Sheets.aspx)
-* <img src="https://www.google.com/s2/favicons?domain=unctad.org&sz=16" width="16" height="16"> [UNCTAD Investment Country Profiles](http://unctad.org/en/Pages/Publications/Investment-country-profiles.aspx)
-* <img src="https://www.google.com/s2/favicons?domain=unctadstat.unctad.org&sz=16" width="16" height="16"> [UNCTAD STAT](http://unctadstat.unctad.org)
-* <img src="https://www.google.com/s2/favicons?domain=hdr.undp.org&sz=16" width="16" height="16"> [UNDPs Human Development Index](http://hdr.undp.org/en/data)
-* <img src="https://www.google.com/s2/favicons?domain=w3.unece.org&sz=16" width="16" height="16"> [UNECE](http://w3.unece.org/PXWeb/en)
+* <img src="https://www.google.com/s2/favicons?domain=www.tradingeconomics.com&sz=16" width="16" height="16"> [Trading Economics](http://www.tradingeconomics.com) - Economic data platform offering real-time indicators, forecasts, and historical data for 196 countries and 20 million series.
+* <img src="https://www.google.com/s2/favicons?domain=www.transparency.org&sz=16" width="16" height="16"> [Transparency.org Corruption Perception Index](http://www.transparency.org/cpi2015) - Annual index ranking countries by perceived public-sector corruption based on expert assessments and business surveys.
+* <img src="https://www.google.com/s2/favicons?domain=comtrade.un.org&sz=16" width="16" height="16"> [UN COMTRADE Database](http://comtrade.un.org) - United Nations database of detailed international trade statistics by commodity and partner country with global coverage.
+* <img src="https://www.google.com/s2/favicons?domain=data.un.org&sz=16" width="16" height="16"> [UN Data](http://data.un.org) - Central portal for accessing United Nations statistical databases on population, trade, development, and environment.
+* <img src="https://www.google.com/s2/favicons?domain=unctad.org&sz=16" width="16" height="16"> [UNCTAD Country Fact Sheets](http://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Country-Fact-Sheets.aspx) - UNCTAD country-level fact sheets summarizing foreign direct investment trends, flows, and policy frameworks.
+* <img src="https://www.google.com/s2/favicons?domain=unctad.org&sz=16" width="16" height="16"> [UNCTAD Investment Country Profiles](http://unctad.org/en/Pages/Publications/Investment-country-profiles.aspx) - UNCTAD profiles analyzing investment policies, bilateral treaties, and FDI performance for individual countries.
+* <img src="https://www.google.com/s2/favicons?domain=unctadstat.unctad.org&sz=16" width="16" height="16"> [UNCTAD STAT](http://unctadstat.unctad.org) - UNCTAD statistical database covering international trade, investment, commodities, and development indicators for all countries.
+* <img src="https://www.google.com/s2/favicons?domain=hdr.undp.org&sz=16" width="16" height="16"> [UNDPs Human Development Index](http://hdr.undp.org/en/data) - Interactive data explorer for the UNDP Human Development Index measuring life expectancy, education, and income by country.
+* <img src="https://www.google.com/s2/favicons?domain=w3.unece.org&sz=16" width="16" height="16"> [UNECE](http://w3.unece.org/PXWeb/en) - Portal for United Nations Economic Commission for Europe statistical databases covering trade, transport, and economic data.
 * [UNESCO Institute for Statistics](http://uis.unesco.org) - Global statistics on education, science, culture, and communication from 200+ countries.
-* <img src="https://www.google.com/s2/favicons?domain=www.unido.org&sz=16" width="16" height="16"> [UNIDO Statistical Databases](http://www.unido.org/resources/statistics/statistical-databases.html)
-* <img src="https://www.google.com/s2/favicons?domain=unstats.un.org&sz=16" width="16" height="16"> [UNStats Social Indicators](http://unstats.un.org/unsd/demographic/products/socind)
-* <img src="https://www.google.com/s2/favicons?domain=www.pcr.uu.se&sz=16" width="16" height="16"> [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP)
-* <img src="https://www.google.com/s2/favicons?domain=www.usa.gov&sz=16" width="16" height="16"> [US Data and Statistics](https://www.usa.gov/statistics)
-* <img src="https://www.google.com/s2/favicons?domain=vizala.com&sz=16" width="16" height="16"> [Vizala](https://vizala.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.who.int&sz=16" width="16" height="16"> [WHO Data](http://www.who.int/gho/en)
-* <img src="https://www.google.com/s2/favicons?domain=data.worldbank.org&sz=16" width="16" height="16"> [World Bank Data](http://data.worldbank.org)
-* <img src="https://www.google.com/s2/favicons?domain=datatopics.worldbank.org&sz=16" width="16" height="16"> [World Bank Data](http://datatopics.worldbank.org/consumption/home)
-* <img src="https://www.google.com/s2/favicons?domain=www.doingbusiness.org&sz=16" width="16" height="16"> [World Bank Doing Business](http://www.doingbusiness.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.enterprisesurveys.org&sz=16" width="16" height="16"> [World Bank Enterprise Surveys](http://www.enterprisesurveys.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.unido.org&sz=16" width="16" height="16"> [UNIDO Statistical Databases](http://www.unido.org/resources/statistics/statistical-databases.html) - United Nations Industrial Development Organization databases providing global manufacturing and industrial performance statistics.
+* <img src="https://www.google.com/s2/favicons?domain=unstats.un.org&sz=16" width="16" height="16"> [UNStats Social Indicators](http://unstats.un.org/unsd/demographic/products/socind) - United Nations demographic and social indicators including population, housing, education, and health statistics by country.
+* <img src="https://www.google.com/s2/favicons?domain=www.pcr.uu.se&sz=16" width="16" height="16"> [Upsala Conflict Data Program](http://www.pcr.uu.se/research/UCDP) - Academic dataset tracking armed conflicts, organized violence, and peacemaking efforts worldwide since 1946.
+* <img src="https://www.google.com/s2/favicons?domain=www.usa.gov&sz=16" width="16" height="16"> [US Data and Statistics](https://www.usa.gov/statistics) - Official U.S. government portal aggregating federal statistics on demographics, economics, health, and public policy.
+* <img src="https://www.google.com/s2/favicons?domain=vizala.com&sz=16" width="16" height="16"> [Vizala](https://vizala.com) - Free online database aggregating demographic, economic, and market research statistics from over 20 public sources by country.
+* <img src="https://www.google.com/s2/favicons?domain=www.who.int&sz=16" width="16" height="16"> [WHO Data](http://www.who.int/gho/en) - World Health Organization Global Health Observatory providing datasets on diseases, health systems, and mortality worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=data.worldbank.org&sz=16" width="16" height="16"> [World Bank Data](http://data.worldbank.org) - Open data catalog from the World Bank offering development indicators for every country including GDP, poverty, and education.
+* <img src="https://www.google.com/s2/favicons?domain=datatopics.worldbank.org&sz=16" width="16" height="16"> [World Bank Data](http://datatopics.worldbank.org/consumption/home) - World Bank household consumption and expenditure data comparing spending patterns across countries and income groups.
+* <img src="https://www.google.com/s2/favicons?domain=www.doingbusiness.org&sz=16" width="16" height="16"> [World Bank Doing Business](http://www.doingbusiness.org) - World Bank benchmarking of business regulations measuring ease of starting and operating companies across economies.
+* <img src="https://www.google.com/s2/favicons?domain=www.enterprisesurveys.org&sz=16" width="16" height="16"> [World Bank Enterprise Surveys](http://www.enterprisesurveys.org) - World Bank survey data on the business environment in emerging markets covering corruption, infrastructure, and competition.
 * [World Bank Investing Across Borders](http://iab.worldbank.org) - Comparative data on foreign investment regulations, business laws, and arbitration across economies.
-* <img src="https://www.google.com/s2/favicons?domain=wits.worldbank.org&sz=16" width="16" height="16"> [World Integrated Trade Solution](http://wits.worldbank.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.wto.org&sz=16" width="16" height="16"> [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm)
-* [Zanran](http://zanran.com)
+* <img src="https://www.google.com/s2/favicons?domain=wits.worldbank.org&sz=16" width="16" height="16"> [World Integrated Trade Solution](http://wits.worldbank.org) - World Bank trade analysis tool providing access to international merchandise trade, tariff, and non-tariff data.
+* <img src="https://www.google.com/s2/favicons?domain=www.wto.org&sz=16" width="16" height="16"> [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm) - World Trade Organization statistical portal covering global trade flows, tariffs, and trade policy indicators.
+* [Zanran](http://zanran.com) - Search engine specialized in finding numerical data, graphs, charts, and tables embedded in web pages and PDF reports.
 
 ## [↑](#-table-of-contents) 👀 Web Monitoring
 
-* <img src="https://www.google.com/s2/favicons?domain=alltop.com&sz=16" width="16" height="16"> [Alltop](http://alltop.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.awasu.com&sz=16" width="16" height="16"> [Awasu](http://www.awasu.com)
+* <img src="https://www.google.com/s2/favicons?domain=alltop.com&sz=16" width="16" height="16"> [Alltop](http://alltop.com) - Content aggregator that curates top stories and RSS feeds across hundreds of topics for trend monitoring.
+* <img src="https://www.google.com/s2/favicons?domain=www.awasu.com&sz=16" width="16" height="16"> [Awasu](http://www.awasu.com) - Advanced desktop RSS feed reader with plugin architecture supporting custom channels, filters, and automated monitoring.
 * [Bridge.Leslibres](https://bridge.leslibres.org) - Self-hosted RSS bridge generating feeds from websites that don't natively provide them.
-* <img src="https://www.google.com/s2/favicons?domain=bridge.suumitsu.eu&sz=16" width="16" height="16"> [Bridge.Suumitsu](https://bridge.suumitsu.eu)
+* <img src="https://www.google.com/s2/favicons?domain=bridge.suumitsu.eu&sz=16" width="16" height="16"> [Bridge.Suumitsu](https://bridge.suumitsu.eu) - Public instance of RSS-Bridge that generates RSS feeds from websites and social platforms that lack native feed support.
 * [ChangeDetection.io](https://changedetection.io) - Open-source website change monitoring tool that alerts you when web pages are modified.
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [ChangeDetection.io Open Source](https://github.com/dgtlmoon/changedetection.io)
-* <img src="https://www.google.com/s2/favicons?domain=www.changedetect.com&sz=16" width="16" height="16"> [ChangeDetect](http://www.changedetect.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.changedetection.com&sz=16" width="16" height="16"> [ChangeDetection](http://www.changedetection.com)
-* <img src="https://www.google.com/s2/favicons?domain=bitreading.com&sz=16" width="16" height="16"> [Deltafeed](http://bitreading.com/deltafeed)
-* <img src="https://www.google.com/s2/favicons?domain=digg.com&sz=16" width="16" height="16"> [DiggReader](http://digg.com/login?next=%2Freader)
-* <img src="https://www.google.com/s2/favicons?domain=www.qsensei.com&sz=16" width="16" height="16"> [FeedBooster](http://www.qsensei.com)
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [ChangeDetection.io Open Source](https://github.com/dgtlmoon/changedetection.io) - Open-source self-hosted tool for detecting website content changes with visual diff, notifications, and API support.
+* <img src="https://www.google.com/s2/favicons?domain=www.changedetect.com&sz=16" width="16" height="16"> [ChangeDetect](http://www.changedetect.com) - Free web service that monitors web pages for changes and sends email alerts when updates are detected.
+* <img src="https://www.google.com/s2/favicons?domain=www.changedetection.com&sz=16" width="16" height="16"> [ChangeDetection](http://www.changedetection.com) - Website change detection service that tracks page modifications and delivers notifications via email or RSS.
+* <img src="https://www.google.com/s2/favicons?domain=bitreading.com&sz=16" width="16" height="16"> [Deltafeed](http://bitreading.com/deltafeed) - Webpage monitoring service that converts website changes into RSS feeds delivered to your inbox or feed reader.
+* <img src="https://www.google.com/s2/favicons?domain=digg.com&sz=16" width="16" height="16"> [DiggReader](http://digg.com/login?next=%2Freader) - Digg-powered RSS reader that curates and organizes news feeds with a clean reading interface.
+* <img src="https://www.google.com/s2/favicons?domain=www.qsensei.com&sz=16" width="16" height="16"> [FeedBooster](http://www.qsensei.com) - RSS feed reader powered by multi-dimensional search technology for advanced filtering by date, author, source, and language.
 * [Feederator](http://www.feederator.org) - RSS feed aggregator and reader for monitoring multiple news sources in one place.
-* <img src="https://www.google.com/s2/favicons?domain=feed.exileed.com&sz=16" width="16" height="16"> [Feed Exileed](http://feed.exileed.com)
-* <img src="https://www.google.com/s2/favicons?domain=feed.janicek.co&sz=16" width="16" height="16"> [Feed Filter Maker](http://feed.janicek.co)
-* <img src="https://www.google.com/s2/favicons?domain=www.feedly.com&sz=16" width="16" height="16"> [Feedly](http://www.feedly.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.feedreader.com&sz=16" width="16" height="16"> [FeedReader](http://www.feedreader.com)
-* <img src="https://www.google.com/s2/favicons?domain=fetchrss.com&sz=16" width="16" height="16"> [FetchRSS](http://fetchrss.com)
+* <img src="https://www.google.com/s2/favicons?domain=feed.exileed.com&sz=16" width="16" height="16"> [Feed Exileed](http://feed.exileed.com) - Online tool that generates RSS feeds from social media platforms and websites that do not offer native feed support.
+* <img src="https://www.google.com/s2/favicons?domain=feed.janicek.co&sz=16" width="16" height="16"> [Feed Filter Maker](http://feed.janicek.co) - Web tool for creating filtered RSS feeds by applying custom rules to transform and refine existing feed content.
+* <img src="https://www.google.com/s2/favicons?domain=www.feedly.com&sz=16" width="16" height="16"> [Feedly](http://www.feedly.com) - Popular cloud-based RSS reader and news aggregator with AI-powered topic discovery and cross-platform support.
+* <img src="https://www.google.com/s2/favicons?domain=www.feedreader.com&sz=16" width="16" height="16"> [FeedReader](http://www.feedreader.com) - Lightweight desktop RSS and Atom feed reader for Windows with folder organization and automatic update checking.
+* <img src="https://www.google.com/s2/favicons?domain=fetchrss.com&sz=16" width="16" height="16"> [FetchRSS](http://fetchrss.com) - Web service that creates RSS feeds from any webpage, allowing users to monitor sites without native feed support.
 * [Flipboard](http://flipboard.com) - News aggregation app curating stories from publishers and social media into magazine-style feeds.
 * [FollowThatPage](http://www.followthatpage.com) - Web page change detection service that emails you when monitored pages are updated.
 * <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Alerts](http://www.google.com/alerts) - A content change detection and notification service.
-* <img src="https://www.google.com/s2/favicons?domain=www.infominder.com&sz=16" width="16" height="16"> [InfoMinder](http://www.infominder.com/webminder)
-* <img src="https://www.google.com/s2/favicons?domain=en.mention.com&sz=16" width="16" height="16"> [Mention](https://en.mention.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.netvibes.com&sz=16" width="16" height="16"> [Netvibes](http://www.netvibes.com)
-* <img src="https://www.google.com/s2/favicons?domain=newsblur.com&sz=16" width="16" height="16"> [Newsblur](http://newsblur.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=16" width="16" height="16"> [OmeaReader](http://www.jetbrains.com/omea/reader)
-* <img src="https://www.google.com/s2/favicons?domain=onwebchange.com&sz=16" width="16" height="16"> [OnWebChange](http://onwebchange.com)
-* [Reeder](http://reederapp.com)
-* <img src="https://www.google.com/s2/favicons?domain=bridge.suumitsu.eu&sz=16" width="16" height="16"> [RSS Bridge](https://bridge.suumitsu.eu)
-* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)
+* <img src="https://www.google.com/s2/favicons?domain=www.infominder.com&sz=16" width="16" height="16"> [InfoMinder](http://www.infominder.com/webminder) - Web page tracking and monitoring tool that detects content changes on websites and delivers alerts automatically.
+* <img src="https://www.google.com/s2/favicons?domain=en.mention.com&sz=16" width="16" height="16"> [Mention](https://en.mention.com) - Real-time media monitoring platform that tracks brand mentions across web, social media, and news sources.
+* <img src="https://www.google.com/s2/favicons?domain=www.netvibes.com&sz=16" width="16" height="16"> [Netvibes](http://www.netvibes.com) - Customizable dashboard platform for monitoring RSS feeds, social media, and web analytics in a unified interface.
+* <img src="https://www.google.com/s2/favicons?domain=newsblur.com&sz=16" width="16" height="16"> [Newsblur](http://newsblur.com) - Open-source RSS reader with intelligence training that learns reading preferences and highlights relevant stories.
+* <img src="https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=16" width="16" height="16"> [OmeaReader](http://www.jetbrains.com/omea/reader) - JetBrains desktop RSS reader with integrated search, categorization, and newspaper-style reading views.
+* <img src="https://www.google.com/s2/favicons?domain=onwebchange.com&sz=16" width="16" height="16"> [OnWebChange](http://onwebchange.com) - Cloud-based service that monitors web pages for content changes and sends notifications within minutes of detection.
+* [Reeder](http://reederapp.com) - Minimalist RSS and Atom feed reader for macOS and iOS with iCloud sync and Readability integration.
+* <img src="https://www.google.com/s2/favicons?domain=bridge.suumitsu.eu&sz=16" width="16" height="16"> [RSS Bridge](https://bridge.suumitsu.eu) - Open-source PHP application that generates RSS feeds for websites missing native feed support across hundreds of platforms.
+* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) - Chrome browser extension that detects and displays RSS feeds on web pages for easy subscription and reading.
 * [RSS Micro](http://www.rssmicro.com) - RSS feed search engine for discovering feeds on any topic across the web.
 * [RSS Search Engine](http://ctrlq.org/rss) - Find RSS feeds for any website by searching its URL or keywords.
 * [RSS Search Hub](http://www.rsssearchhub.com) - Directory and search tool for finding RSS feeds organized by category and popularity.
-* <img src="https://www.google.com/s2/favicons?domain=www.rssowl.org&sz=16" width="16" height="16"> [RSSOwl](http://www.rssowl.org)
-* <img src="https://www.google.com/s2/favicons?domain=selfoss.aditu.de&sz=16" width="16" height="16"> [Selfoss](http://selfoss.aditu.de)
-* <img src="https://www.google.com/s2/favicons?domain=www.silobreaker.com&sz=16" width="16" height="16"> [Silobreaker](http://www.silobreaker.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.talkwalker.com&sz=16" width="16" height="16"> [Talkwalker](http://www.talkwalker.com)
-* <img src="https://www.google.com/s2/favicons?domain=theoldreader.com&sz=16" width="16" height="16"> [The Old Reader](http://theoldreader.com)
-* <img src="https://www.google.com/s2/favicons?domain=versionista.com&sz=16" width="16" height="16"> [versionista](http://versionista.com)
-* <img src="https://www.google.com/s2/favicons?domain=visualping.io&sz=16" width="16" height="16"> [visualping](https://visualping.io)
-* <img src="https://www.google.com/s2/favicons?domain=www.getwebreader.com&sz=16" width="16" height="16"> [WebReader](http://www.getwebreader.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.aignes.com&sz=16" width="16" height="16"> [WebSite Watcher](http://www.aignes.com/index.htm)
-* <img src="https://www.google.com/s2/favicons?domain=winds.getstream.io&sz=16" width="16" height="16"> [Winds](http://winds.getstream.io)
+* <img src="https://www.google.com/s2/favicons?domain=www.rssowl.org&sz=16" width="16" height="16"> [RSSOwl](http://www.rssowl.org) - Open-source desktop RSS reader with powerful search, label filters, and news bin organization for feed management.
+* <img src="https://www.google.com/s2/favicons?domain=selfoss.aditu.de&sz=16" width="16" height="16"> [Selfoss](http://selfoss.aditu.de) - Self-hosted open-source RSS reader and aggregator with a responsive web interface supporting multiple content sources.
+* <img src="https://www.google.com/s2/favicons?domain=www.silobreaker.com&sz=16" width="16" height="16"> [Silobreaker](http://www.silobreaker.com) - AI-powered threat intelligence platform aggregating open and dark web sources for cyber, geopolitical, and physical risk analysis.
+* <img src="https://www.google.com/s2/favicons?domain=www.talkwalker.com&sz=16" width="16" height="16"> [Talkwalker](http://www.talkwalker.com) - Social listening and analytics platform for monitoring brand reputation, trends, and sentiment across online media.
+* <img src="https://www.google.com/s2/favicons?domain=theoldreader.com&sz=16" width="16" height="16"> [The Old Reader](http://theoldreader.com) - Social RSS reader inspired by Google Reader with sharing features, folders, and community-driven content discovery.
+* <img src="https://www.google.com/s2/favicons?domain=versionista.com&sz=16" width="16" height="16"> [versionista](http://versionista.com) - Website change tracking service that archives page versions and highlights differences for compliance and competitive monitoring.
+* <img src="https://www.google.com/s2/favicons?domain=visualping.io&sz=16" width="16" height="16"> [visualping](https://visualping.io) - Visual website monitoring tool that detects changes on web pages using screenshot comparison and sends instant alerts.
+* <img src="https://www.google.com/s2/favicons?domain=www.getwebreader.com&sz=16" width="16" height="16"> [WebReader](http://www.getwebreader.com) - Web-based RSS feed reader with a simple interface for subscribing to and organizing news feeds.
+* <img src="https://www.google.com/s2/favicons?domain=www.aignes.com&sz=16" width="16" height="16"> [WebSite Watcher](http://www.aignes.com/index.htm) - Desktop application that monitors web pages for updates, highlights changes, and supports scheduled automatic checking.
+* <img src="https://www.google.com/s2/favicons?domain=winds.getstream.io&sz=16" width="16" height="16"> [Winds](http://winds.getstream.io) - Open-source RSS and podcast reader built with React and Node.js featuring personalized content recommendations.
 
 ## [↑](#-table-of-contents) 🧭 Browsers
 
 * [Atom](https://browser.ru/) - Russian Chromium-based browser by Mail.ru with built-in VPN and privacy features.
 * <img src="https://www.google.com/s2/favicons?domain=brave.com&sz=16" width="16" height="16"> [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
 * <img src="https://www.google.com/s2/favicons?domain=www.bromite.org&sz=16" width="16" height="16"> [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser. Works only on Android.
-* <img src="https://www.google.com/s2/favicons?domain=www.centbrowser.com&sz=16" width="16" height="16"> [CentBrowser](http://www.centbrowser.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Chrome](https://www.google.com/chrome)
-* <img src="https://www.google.com/s2/favicons?domain=www.comodo.com&sz=16" width="16" height="16"> [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)
-* <img src="https://www.google.com/s2/favicons?domain=coowon.com&sz=16" width="16" height="16"> [Coowon](http://coowon.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.centbrowser.com&sz=16" width="16" height="16"> [CentBrowser](http://www.centbrowser.com) - Feature-rich Chromium-based browser with mouse gestures, super drag, memory optimization, and enhanced tab management.
+* <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Chrome](https://www.google.com/chrome) - Google's widely-used web browser built on Chromium with extensive extension support and cross-device synchronization.
+* <img src="https://www.google.com/s2/favicons?domain=www.comodo.com&sz=16" width="16" height="16"> [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php) - Security-focused Chromium-based browser with enhanced SSL validation, secure DNS, and sandboxed browsing from Comodo.
+* <img src="https://www.google.com/s2/favicons?domain=coowon.com&sz=16" width="16" height="16"> [Coowon](http://coowon.com) - Chromium-based browser with built-in automation and multi-login features useful for managing OSINT research sessions.
 * <img src="https://www.google.com/s2/favicons?domain=icecatbrowser.org&sz=16" width="16" height="16"> [Gnu Icecat](https://icecatbrowser.org/) - GNU version of Firefox focused on software freedom, with privacy extensions and tracking protection built in.
-* <img src="https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=16" width="16" height="16"> [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
-* <img src="https://www.google.com/s2/favicons?domain=www.mozilla.org&sz=16" width="16" height="16"> [Firefox](https://www.mozilla.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=16" width="16" height="16"> [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge) - Microsoft's Chromium-based browser with built-in tracking prevention and developer tools for web investigations.
+* <img src="https://www.google.com/s2/favicons?domain=www.mozilla.org&sz=16" width="16" height="16"> [Firefox](https://www.mozilla.org) - Open-source browser with strong privacy controls, extensive add-on ecosystem, and developer tools for OSINT research.
 * <img src="https://www.google.com/s2/favicons?domain=librewolf.net&sz=16" width="16" height="16"> [LibreWolf](https://librewolf.net) - Privacy-focused Firefox fork with enhanced security defaults.
-* <img src="https://www.google.com/s2/favicons?domain=www.maxthon.com&sz=16" width="16" height="16"> [Maxthon](http://www.maxthon.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.maxthon.com&sz=16" width="16" height="16"> [Maxthon](http://www.maxthon.com) - Feature-rich browser with cloud sync and dual-engine rendering, useful for accessing region-specific web content.
 * <img src="https://www.google.com/s2/favicons?domain=mullvad.net&sz=16" width="16" height="16"> [Mullvad Browser](https://mullvad.net/en/browser) - Privacy-focused browser developed in collaboration with Tor Project.
-* <img src="https://www.google.com/s2/favicons?domain=www.opera.com&sz=16" width="16" height="16"> [Opera](http://www.opera.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.apple.com&sz=16" width="16" height="16"> [Safari](http://www.apple.com/safari)
-* <img src="https://www.google.com/s2/favicons?domain=www.fenrir-inc.com&sz=16" width="16" height="16"> [Sleipnir](http://www.fenrir-inc.com/jp/sleipnir)
-* <img src="https://www.google.com/s2/favicons?domain=www.slimjet.com&sz=16" width="16" height="16"> [Slimjet](http://www.slimjet.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.srware.net&sz=16" width="16" height="16"> [SRWare Iron](http://www.srware.net/en/software_srware_iron.php)
+* <img src="https://www.google.com/s2/favicons?domain=www.opera.com&sz=16" width="16" height="16"> [Opera](http://www.opera.com) - Cross-platform browser with built-in VPN, ad blocker, and crypto wallet for privacy-conscious OSINT browsing.
+* <img src="https://www.google.com/s2/favicons?domain=www.apple.com&sz=16" width="16" height="16"> [Safari](http://www.apple.com/safari) - Apple's default browser with strong privacy features including Intelligent Tracking Prevention for secure research.
+* <img src="https://www.google.com/s2/favicons?domain=www.fenrir-inc.com&sz=16" width="16" height="16"> [Sleipnir](http://www.fenrir-inc.com/jp/sleipnir) - Japanese browser with advanced tab management and customizable UI, suited for organizing multi-source research sessions.
+* <img src="https://www.google.com/s2/favicons?domain=www.slimjet.com&sz=16" width="16" height="16"> [Slimjet](http://www.slimjet.com) - Chromium-based browser with built-in PDF viewer, form filler, and fast download manager for efficient research.
+* <img src="https://www.google.com/s2/favicons?domain=www.srware.net&sz=16" width="16" height="16"> [SRWare Iron](http://www.srware.net/en/software_srware_iron.php) - Privacy-focused Chromium fork that removes Google tracking and telemetry for anonymous OSINT browsing.
 * <img src="https://www.google.com/s2/favicons?domain=www.torproject.org&sz=16" width="16" height="16"> [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) - Tor is a free software that prevents people from learning your location or browsing habits by letting you communicate anonymously on the Internet.
-* <img src="https://www.google.com/s2/favicons?domain=www.torchbrowser.com&sz=16" width="16" height="16"> [Torch](http://www.torchbrowser.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.ucweb.com&sz=16" width="16" height="16"> [UCBrowser](http://www.ucweb.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.torchbrowser.com&sz=16" width="16" height="16"> [Torch](http://www.torchbrowser.com) - Chromium-based browser with built-in media tools, torrent downloading, and sharing features for content gathering.
+* <img src="https://www.google.com/s2/favicons?domain=www.ucweb.com&sz=16" width="16" height="16"> [UCBrowser](http://www.ucweb.com) - Mobile-first browser with data compression and fast rendering, useful for accessing content in low-bandwidth regions.
 * <img src="https://www.google.com/s2/favicons?domain=vivaldi.com&sz=16" width="16" height="16"> [Vivaldi](https://vivaldi.com) - Powerful, Private and Personal Web Browser.
 * <img src="https://www.google.com/s2/favicons?domain=www.waterfox.net&sz=16" width="16" height="16"> [Waterfox](https://www.waterfox.net/) - Fast and Private Web Browser. Get privacy out of the box with Waterfox.
-* <img src="https://www.google.com/s2/favicons?domain=browser.yandex.com&sz=16" width="16" height="16"> [Yandex Browser](https://browser.yandex.com/desktop/main)
+* <img src="https://www.google.com/s2/favicons?domain=browser.yandex.com&sz=16" width="16" height="16"> [Yandex Browser](https://browser.yandex.com/desktop/main) - Russian search engine's browser with built-in translation, security scanning, and Turbo mode for regional research.
 
 ## [↑](#-table-of-contents) 📥 Offline Browsing
 
 * <img src="https://www.google.com/s2/favicons?domain=www.microsystools.com&sz=16" width="16" height="16"> [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * <img src="https://www.google.com/s2/favicons?domain=www.cyotek.com&sz=16" width="16" height="16"> [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [gmapcatcher](https://github.com/heldersepu/gmapcatcher)
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [gmapcatcher](https://github.com/heldersepu/gmapcatcher) - Offline map viewer that downloads and caches tiles from multiple providers for disconnected geospatial analysis.
 * [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html) - Browser extension for saving full web pages as single-file archives for offline viewing.
 * <img src="https://www.google.com/s2/favicons?domain=www.httrack.com&sz=16" width="16" height="16"> [HTTrack](http://www.httrack.com) - Allows you to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to your computer.
 * <img src="https://www.google.com/s2/favicons?domain=offliberty.com&sz=16" width="16" height="16"> [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
-* <img src="https://www.google.com/s2/favicons?domain=metaproductsrevolver.com&sz=16" width="16" height="16"> [Resolver](https://metaproductsrevolver.com)
+* <img src="https://www.google.com/s2/favicons?domain=metaproductsrevolver.com&sz=16" width="16" height="16"> [Resolver](https://metaproductsrevolver.com) - Internet evidence collection tool that copies and preserves websites for forensic analysis and legal investigations.
 * [SiteSucker](http://ricks-apps.com/osx/sitesucker/index.html) - macOS app that downloads entire websites for offline browsing, preserving structure and links.
-* <img src="https://www.google.com/s2/favicons?domain=www.proxy-offline-browser.com&sz=16" width="16" height="16"> [WebAssistant](http://www.proxy-offline-browser.com/download.html)
-* <img src="https://www.google.com/s2/favicons?domain=www.tensons.com&sz=16" width="16" height="16"> [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier)
+* <img src="https://www.google.com/s2/favicons?domain=www.proxy-offline-browser.com&sz=16" width="16" height="16"> [WebAssistant](http://www.proxy-offline-browser.com/download.html) - Proxy-based offline browser that downloads and archives websites for later analysis without an internet connection.
+* <img src="https://www.google.com/s2/favicons?domain=www.tensons.com&sz=16" width="16" height="16"> [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier) - Website downloading tool that creates local copies of entire sites for offline browsing and content preservation.
 
 ## [↑](#-table-of-contents) 🛡️ VPN Services
 
 * [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
-* <img src="https://www.google.com/s2/favicons?domain=torrentfreak.com&sz=16" width="16" height="16"> [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/)
+* <img src="https://www.google.com/s2/favicons?domain=torrentfreak.com&sz=16" width="16" height="16"> [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/) - Annual review comparing VPN services on logging policies, jurisdiction, and anonymity for secure OSINT operations.
 * <img src="https://www.google.com/s2/favicons?domain=thatoneprivacysite.net&sz=16" width="16" height="16"> [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
 ## [↑](#-table-of-contents) 📈 Infographics and Data Visualization
 
-* <img src="https://www.google.com/s2/favicons?domain=www.aeontimeline.com&sz=16" width="16" height="16"> [Aeon](http://www.aeontimeline.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.aeontimeline.com&sz=16" width="16" height="16"> [Aeon](http://www.aeontimeline.com) - Timeline creation software for building chronological visualizations of events, useful for investigative case mapping.
 * [Arbor.js](http://arborjs.org) - JavaScript graph visualization library using web workers and jQuery for force-directed layouts.
 * [Beaker](http://beakernotebook.com) - Multi-language notebook environment for data analysis supporting Python, R, JavaScript, and SQL.
-* <img src="https://www.google.com/s2/favicons?domain=www.befunky.com&sz=16" width="16" height="16"> [Befunky](https://www.befunky.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.bizint.com&sz=16" width="16" height="16"> [Bizint](http://www.bizint.com)
-* <img src="https://www.google.com/s2/favicons?domain=cacoo.com&sz=16" width="16" height="16"> [Cacoo](https://cacoo.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.canva.com&sz=16" width="16" height="16"> [Canva](https://www.canva.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.befunky.com&sz=16" width="16" height="16"> [Befunky](https://www.befunky.com) - Online graphic design platform with photo editing and collage tools for creating OSINT presentation materials.
+* <img src="https://www.google.com/s2/favicons?domain=www.bizint.com&sz=16" width="16" height="16"> [Bizint](http://www.bizint.com) - Software that integrates search results from patent, pharmaceutical, and scientific databases into structured visual reports.
+* <img src="https://www.google.com/s2/favicons?domain=cacoo.com&sz=16" width="16" height="16"> [Cacoo](https://cacoo.com) - Online diagramming and wireframing tool for creating collaborative flowcharts and network maps during investigations.
+* <img src="https://www.google.com/s2/favicons?domain=www.canva.com&sz=16" width="16" height="16"> [Canva](https://www.canva.com) - Drag-and-drop design platform for creating infographics, presentations, and visual reports from research findings.
 * <img src="https://www.google.com/s2/favicons?domain=www.chartjs.org&sz=16" width="16" height="16"> [Chart.js](http://www.chartjs.org) - a javascript library that allows you to create charts easly
-* <img src="https://www.google.com/s2/favicons?domain=www.chartblocks.com&sz=16" width="16" height="16"> [chartblocks](http://www.chartblocks.com)
-* <img src="https://www.google.com/s2/favicons?domain=circos.ca&sz=16" width="16" height="16"> [Circos](http://circos.ca)
-* <img src="https://www.google.com/s2/favicons?domain=creately.com&sz=16" width="16" height="16"> [creately](http://creately.com)
-* <img src="https://www.google.com/s2/favicons?domain=square.github.io&sz=16" width="16" height="16"> [Crossfilter](http://square.github.io/crossfilter)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [csvkit](https://github.com/wireservice/csvkit)
+* <img src="https://www.google.com/s2/favicons?domain=www.chartblocks.com&sz=16" width="16" height="16"> [chartblocks](http://www.chartblocks.com) - Online chart builder that imports data and generates interactive, embeddable visualizations for sharing OSINT findings.
+* <img src="https://www.google.com/s2/favicons?domain=circos.ca&sz=16" width="16" height="16"> [Circos](http://circos.ca) - Software for creating circular layout diagrams that reveal patterns and relationships in complex datasets.
+* <img src="https://www.google.com/s2/favicons?domain=creately.com&sz=16" width="16" height="16"> [creately](http://creately.com) - Online diagramming tool for creating flowcharts, org charts, and network diagrams to map investigative relationships.
+* <img src="https://www.google.com/s2/favicons?domain=square.github.io&sz=16" width="16" height="16"> [Crossfilter](http://square.github.io/crossfilter) - JavaScript library for fast multidimensional filtering and exploration of large datasets in the browser.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [csvkit](https://github.com/wireservice/csvkit) - Command-line toolkit for converting, cleaning, and analyzing CSV files, essential for processing structured OSINT data.
 * <img src="https://www.google.com/s2/favicons?domain=d3js.org&sz=16" width="16" height="16"> [D3js](https://d3js.org) - is a powerful data visualization javascript library.
-* <img src="https://www.google.com/s2/favicons?domain=datavizcatalogue.com&sz=16" width="16" height="16"> [Data Visualization Catalogue](http://datavizcatalogue.com)
-* <img src="https://www.google.com/s2/favicons?domain=datawrapper.de&sz=16" width="16" height="16"> [Datawrapper](https://datawrapper.de)
-* <img src="https://www.google.com/s2/favicons?domain=www.dropmark.com&sz=16" width="16" height="16"> [Dropmark](http://www.dropmark.com)
-* <img src="https://www.google.com/s2/favicons?domain=dygraphs.com&sz=16" width="16" height="16"> [dygraphs](http://dygraphs.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.easel.ly&sz=16" width="16" height="16"> [easely](http://www.easel.ly)
+* <img src="https://www.google.com/s2/favicons?domain=datavizcatalogue.com&sz=16" width="16" height="16"> [Data Visualization Catalogue](http://datavizcatalogue.com) - Reference library cataloguing chart types with usage guidelines, helping analysts choose effective data visualizations.
+* <img src="https://www.google.com/s2/favicons?domain=datawrapper.de&sz=16" width="16" height="16"> [Datawrapper](https://datawrapper.de) - Online tool for creating responsive, embeddable charts and maps from uploaded data without coding knowledge.
+* <img src="https://www.google.com/s2/favicons?domain=www.dropmark.com&sz=16" width="16" height="16"> [Dropmark](http://www.dropmark.com) - Visual bookmarking and collaboration platform for organizing and sharing collected links, images, and research assets.
+* <img src="https://www.google.com/s2/favicons?domain=dygraphs.com&sz=16" width="16" height="16"> [dygraphs](http://dygraphs.com) - JavaScript charting library for rendering dense, interactive time-series graphs from large investigative datasets.
+* <img src="https://www.google.com/s2/favicons?domain=www.easel.ly&sz=16" width="16" height="16"> [easely](http://www.easel.ly) - Drag-and-drop infographic creator with templates for turning OSINT findings into shareable visual summaries.
 * [Exhibit](http://www.simile-widgets.org/exhibit) - JavaScript framework for creating interactive data-rich web pages with faceted browsing and maps.
-* <img src="https://www.google.com/s2/favicons?domain=www.flotcharts.org&sz=16" width="16" height="16"> [Flot](http://www.flotcharts.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.fusioncharts.com&sz=16" width="16" height="16"> [FusionCharts](http://www.fusioncharts.com)
-* <img src="https://www.google.com/s2/favicons?domain=developers.google.com&sz=16" width="16" height="16"> [Google Developers: Charts](https://developers.google.com/chart)
-* <img src="https://www.google.com/s2/favicons?domain=spark.apache.org&sz=16" width="16" height="16"> [GraphX](http://spark.apache.org/graphx)
-* <img src="https://www.google.com/s2/favicons?domain=www.highcharts.com&sz=16" width="16" height="16"> [Highcharts](http://www.highcharts.com)
-* <img src="https://www.google.com/s2/favicons?domain=charts.hohli.com&sz=16" width="16" height="16"> [Hohli](http://charts.hohli.com)
-* <img src="https://www.google.com/s2/favicons?domain=infogr.am&sz=16" width="16" height="16"> [Infogr.am](https://infogr.am)
-* <img src="https://www.google.com/s2/favicons?domain=inkscape.org&sz=16" width="16" height="16"> [Inkscape](https://inkscape.org)
-* <img src="https://www.google.com/s2/favicons?domain=philogb.github.io&sz=16" width="16" height="16"> [Java Infovis Toolkit](http://philogb.github.io/jit)
-* <img src="https://www.google.com/s2/favicons?domain=jpgraph.net&sz=16" width="16" height="16"> [JpGraph](http://jpgraph.net)
+* <img src="https://www.google.com/s2/favicons?domain=www.flotcharts.org&sz=16" width="16" height="16"> [Flot](http://www.flotcharts.org) - JavaScript plotting library for creating interactive, customizable charts from datasets directly in the browser.
+* <img src="https://www.google.com/s2/favicons?domain=www.fusioncharts.com&sz=16" width="16" height="16"> [FusionCharts](http://www.fusioncharts.com) - JavaScript charting library offering interactive dashboards and real-time data visualization for analytical reporting.
+* <img src="https://www.google.com/s2/favicons?domain=developers.google.com&sz=16" width="16" height="16"> [Google Developers: Charts](https://developers.google.com/chart) - Free API for rendering interactive charts and dashboards, useful for visualizing structured OSINT data on the web.
+* <img src="https://www.google.com/s2/favicons?domain=spark.apache.org&sz=16" width="16" height="16"> [GraphX](http://spark.apache.org/graphx) - Apache Spark component for large-scale graph computation, useful for analyzing massive relationship networks.
+* <img src="https://www.google.com/s2/favicons?domain=www.highcharts.com&sz=16" width="16" height="16"> [Highcharts](http://www.highcharts.com) - JavaScript library for creating interactive, accessible charts and maps for publishing data-driven investigations.
+* <img src="https://www.google.com/s2/favicons?domain=charts.hohli.com&sz=16" width="16" height="16"> [Hohli](http://charts.hohli.com) - Simple online chart generator for quickly creating and embedding basic charts from investigative data.
+* <img src="https://www.google.com/s2/favicons?domain=infogr.am&sz=16" width="16" height="16"> [Infogr.am](https://infogr.am) - Online platform for building interactive infographics, charts, and maps to present OSINT research visually.
+* <img src="https://www.google.com/s2/favicons?domain=inkscape.org&sz=16" width="16" height="16"> [Inkscape](https://inkscape.org) - Free vector graphics editor for creating custom diagrams, maps, and visual aids for investigative reports.
+* <img src="https://www.google.com/s2/favicons?domain=philogb.github.io&sz=16" width="16" height="16"> [Java Infovis Toolkit](http://philogb.github.io/jit) - JavaScript toolkit for creating interactive data visualizations including tree maps and graph layouts for analysis.
+* <img src="https://www.google.com/s2/favicons?domain=jpgraph.net&sz=16" width="16" height="16"> [JpGraph](http://jpgraph.net) - PHP library for generating charts and graphs server-side, useful for automated OSINT reporting pipelines.
 * [jqPlot](http://www.jqplot.com) - A Versatile and Expandable jQuery Plotting Plugin.
-* <img src="https://www.google.com/s2/favicons?domain=knoema.com&sz=16" width="16" height="16"> [Knoema](https://knoema.com)
+* <img src="https://www.google.com/s2/favicons?domain=knoema.com&sz=16" width="16" height="16"> [Knoema](https://knoema.com) - Global data platform aggregating statistics from hundreds of sources for economic and geopolitical research.
 * <img src="https://www.google.com/s2/favicons?domain=leafletjs.com&sz=16" width="16" height="16"> [Leaflet](http://leafletjs.com) - an open-source JavaScript library for mobile-friendly interactive maps.
-* <img src="https://www.google.com/s2/favicons?domain=linkurio.us&sz=16" width="16" height="16"> [Linkuroius](http://linkurio.us)
+* <img src="https://www.google.com/s2/favicons?domain=linkurio.us&sz=16" width="16" height="16"> [Linkuroius](http://linkurio.us) - Graph visualization platform for exploring and analyzing connected data, useful for mapping entity relationships in investigations.
 * [Listify](http://listify.okfnlabs.org) - Turn a Google spreadsheet into a beautiful, searchable listing in seconds.
-* <img src="https://www.google.com/s2/favicons?domain=www.localfocus.nl&sz=16" width="16" height="16"> [LocalFocus](https://www.localfocus.nl)
+* <img src="https://www.google.com/s2/favicons?domain=www.localfocus.nl&sz=16" width="16" height="16"> [LocalFocus](https://www.localfocus.nl) - Newsroom data journalism tool for creating interactive maps and charts from local datasets and statistics.
 * <img src="https://www.google.com/s2/favicons?domain=www.lucidchart.com&sz=16" width="16" height="16"> [Lucidchart](https://www.lucidchart.com) - the intelligent diagramming application that brings teams together to make better decisions and build the future.
-* <img src="https://www.google.com/s2/favicons?domain=mapline.com&sz=16" width="16" height="16"> [Mapline](https://mapline.com)
+* <img src="https://www.google.com/s2/favicons?domain=mapline.com&sz=16" width="16" height="16"> [Mapline](https://mapline.com) - Platform for plotting spreadsheet data onto maps, enabling geographic analysis of locations and patterns.
 * <img src="https://www.google.com/s2/favicons?domain=www.nodebox.net&sz=16" width="16" height="16"> [Nodebox](https://www.nodebox.net) - a family of tools gives you the leverage to create generative design the way you want.
 * <img src="https://www.google.com/s2/favicons?domain=observablehq.com&sz=16" width="16" height="16"> [Observable](https://observablehq.com/) - a modern way to create powerful, performant, polyglot data apps built on open source.
 * <img src="https://www.google.com/s2/favicons?domain=openlayers.org&sz=16" width="16" height="16"> [OpenLayers](http://openlayers.org) - A high-performance, feature-packed library for all your mapping needs.
 * [Palladio](http://hdlab.stanford.edu/palladio) - Visualize complex historical data with ease.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Perspective](https://github.com/finos/perspective) - interactive data visualization and analytics component, well-suited for large, streaming and static datasets.
-* <img src="https://www.google.com/s2/favicons?domain=piktochart.com&sz=16" width="16" height="16"> [Piktochart](https://piktochart.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.pixxa.com&sz=16" width="16" height="16"> [Pixxa](http://www.pixxa.com)
-* <img src="https://www.google.com/s2/favicons?domain=plot.ly&sz=16" width="16" height="16"> [Plotly](https://plot.ly)
+* <img src="https://www.google.com/s2/favicons?domain=piktochart.com&sz=16" width="16" height="16"> [Piktochart](https://piktochart.com) - Online infographic and presentation maker with templates for turning research data into visual narratives.
+* <img src="https://www.google.com/s2/favicons?domain=www.pixxa.com&sz=16" width="16" height="16"> [Pixxa](http://www.pixxa.com) - Perspective image correction and measurement tool for analyzing photos and extracting dimensional data from images.
+* <img src="https://www.google.com/s2/favicons?domain=plot.ly&sz=16" width="16" height="16"> [Plotly](https://plot.ly) - Interactive graphing platform for building, sharing, and publishing data visualizations and analytical dashboards online.
 * <img src="https://www.google.com/s2/favicons?domain=www.preceden.com&sz=16" width="16" height="16"> [Preceden](https://www.preceden.com/) - Create a Visual Timeline About Any Topic
-* <img src="https://www.google.com/s2/favicons?domain=www.visualintelligence.co.nz&sz=16" width="16" height="16"> [QlikView](https://www.visualintelligence.co.nz/qlikview)
-* <img src="https://www.google.com/s2/favicons?domain=www.quadrigram.com&sz=16" width="16" height="16"> [Quadrigram](http://www.quadrigram.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.visualintelligence.co.nz&sz=16" width="16" height="16"> [QlikView](https://www.visualintelligence.co.nz/qlikview) - Business intelligence platform for creating interactive dashboards and visual analytics from multiple data sources.
+* <img src="https://www.google.com/s2/favicons?domain=www.quadrigram.com&sz=16" width="16" height="16"> [Quadrigram](http://www.quadrigram.com) - Web-based platform for creating interactive data visualizations and visual narratives from CSV or spreadsheet data.
 * [Raphael](http://dmitrybaranovskiy.github.io/raphael) - JavaScript library for creating cross-browser vector graphics and charts using SVG and VML.
-* <img src="https://www.google.com/s2/favicons?domain=raw.densitydesign.org&sz=16" width="16" height="16"> [RAW](http://raw.densitydesign.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.viseyes.org&sz=16" width="16" height="16"> [Shanti Interactive](http://www.viseyes.org)
-* <img src="https://www.google.com/s2/favicons?domain=snappa.io&sz=16" width="16" height="16"> [Snappa](https://snappa.io)
+* <img src="https://www.google.com/s2/favicons?domain=raw.densitydesign.org&sz=16" width="16" height="16"> [RAW](http://raw.densitydesign.org) - Open-source tool for creating custom vector-based data visualizations from tabular data without coding.
+* <img src="https://www.google.com/s2/favicons?domain=www.viseyes.org&sz=16" width="16" height="16"> [Shanti Interactive](http://www.viseyes.org) - Academic data visualization platform from the University of Virginia for exploring and presenting research datasets.
+* <img src="https://www.google.com/s2/favicons?domain=snappa.io&sz=16" width="16" height="16"> [Snappa](https://snappa.io) - Online graphic design tool for quickly creating social media graphics, infographics, and visual content.
 * [StoryMap](https://storymap.knightlab.com) - Knight Lab tool for creating interactive narratives that follow a sequence of locations on a map.
-* <img src="https://www.google.com/s2/favicons?domain=public.tableau.com&sz=16" width="16" height="16"> [Tableau Public](https://public.tableau.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.tableau.com&sz=16" width="16" height="16"> [Tableau](http://www.tableau.com)
-* <img src="https://www.google.com/s2/favicons?domain=tagul.com&sz=16" width="16" height="16"> [Tagul](https://tagul.com)
+* <img src="https://www.google.com/s2/favicons?domain=public.tableau.com&sz=16" width="16" height="16"> [Tableau Public](https://public.tableau.com) - Free cloud platform for publishing, sharing, and exploring interactive data visualizations and dashboards.
+* <img src="https://www.google.com/s2/favicons?domain=www.tableau.com&sz=16" width="16" height="16"> [Tableau](http://www.tableau.com) - Industry-leading business intelligence and analytics platform for building interactive dashboards from diverse data sources.
+* <img src="https://www.google.com/s2/favicons?domain=tagul.com&sz=16" width="16" height="16"> [Tagul](https://tagul.com) - Online word cloud generator that creates customizable, visually rich tag clouds from text data.
 * [Textures.js](https://riccardoscalco.github.io/textures) - D3.js-based library for creating SVG pattern fills to make data visualizations more accessible.
 * [Tik-tok](https://datanews.github.io/tik-tok) - JavaScript library for creating interactive timeline visualizations from structured data.
-* <img src="https://www.google.com/s2/favicons?domain=www.tiki-toki.com&sz=16" width="16" height="16"> [Tiki-toki](http://www.tiki-toki.com)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Timeflow](https://github.com/FlowingMedia/TimeFlow/wiki)
-* <img src="https://www.google.com/s2/favicons?domain=timeline.knightlab.com&sz=16" width="16" height="16"> [Timeline](http://timeline.knightlab.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.tiki-toki.com&sz=16" width="16" height="16"> [Tiki-toki](http://www.tiki-toki.com) - Web-based tool for creating interactive, multimedia 3D timelines to visualize chronological event data.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Timeflow](https://github.com/FlowingMedia/TimeFlow/wiki) - Open-source desktop application for visualizing and analyzing temporal data as interactive timelines.
+* <img src="https://www.google.com/s2/favicons?domain=timeline.knightlab.com&sz=16" width="16" height="16"> [Timeline](http://timeline.knightlab.com) - Knight Lab's free tool for creating visually rich, interactive timelines from spreadsheet data.
 * [Timeline](http://www.simile-widgets.org/timeline) - AJAX-based widget for creating interactive timelines that can pan, zoom, and display events.
-* <img src="https://www.google.com/s2/favicons?domain=www.timetoast.com&sz=16" width="16" height="16"> [Timetoast](http://www.timetoast.com)
-* <img src="https://www.google.com/s2/favicons?domain=venngage.com&sz=16" width="16" height="16"> [Venngage](https://venngage.com)
-* <img src="https://www.google.com/s2/favicons?domain=visjs.org&sz=16" width="16" height="16"> [Vis.js](http://visjs.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.visme.co&sz=16" width="16" height="16"> [Visme](http://www.visme.co)
-* <img src="https://www.google.com/s2/favicons?domain=visualizefree.com&sz=16" width="16" height="16"> [Visualize Free](http://visualizefree.com)
-* <img src="https://www.google.com/s2/favicons?domain=vizualize.me&sz=16" width="16" height="16"> [Visualize.me](http://vizualize.me)
+* <img src="https://www.google.com/s2/favicons?domain=www.timetoast.com&sz=16" width="16" height="16"> [Timetoast](http://www.timetoast.com) - Simple web tool for creating and sharing interactive timelines of historical or investigative events.
+* <img src="https://www.google.com/s2/favicons?domain=venngage.com&sz=16" width="16" height="16"> [Venngage](https://venngage.com) - Online infographic maker with templates for creating charts, reports, and data visualizations for presentations.
+* <img src="https://www.google.com/s2/favicons?domain=visjs.org&sz=16" width="16" height="16"> [Vis.js](http://visjs.org) - Open-source JavaScript library for creating interactive network graphs, timelines, and dynamic data visualizations.
+* <img src="https://www.google.com/s2/favicons?domain=www.visme.co&sz=16" width="16" height="16"> [Visme](http://www.visme.co) - Online platform for creating interactive presentations, infographics, and data visualizations with drag-and-drop editing.
+* <img src="https://www.google.com/s2/favicons?domain=visualizefree.com&sz=16" width="16" height="16"> [Visualize Free](http://visualizefree.com) - Free cloud-based analytics and visualization tool for creating interactive charts and dashboards from datasets.
+* <img src="https://www.google.com/s2/favicons?domain=vizualize.me&sz=16" width="16" height="16"> [Visualize.me](http://vizualize.me) - Online tool for creating visual resumes and infographic-style personal profiles from career data.
 * [visually](http://create.visual.ly) - Platform connecting brands with designers to create infographics and data visualizations.
-* <img src="https://www.google.com/s2/favicons?domain=www.dotmatics.com&sz=16" width="16" height="16"> [Vortex](http://www.dotmatics.com/products/vortex)
-* <img src="https://www.google.com/s2/favicons?domain=www.zingchart.com&sz=16" width="16" height="16"> [ZingChart](http://www.zingchart.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.dotmatics.com&sz=16" width="16" height="16"> [Vortex](http://www.dotmatics.com/products/vortex) - High-performance scientific data visualization and analysis platform for exploring large multidimensional datasets.
+* <img src="https://www.google.com/s2/favicons?domain=www.zingchart.com&sz=16" width="16" height="16"> [ZingChart](http://www.zingchart.com) - JavaScript charting library for rendering fast, interactive charts and dashboards with extensive customization options.
 
 ## [↑](#-table-of-contents) 🕸️ Social Network Analysis
 
 * <img src="https://www.google.com/s2/favicons?domain=gephi.org&sz=16" width="16" height="16"> [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
-* <img src="https://www.google.com/s2/favicons?domain=www.casos.cs.cmu.edu&sz=16" width="16" height="16"> [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)
-* <img src="https://www.google.com/s2/favicons?domain=www.fmsasg.com&sz=16" width="16" height="16"> [Sentinel Visualizer](http://www.fmsasg.com)
-* <img src="https://www.google.com/s2/favicons?domain=vis.occrp.org&sz=16" width="16" height="16"> [Visual Investigative Scenarios](https://vis.occrp.org)
-* <img src="https://www.google.com/s2/favicons?domain=wynyardgroup.com&sz=16" width="16" height="16"> [Wynyard Group](https://wynyardgroup.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.casos.cs.cmu.edu&sz=16" width="16" height="16"> [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php) - Carnegie Mellon network analysis tool for detecting key actors, groups, and vulnerabilities in organizational networks.
+* <img src="https://www.google.com/s2/favicons?domain=www.fmsasg.com&sz=16" width="16" height="16"> [Sentinel Visualizer](http://www.fmsasg.com) - Link analysis and data visualization software for mapping relationships between people, places, and events in investigations.
+* <img src="https://www.google.com/s2/favicons?domain=vis.occrp.org&sz=16" width="16" height="16"> [Visual Investigative Scenarios](https://vis.occrp.org) - OCCRP's platform for mapping relationships and building visual diagrams of networks in investigative journalism.
+* <img src="https://www.google.com/s2/favicons?domain=wynyardgroup.com&sz=16" width="16" height="16"> [Wynyard Group](https://wynyardgroup.com) - Intelligence and investigation software suite providing advanced analytics for law enforcement and security organizations.
 
 ## [↑](#-table-of-contents) 🔐 Privacy and Encryption Tools
 
-* <img src="https://www.google.com/s2/favicons?domain=www.abine.com&sz=16" width="16" height="16"> [Abine](https://www.abine.com)
-* <img src="https://www.google.com/s2/favicons?domain=adium.im&sz=16" width="16" height="16"> [Adium](https://adium.im)
+* <img src="https://www.google.com/s2/favicons?domain=www.abine.com&sz=16" width="16" height="16"> [Abine](https://www.abine.com) - Privacy company offering identity protection tools including data removal and masked personal information services.
+* <img src="https://www.google.com/s2/favicons?domain=adium.im&sz=16" width="16" height="16"> [Adium](https://adium.im) - Free open-source multi-protocol instant messaging client for macOS with OTR encrypted chat support.
 * <img src="https://www.google.com/s2/favicons?domain=bitwarden.com&sz=16" width="16" height="16"> [Bitwarden](https://bitwarden.com) - Open-source password manager with cross-platform support.
 * [boxcryptor](https://www.boxcryptor.com) - End-to-end encryption for cloud storage services including Dropbox, Google Drive, and OneDrive.
-* <img src="https://www.google.com/s2/favicons?domain=www.piriform.com&sz=16" width="16" height="16"> [CCleaner](https://www.piriform.com/ccleaner)
-* <img src="https://www.google.com/s2/favicons?domain=chatsecure.org&sz=16" width="16" height="16"> [Chatsecure](https://chatsecure.org)
-* <img src="https://www.google.com/s2/favicons?domain=disconnect.me&sz=16" width="16" height="16"> [Disconnect](https://disconnect.me)
-* <img src="https://www.google.com/s2/favicons?domain=donottrack.us&sz=16" width="16" height="16"> [Do Not Track](http://donottrack.us)
-* <img src="https://www.google.com/s2/favicons?domain=duckduckgo.com&sz=16" width="16" height="16"> [Duck Duck Go Search Engine](https://duckduckgo.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.piriform.com&sz=16" width="16" height="16"> [CCleaner](https://www.piriform.com/ccleaner) - System optimization and privacy tool that cleans browsing history, cookies, temporary files, and registry entries.
+* <img src="https://www.google.com/s2/favicons?domain=chatsecure.org&sz=16" width="16" height="16"> [Chatsecure](https://chatsecure.org) - Open-source encrypted messaging app for iOS and Android using XMPP and OTR/OMEMO protocols.
+* <img src="https://www.google.com/s2/favicons?domain=disconnect.me&sz=16" width="16" height="16"> [Disconnect](https://disconnect.me) - Browser extension and app that blocks invisible trackers and visualizes companies tracking your web activity.
+* <img src="https://www.google.com/s2/favicons?domain=donottrack.us&sz=16" width="16" height="16"> [Do Not Track](http://donottrack.us) - Website and browser header promoting the Do Not Track standard to opt out of online behavioral tracking.
+* <img src="https://www.google.com/s2/favicons?domain=duckduckgo.com&sz=16" width="16" height="16"> [Duck Duck Go Search Engine](https://duckduckgo.com) - Privacy-focused search engine that does not track users or store personal search history.
 * [EncSF MP](http://encfsmp.sourceforge.net) - Cross-platform GUI for EncFS encrypted filesystems on Windows, macOS, and Linux.
-* <img src="https://www.google.com/s2/favicons?domain=www.epicbrowser.com&sz=16" width="16" height="16"> [Epic Privacy Browser](https://www.epicbrowser.com)
-* <img src="https://www.google.com/s2/favicons?domain=eraser.heidi.ie&sz=16" width="16" height="16"> [Eraser](http://eraser.heidi.ie)
-* <img src="https://www.google.com/s2/favicons?domain=support.apple.com&sz=16" width="16" height="16"> [FileVault](https://support.apple.com/en-us/HT204837)
-* <img src="https://www.google.com/s2/favicons?domain=www.ghostery.com&sz=16" width="16" height="16"> [Ghostery](https://www.ghostery.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.gnupg.org&sz=16" width="16" height="16"> [GNU PG](https://www.gnupg.org/download/index.html)
-* <img src="https://www.google.com/s2/favicons?domain=gpgtools.org&sz=16" width="16" height="16"> [GPG Tools](https://gpgtools.org)
-* <img src="https://www.google.com/s2/favicons?domain=guardianproject.info&sz=16" width="16" height="16"> [Guardian Project](https://guardianproject.info)
-* <img src="https://www.google.com/s2/favicons?domain=www.guerrillamail.com&sz=16" width="16" height="16"> [Guerrilla Mail](https://www.guerrillamail.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.hotspotshield.com&sz=16" width="16" height="16"> [Hotspot Shield](https://www.hotspotshield.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.eff.org&sz=16" width="16" height="16"> [HTTPs Everywhere](https://www.eff.org/https-everywhere/)
-* <img src="https://www.google.com/s2/favicons?domain=geti2p.net&sz=16" width="16" height="16"> [I2P](https://geti2p.net)
-* <img src="https://www.google.com/s2/favicons?domain=justdelete.me&sz=16" width="16" height="16"> [justdeleteme](http://justdelete.me)
+* <img src="https://www.google.com/s2/favicons?domain=www.epicbrowser.com&sz=16" width="16" height="16"> [Epic Privacy Browser](https://www.epicbrowser.com) - Privacy-focused web browser with built-in ad blocking, tracker blocking, and encrypted proxy capabilities.
+* <img src="https://www.google.com/s2/favicons?domain=eraser.heidi.ie&sz=16" width="16" height="16"> [Eraser](http://eraser.heidi.ie) - Secure file erasure tool that overwrites deleted data to prevent forensic recovery of sensitive files.
+* <img src="https://www.google.com/s2/favicons?domain=support.apple.com&sz=16" width="16" height="16"> [FileVault](https://support.apple.com/en-us/HT204837) - Apple's built-in full-disk encryption for macOS that protects data with XTS-AES-128 encryption.
+* <img src="https://www.google.com/s2/favicons?domain=www.ghostery.com&sz=16" width="16" height="16"> [Ghostery](https://www.ghostery.com) - Browser extension that detects and blocks web trackers, providing transparency into third-party data collection.
+* <img src="https://www.google.com/s2/favicons?domain=www.gnupg.org&sz=16" width="16" height="16"> [GNU PG](https://www.gnupg.org/download/index.html) - Free implementation of the OpenPGP standard for encrypting and signing data and communications.
+* <img src="https://www.google.com/s2/favicons?domain=gpgtools.org&sz=16" width="16" height="16"> [GPG Tools](https://gpgtools.org) - macOS integration suite for GPG encryption, enabling encrypted email and file signing in Apple Mail.
+* <img src="https://www.google.com/s2/favicons?domain=guardianproject.info&sz=16" width="16" height="16"> [Guardian Project](https://guardianproject.info) - Open-source mobile security project providing encrypted communication and secure browsing apps for Android.
+* <img src="https://www.google.com/s2/favicons?domain=www.guerrillamail.com&sz=16" width="16" height="16"> [Guerrilla Mail](https://www.guerrillamail.com) - Disposable temporary email service for creating anonymous throwaway addresses to protect identity online.
+* <img src="https://www.google.com/s2/favicons?domain=www.hotspotshield.com&sz=16" width="16" height="16"> [Hotspot Shield](https://www.hotspotshield.com) - VPN service that encrypts internet traffic and masks IP addresses for anonymous and secure browsing.
+* <img src="https://www.google.com/s2/favicons?domain=www.eff.org&sz=16" width="16" height="16"> [HTTPs Everywhere](https://www.eff.org/https-everywhere/) - EFF browser extension that automatically upgrades HTTP connections to HTTPS for encrypted web browsing.
+* <img src="https://www.google.com/s2/favicons?domain=geti2p.net&sz=16" width="16" height="16"> [I2P](https://geti2p.net) - Anonymous overlay network using garlic routing to provide censorship-resistant and private internet communication.
+* <img src="https://www.google.com/s2/favicons?domain=justdelete.me&sz=16" width="16" height="16"> [justdeleteme](http://justdelete.me) - Directory of direct links to delete your accounts from major web services for digital footprint reduction.
 * <img src="https://www.google.com/s2/favicons?domain=keepass.info&sz=16" width="16" height="16"> [KeePass Password Safe](http://keepass.info) - is a free and open-source password manager that uses the most secure encryption algorithms to safegard your passwords.
-* <img src="https://www.google.com/s2/favicons?domain=lastpass.com&sz=16" width="16" height="16"> [Lastpass](https://lastpass.com)
-* <img src="https://www.google.com/s2/favicons?domain=lockbin.com&sz=16" width="16" height="16"> [Lockbin](https://lockbin.com)
-* <img src="https://www.google.com/s2/favicons?domain=mailbox.org&sz=16" width="16" height="16"> [Mailbox](https://mailbox.org)
-* <img src="https://www.google.com/s2/favicons?domain=www.mailvelope.com&sz=16" width="16" height="16"> [Mailvelope](https://www.mailvelope.com)
-* <img src="https://www.google.com/s2/favicons?domain=masterpasswordapp.com&sz=16" width="16" height="16"> [Master Password](http://masterpasswordapp.com)
-* <img src="https://www.google.com/s2/favicons?domain=nixory.sourceforge.net&sz=16" width="16" height="16"> [Nixory](http://nixory.sourceforge.net)
-* <img src="https://www.google.com/s2/favicons?domain=noscript.net&sz=16" width="16" height="16"> [NoScript](https://noscript.net)
-* <img src="https://www.google.com/s2/favicons?domain=www.opendns.com&sz=16" width="16" height="16"> [Open DNS](https://www.opendns.com/home-internet-security)
-* <img src="https://www.google.com/s2/favicons?domain=www.enigmail.net&sz=16" width="16" height="16"> [Open PGP](https://www.enigmail.net/index.php/en)
-* <img src="https://www.google.com/s2/favicons?domain=oscobo.co.uk&sz=16" width="16" height="16"> [Oscobo Search Engine](https://oscobo.co.uk)
-* <img src="https://www.google.com/s2/favicons?domain=ossec.github.io&sz=16" width="16" height="16"> [OSSEC](https://ossec.github.io)
-* <img src="https://www.google.com/s2/favicons?domain=panopticlick.eff.org&sz=16" width="16" height="16"> [Panopticlick](https://panopticlick.eff.org)
-* <img src="https://www.google.com/s2/favicons?domain=forums.peerblock.com&sz=16" width="16" height="16"> [Peerblock](http://forums.peerblock.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.pidgin.im&sz=16" width="16" height="16"> [Pidgin](https://www.pidgin.im)
-* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [Pixel Block](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem)
+* <img src="https://www.google.com/s2/favicons?domain=lastpass.com&sz=16" width="16" height="16"> [Lastpass](https://lastpass.com) - Password manager that stores encrypted credentials in a vault accessible with one master password.
+* <img src="https://www.google.com/s2/favicons?domain=lockbin.com&sz=16" width="16" height="16"> [Lockbin](https://lockbin.com) - Browser-based encrypted email service using AES-256 encryption for sending secure private messages and files.
+* <img src="https://www.google.com/s2/favicons?domain=mailbox.org&sz=16" width="16" height="16"> [Mailbox](https://mailbox.org) - Privacy-focused email provider based in Germany offering encrypted mailbox and calendar services.
+* <img src="https://www.google.com/s2/favicons?domain=www.mailvelope.com&sz=16" width="16" height="16"> [Mailvelope](https://www.mailvelope.com) - Browser extension enabling OpenPGP encryption for webmail providers like Gmail, Outlook, and Yahoo Mail.
+* <img src="https://www.google.com/s2/favicons?domain=masterpasswordapp.com&sz=16" width="16" height="16"> [Master Password](http://masterpasswordapp.com) - Stateless password manager that algorithmically generates site-specific passwords from a master password without storage.
+* <img src="https://www.google.com/s2/favicons?domain=nixory.sourceforge.net&sz=16" width="16" height="16"> [Nixory](http://nixory.sourceforge.net) - Open-source antispyware tool that detects and removes malicious tracking cookies from web browsers.
+* <img src="https://www.google.com/s2/favicons?domain=noscript.net&sz=16" width="16" height="16"> [NoScript](https://noscript.net) - Firefox extension that blocks JavaScript, Flash, and other active content to prevent cross-site scripting attacks.
+* <img src="https://www.google.com/s2/favicons?domain=www.opendns.com&sz=16" width="16" height="16"> [Open DNS](https://www.opendns.com/home-internet-security) - DNS-based web filtering service that blocks phishing sites and malicious domains at the network level.
+* <img src="https://www.google.com/s2/favicons?domain=www.enigmail.net&sz=16" width="16" height="16"> [Open PGP](https://www.enigmail.net/index.php/en) - Enigmail extension integrating OpenPGP encryption into Thunderbird email client for secure email communication.
+* <img src="https://www.google.com/s2/favicons?domain=oscobo.co.uk&sz=16" width="16" height="16"> [Oscobo Search Engine](https://oscobo.co.uk) - Privacy-focused search engine that does not track users or store search history.
+* <img src="https://www.google.com/s2/favicons?domain=ossec.github.io&sz=16" width="16" height="16"> [OSSEC](https://ossec.github.io) - Open-source host-based intrusion detection system for log analysis, integrity checking, and alerting.
+* <img src="https://www.google.com/s2/favicons?domain=panopticlick.eff.org&sz=16" width="16" height="16"> [Panopticlick](https://panopticlick.eff.org) - EFF tool that tests how uniquely identifiable your browser is based on its fingerprint characteristics.
+* <img src="https://www.google.com/s2/favicons?domain=forums.peerblock.com&sz=16" width="16" height="16"> [Peerblock](http://forums.peerblock.com) - IP blocking application that prevents connections from known surveillance and malicious IP ranges.
+* <img src="https://www.google.com/s2/favicons?domain=www.pidgin.im&sz=16" width="16" height="16"> [Pidgin](https://www.pidgin.im) - Multi-protocol instant messaging client supporting encrypted chat across multiple networks.
+* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [Pixel Block](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem) - Chrome extension that detects and blocks email tracking pixels to protect recipient privacy.
 * <img src="https://www.google.com/s2/favicons?domain=privacy.com&sz=16" width="16" height="16"> [Privacy.com](https://privacy.com) - Virtual payment cards for online privacy and security.
-* <img src="https://www.google.com/s2/favicons?domain=www.eff.org&sz=16" width="16" height="16"> [Privacy Badger](https://www.eff.org/privacybadger)
-* <img src="https://www.google.com/s2/favicons?domain=privazer.com&sz=16" width="16" height="16"> [Privazer](http://privazer.com)
-* <img src="https://www.google.com/s2/favicons?domain=protonmail.com&sz=16" width="16" height="16"> [Proton Mail](https://protonmail.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.eff.org&sz=16" width="16" height="16"> [Privacy Badger](https://www.eff.org/privacybadger) - EFF browser extension that automatically blocks invisible third-party trackers and fingerprinting scripts.
+* <img src="https://www.google.com/s2/favicons?domain=privazer.com&sz=16" width="16" height="16"> [Privazer](http://privazer.com) - PC cleanup tool that permanently erases browsing traces, logs, and residual data from your system.
+* <img src="https://www.google.com/s2/favicons?domain=protonmail.com&sz=16" width="16" height="16"> [Proton Mail](https://protonmail.com) - End-to-end encrypted email service based in Switzerland for secure private communications.
 * <img src="https://www.google.com/s2/favicons?domain=www.qubes-os.org&sz=16" width="16" height="16"> [Qubes](https://www.qubes-os.org) - a security-focused desktop operating system that aims to provide security through isolation.
-* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en)
-* <img src="https://www.google.com/s2/favicons?domain=securesha.re&sz=16" width="16" height="16"> [Securesha](https://securesha.re)
-* <img src="https://www.google.com/s2/favicons?domain=www.silentcircle.com&sz=16" width="16" height="16"> [Silent circle](https://www.silentcircle.com)
+* <img src="https://www.google.com/s2/favicons?domain=chrome.google.com&sz=16" width="16" height="16"> [Script Safe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf?hl=en) - Chrome extension that gives users control over JavaScript, iframes, and other active web content.
+* <img src="https://www.google.com/s2/favicons?domain=securesha.re&sz=16" width="16" height="16"> [Securesha](https://securesha.re) - Browser-based encrypted file sharing service that self-destructs files after a single download.
+* <img src="https://www.google.com/s2/favicons?domain=www.silentcircle.com&sz=16" width="16" height="16"> [Silent circle](https://www.silentcircle.com) - Enterprise encrypted communications platform offering secure voice, video, and messaging services.
 * <img src="https://www.google.com/s2/favicons?domain=signal.org&sz=16" width="16" height="16"> [Signal](https://signal.org) - End-to-end encrypted messaging and calls.
-* <img src="https://www.google.com/s2/favicons?domain=www.snort.org&sz=16" width="16" height="16"> [Snort](https://www.snort.org)
-* <img src="https://www.google.com/s2/favicons?domain=spideroak.com&sz=16" width="16" height="16"> [Spideroak](https://spideroak.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.pelock.com&sz=16" width="16" height="16"> [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec)
-* <img src="https://www.google.com/s2/favicons?domain=ssd.eff.org&sz=16" width="16" height="16"> [Surveilliance Self Defense](https://ssd.eff.org)
+* <img src="https://www.google.com/s2/favicons?domain=www.snort.org&sz=16" width="16" height="16"> [Snort](https://www.snort.org) - Open-source network intrusion detection and prevention system for real-time traffic analysis.
+* <img src="https://www.google.com/s2/favicons?domain=spideroak.com&sz=16" width="16" height="16"> [Spideroak](https://spideroak.com) - Zero-knowledge encrypted cloud storage and backup service that ensures only users can access their data.
+* <img src="https://www.google.com/s2/favicons?domain=www.pelock.com&sz=16" width="16" height="16"> [Steganography Online Codec](https://www.pelock.com/products/steganography-online-codec) - Online tool that hides encrypted text messages inside images using least-significant-bit steganography.
+* <img src="https://www.google.com/s2/favicons?domain=ssd.eff.org&sz=16" width="16" height="16"> [Surveilliance Self Defense](https://ssd.eff.org) - EFF guide with tips and tutorials for defending yourself against digital surveillance threats.
 * [Tails](https://tails.boum.org) - Privacy-focused live operating system that routes all traffic through Tor and leaves no trace on the host machine.
-* <img src="https://www.google.com/s2/favicons?domain=www.thunderbird.net&sz=16" width="16" height="16"> [Thunderbird](https://www.thunderbird.net/en-US/)
-* <img src="https://www.google.com/s2/favicons?domain=www.torproject.org&sz=16" width="16" height="16"> [Tor Project](https://www.torproject.org)
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [uBlock Origin](https://github.com/gorhill/uBlock)
-* <img src="https://www.google.com/s2/favicons?domain=wickr.com&sz=16" width="16" height="16"> [Wickr](https://wickr.com)
-* <img src="https://www.google.com/s2/favicons?domain=www.mywot.com&sz=16" width="16" height="16"> [WOT](https://www.mywot.com)
+* <img src="https://www.google.com/s2/favicons?domain=www.thunderbird.net&sz=16" width="16" height="16"> [Thunderbird](https://www.thunderbird.net/en-US/) - Free open-source email client with strong encryption add-on support for secure communications.
+* <img src="https://www.google.com/s2/favicons?domain=www.torproject.org&sz=16" width="16" height="16"> [Tor Project](https://www.torproject.org) - Free software for anonymous web browsing by routing traffic through a global relay network.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [uBlock Origin](https://github.com/gorhill/uBlock) - Efficient open-source browser extension for wide-spectrum content filtering and ad blocking.
+* <img src="https://www.google.com/s2/favicons?domain=wickr.com&sz=16" width="16" height="16"> [Wickr](https://wickr.com) - Encrypted messaging platform offering self-destructing messages and secure file sharing for private communication.
+* <img src="https://www.google.com/s2/favicons?domain=www.mywot.com&sz=16" width="16" height="16"> [WOT](https://www.mywot.com) - Website reputation and safety rating service that crowdsources trust scores for online resources.
 * [ZMail](http://zmail.sourceforge.net) - Tool for sending emails with custom sender addresses, useful for testing email security and SPF/DKIM.
 
 ## [↑](#-table-of-contents) 🔤 DNS
@@ -1782,37 +1782,37 @@ algorithms, knowledgebase and AI technology.
 
 ## [↑](#-table-of-contents) 🎬 OSINT Videos
 
-* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I)
-* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Bendobrown](https://www.youtube.com/c/Bendobrown)
-* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI)
-* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y)
-* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M)
+* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I) - Viral awareness video demonstrating how easily personal data can be gathered from social media.
+* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Bendobrown](https://www.youtube.com/c/Bendobrown) - YouTube channel featuring OSINT tutorials, investigative techniques, and open-source intelligence demonstrations.
+* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Data to Go](https://www.youtube.com/watch?v=_YRs28yBYuI) - Video exploring how personal data is collected, shared, and exploited in the digital age.
+* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y) - Collection of recorded talks from the 2021 SANS OSINT Summit covering investigative tools and techniques.
+* <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M) - Awareness video showing how strangers can use publicly available information to take over your identity.
 
 ## [↑](#-table-of-contents) ✍️ OSINT Blogs
 
-* <img src="https://www.google.com/s2/favicons?domain=www.bellingcat.com&sz=16" width="16" height="16"> [Bellingcat](https://www.bellingcat.com/)
-* <img src="https://www.google.com/s2/favicons?domain=www.einvestigator.com&sz=16" width="16" height="16"> [eInvestigator](https://www.einvestigator.com/)
-* <img src="https://www.google.com/s2/favicons?domain=inteltechniques.com&sz=16" width="16" height="16"> [IntelTechniques](https://inteltechniques.com/)
-* <img src="https://www.google.com/s2/favicons?domain=nixintel.info&sz=16" width="16" height="16"> [NixIntel](https://nixintel.info/)
-* <img src="https://www.google.com/s2/favicons?domain=www.osinttechniques.com&sz=16" width="16" height="16"> [OSINT Techniques](https://www.osinttechniques.com/blog)
-* <img src="https://www.google.com/s2/favicons?domain=publication.osintambition.org&sz=16" width="16" height="16"> [OSINT Ambition Publication](https://publication.osintambition.org/)
-* <img src="https://www.google.com/s2/favicons?domain=www.osintteam.com&sz=16" width="16" height="16"> [OSINT Team](https://www.osintteam.com/)
-* <img src="https://www.google.com/s2/favicons?domain=osintcurio.us&sz=16" width="16" height="16"> [OSINTCurious](https://osintcurio.us/)
-* <img src="https://www.google.com/s2/favicons?domain=sector035.nl&sz=16" width="16" height="16"> [Sector035](https://sector035.nl/)
-* <img src="https://www.google.com/s2/favicons?domain=www.skopenow.com&sz=16" width="16" height="16"> [Skopenow](https://www.skopenow.com/news)
+* <img src="https://www.google.com/s2/favicons?domain=www.bellingcat.com&sz=16" width="16" height="16"> [Bellingcat](https://www.bellingcat.com/) - Independent investigative journalism outlet specializing in open-source intelligence and fact-checking worldwide.
+* <img src="https://www.google.com/s2/favicons?domain=www.einvestigator.com&sz=16" width="16" height="16"> [eInvestigator](https://www.einvestigator.com/) - Blog covering digital investigations, cyberstalking awareness, and online intelligence gathering techniques.
+* <img src="https://www.google.com/s2/favicons?domain=inteltechniques.com&sz=16" width="16" height="16"> [IntelTechniques](https://inteltechniques.com/) - Michael Bazzell's site offering OSINT training, tools, podcasts, and privacy-focused investigation resources.
+* <img src="https://www.google.com/s2/favicons?domain=nixintel.info&sz=16" width="16" height="16"> [NixIntel](https://nixintel.info/) - Blog with practical OSINT tutorials and walkthroughs for internet investigations and verification techniques.
+* <img src="https://www.google.com/s2/favicons?domain=www.osinttechniques.com&sz=16" width="16" height="16"> [OSINT Techniques](https://www.osinttechniques.com/blog) - Blog sharing open-source intelligence techniques, tools, and methodologies for online investigations.
+* <img src="https://www.google.com/s2/favicons?domain=publication.osintambition.org&sz=16" width="16" height="16"> [OSINT Ambition Publication](https://publication.osintambition.org/) - Community publication featuring OSINT articles, tutorials, and research from multiple contributors.
+* <img src="https://www.google.com/s2/favicons?domain=www.osintteam.com&sz=16" width="16" height="16"> [OSINT Team](https://www.osintteam.com/) - Collaborative blog publishing OSINT guides, tool reviews, and investigative methodology articles.
+* <img src="https://www.google.com/s2/favicons?domain=osintcurio.us&sz=16" width="16" height="16"> [OSINTCurious](https://osintcurio.us/) - Community-driven platform sharing OSINT tips, webcasts, and investigation techniques from multiple contributors.
+* <img src="https://www.google.com/s2/favicons?domain=sector035.nl&sz=16" width="16" height="16"> [Sector035](https://sector035.nl/) - Weekly OSINT blog by sector035 featuring link roundups and open-source intelligence news updates.
+* <img src="https://www.google.com/s2/favicons?domain=www.skopenow.com&sz=16" width="16" height="16"> [Skopenow](https://www.skopenow.com/news) - News and insights blog from Skopenow covering social media investigations and people-search intelligence.
 * [Sleuth For The Truth](http://sleuthforthetruth.com/) - OSINT blog and resource collection for investigators covering techniques and case studies.
-* <img src="https://www.google.com/s2/favicons?domain=blog.sociallinks.io&sz=16" width="16" height="16"> [Social Links](https://blog.sociallinks.io/)
+* <img src="https://www.google.com/s2/favicons?domain=blog.sociallinks.io&sz=16" width="16" height="16"> [Social Links](https://blog.sociallinks.io/) - Blog from Social Links covering OSINT tools, techniques, and digital investigation case studies.
 
 ## [↑](#-table-of-contents) 📦 Other Resources
 
 * <img src="https://www.google.com/s2/favicons?domain=www.aware-online.com&sz=16" width="16" height="16"> [Aware-online.com](https://www.aware-online.com/en/osint-tools) - Curated collection of OSINT tools and methodologies for investigations.
-* <img src="https://www.google.com/s2/favicons?domain=bit.ly&sz=16" width="16" height="16"> [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools)
+* <img src="https://www.google.com/s2/favicons?domain=bit.ly&sz=16" width="16" height="16"> [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools) - Comprehensive spreadsheet toolkit curated by Bellingcat listing hundreds of online investigation tools.
 * <img src="https://www.google.com/s2/favicons?domain=docs.google.com&sz=16" width="16" height="16"> [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey.
 * <img src="https://www.google.com/s2/favicons?domain=cipherstick.tech&sz=16" width="16" height="16"> [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
-* <img src="https://www.google.com/s2/favicons?domain=www.osintdojo.com&sz=16" width="16" height="16"> [OSINT Dojo](https://www.osintdojo.com/resources/)
-* <img src="https://www.google.com/s2/favicons?domain=t.me&sz=16" width="16" height="16"> [OSINT Belarus](https://t.me/s/osintby)
+* <img src="https://www.google.com/s2/favicons?domain=www.osintdojo.com&sz=16" width="16" height="16"> [OSINT Dojo](https://www.osintdojo.com/resources/) - Curated collection of OSINT learning resources, practice exercises, and investigation training materials.
+* <img src="https://www.google.com/s2/favicons?domain=t.me&sz=16" width="16" height="16"> [OSINT Belarus](https://t.me/s/osintby) - Telegram channel aggregating open-source intelligence resources and investigations focused on Belarus.
 * <img src="https://www.google.com/s2/favicons?domain=www.bellingcat.com&sz=16" width="16" height="16"> [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
-* <img src="https://www.google.com/s2/favicons?domain=osintupdates.com&sz=16" width="16" height="16"> [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
+* <img src="https://www.google.com/s2/favicons?domain=osintupdates.com&sz=16" width="16" height="16"> [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/) - Free weekly email newsletter curating the latest OSINT tools, techniques, and community news.
 
 ## [↑](#-table-of-contents) ⭐ Related Awesome Lists
 
