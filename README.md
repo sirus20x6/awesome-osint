@@ -12,82 +12,82 @@ Happy hacking and hunting 🧙‍♂️
 
 ## 📖 Table of Contents
 
- - [🔍 General Search](#general-search)
- - [🤖 Google Dorks](#google-dorks-tools)
- - [🌐 Main National Search Engines](#main-national-search-engines)
- - [🔄 Meta Search](#meta-search)
- - [🔒 Privacy Focused Search Engines](#privacy-focused-search-engines)
- - [💧 Data Breach Search Engines](#data-breach-search-engines)
- - [🎯 Specialty Search Engines](#speciality-search-engines)
- - [🕶️ Dark Web Search Engines](#dark-web-search-engines)
- - [👁️ Visual Search and Clustering Search Engines](#visual-search-and-clustering-search-engines)
- - [🔗 Similar Sites Search](#similar-sites-search)
- - [📄 Document and Slides Search](#document-and-slides-search)
- - [🎭 Threat Actor Search](#threat-actor-search)
- - [⚡ Live Cyber Attack Maps](#live-cyber-threat-maps)
- - [📁 File Search](#file-search)
- - [📋 Pastebins](#pastebins)
- - [💻 Code Search](#code-search)
- - [📱 Major Social Networks](#major-social-networks)
- - [⚡ Real-Time Search, Social Media Search, and General Social Media Tools](#real-time-search-social-media-search-and-general-social-media-tools)
- - [🛠️ Social Media Tools](#social-media-tools)
-   - [<img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> Twitter](#twitter)
-   - [<img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=16" width="16" height="16"> Facebook](#facebook)
-   - [<img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=16" width="16" height="16"> Instagram](#instagram)
-   - [<img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=16" width="16" height="16"> Pinterest](#pinterest)
-   - [<img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=16" width="16" height="16"> Reddit](#reddit)
-   - [<img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> VKontakte](#vkontakte)
-   - [<img src="https://www.google.com/s2/favicons?domain=tumblr.com&sz=16" width="16" height="16"> Tumblr](#tumblr)
-   - [<img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=16" width="16" height="16"> LinkedIn](#linkedin)
-   - [<img src="https://www.google.com/s2/favicons?domain=telegram.org&sz=16" width="16" height="16"> Telegram](#telegram)
-   - [<img src="https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=16" width="16" height="16"> Steam](#steam)
-   - [<img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> GitHub](#github)
-   - [<img src="https://www.google.com/s2/favicons?domain=tiktok.com&sz=16" width="16" height="16"> TikTok](#tiktok)
-   - [<img src="https://www.google.com/s2/favicons?domain=discord.com&sz=16" width="16" height="16"> Discord](#discord)
-   - [<img src="https://www.google.com/s2/favicons?domain=joinmastodon.org&sz=16" width="16" height="16"> Mastodon / Fediverse](#mastodon--fediverse)
- - [📝 Blog Search](#blog-search)
- - [💬 Forums and Discussion Boards Search](#forums-and-discussion-boards-search)
- - [🔎 Username Check](#username-check)
- - [👥 People Investigations](#people-investigations)
- - [📧 Email Search / Email Check](#email-search--email-check)
- - [📞 Phone Number Research](#phone-number-research)
-- [🚗 Vehicle / Automobile Research](#vehicle--automobile-research)
- - [🎓 Expert Search](#expert-search)
- - [🏢 Company Research](#company-research)
- - [👔 Job Search Resources](#job-search-resources)
- - [❓ Q&A Sites](#qa-sites)
- - [🖥️ Domain and IP Research](#domain-and-ip-research)
- - [🔑 Keywords Discovery and Research](#keywords-discovery-and-research)
- - [⏳ Web History and Website Capture](#web-history-and-website-capture)
- - [🗣️ Language Tools](#language-tools)
- - [🖼️ Image Search](#image-search)
- - [🔬 Image Analysis](#image-analysis)
- - [🎥 Video Search and Other Video Tools](#video-search-and-other-video-tools)
- - [📚 Academic Resources and Grey Literature](#academic-resources-and-grey-literature)
- - [🌍 Geospatial Research and Mapping Tools](#geospatial-research-and-mapping-tools)
- - [📰 News](#news)
- - [📡 News Digest and Discovery Tools](#news-digest-and-discovery-tools)
- - [✅ Fact Checking](#fact-checking)
- - [📊 Data and Statistics](#data-and-statistics)
- - [👀 Web Monitoring](#web-monitoring)
- - [🧭 Browsers](#browsers)
- - [📥 Offline Browsing](#offline-browsing)
- - [🛡️ VPN Services](#vpn-services)
- - [📈 Infographics and Data Visualization](#infographics-and-data-visualization)
- - [🕸️ Social Network Analysis](#social-network-analysis)
- - [🔐 Privacy and Encryption Tools](#privacy-and-encryption-tools)
- - [🔤 DNS](#dns)
- - [⚓ Maritime](#maritime)
- - [✈️ Aviation / Flight Tracking](#aviation--flight-tracking)
- - [🪙 Cryptocurrency / Blockchain](#cryptocurrency--blockchain)
- - [🧰 Other Tools](#other-tools)
- - [🕵️ Threat Intelligence](#threat-intelligence)
- - [🎮 Gaming Platforms](#gaming-platforms)
- - [🎵 Music Streaming Services](#music-streaming-services)
- - [🎬 OSINT Videos](#osint-videos)
- - [✍️ OSINT Blogs](#osint-blogs)
- - [📦 Other Resources](#other-resources)
- - [⭐ Related Awesome Lists](#related-awesome-lists)
+ - 🔍 [General Search](#-general-search)
+ - 🤖 [Google Dorks](#-google-dorks-tools)
+ - 🌐 [Main National Search Engines](#-main-national-search-engines)
+ - 🔄 [Meta Search](#-meta-search)
+ - 🔒 [Privacy Focused Search Engines](#-privacy-focused-search-engines)
+ - 💧 [Data Breach Search Engines](#-databreach-search-engines)
+ - 🎯 [Specialty Search Engines](#-specialty-search-engines)
+ - 🕶️ [Dark Web Search Engines](#-dark-web-search-engines)
+ - 👁️ [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
+ - 🔗 [Similar Sites Search](#-similar-sites-search)
+ - 📄 [Document and Slides Search](#-document-and-slides-search)
+ - 🎭 [Threat Actor Search](#-threat-actor-search)
+ - ⚡ [Live Cyber Attack Maps](#-live-cyberthreat-maps)
+ - 📁 [File Search](#-file-search)
+ - 📋 [Pastebins](#-pastebins)
+ - 💻 [Code Search](#-code-search)
+ - 📱 [Major Social Networks](#-major-social-networks)
+ - ⚡ [Real-Time Search, Social Media Search, and General Social Media Tools](#-real-time-search-social-media-search-and-general-social-media-tools)
+ - 🛠️ [Social Media Tools](#social-media-tools)
+   - <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> [Twitter](#-twitter)
+   - <img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=16" width="16" height="16"> [Facebook](#-facebook)
+   - <img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=16" width="16" height="16"> [Instagram](#-instagram)
+   - <img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=16" width="16" height="16"> [Pinterest](#-pinterest)
+   - <img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=16" width="16" height="16"> [Reddit](#-reddit)
+   - <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VKontakte](#-vkontakte)
+   - <img src="https://www.google.com/s2/favicons?domain=tumblr.com&sz=16" width="16" height="16"> [Tumblr](#-tumblr)
+   - <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=16" width="16" height="16"> [LinkedIn](#-linkedin)
+   - <img src="https://www.google.com/s2/favicons?domain=telegram.org&sz=16" width="16" height="16"> [Telegram](#-telegram)
+   - <img src="https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=16" width="16" height="16"> [Steam](#-steam)
+   - <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [GitHub](#-github)
+   - <img src="https://www.google.com/s2/favicons?domain=tiktok.com&sz=16" width="16" height="16"> [TikTok](#-tiktok)
+   - <img src="https://www.google.com/s2/favicons?domain=discord.com&sz=16" width="16" height="16"> [Discord](#-discord)
+   - <img src="https://www.google.com/s2/favicons?domain=joinmastodon.org&sz=16" width="16" height="16"> [Mastodon / Fediverse](#-mastodon--fediverse)
+ - 📝 [Blog Search](#-blog-search)
+ - 💬 [Forums and Discussion Boards Search](#-forums-and-discussion-boards-search)
+ - 🔎 [Username Check](#-username-check)
+ - 👥 [People Investigations](#-people-investigations)
+ - 📧 [Email Search / Email Check](#-email-search--email-check)
+ - 📞 [Phone Number Research](#-phone-number-research)
+- 🚗 [Vehicle / Automobile Research](#-vehicle--automobile-research)
+ - 🎓 [Expert Search](#-expert-search)
+ - 🏢 [Company Research](#-company-research)
+ - 👔 [Job Search Resources](#-job-search-resources)
+ - ❓ [Q&A Sites](#-qa-sites)
+ - 🖥️ [Domain and IP Research](#-domain-and-ip-research)
+ - 🔑 [Keywords Discovery and Research](#-keywords-discovery-and-research)
+ - [⏳ Web History and Website Capture](#-web-history-and-website-capture)
+ - 🗣️ [Language Tools](#-language-tools)
+ - 🖼️ [Image Search](#-image-search)
+ - 🔬 [Image Analysis](#-image-analysis)
+ - 🎥 [Video Search and Other Video Tools](#-video-search-and-other-video-tools)
+ - 📚 [Academic Resources and Grey Literature](#-academic-resources-and-grey-literature)
+ - 🌍 [Geospatial Research and Mapping Tools](#-geospatial-research-and-mapping-tools)
+ - 📰 [News](#-news)
+ - 📡 [News Digest and Discovery Tools](#-news-digest-and-discovery-tools)
+ - ✅ [Fact Checking](#-fact-checking)
+ - 📊 [Data and Statistics](#-data-and-statistics)
+ - 👀 [Web Monitoring](#-web-monitoring)
+ - 🧭 [Browsers](#-browsers)
+ - 📥 [Offline Browsing](#-offline-browsing)
+ - 🛡️ [VPN Services](#-vpn-services)
+ - 📈 [Infographics and Data Visualization](#-infographics-and-data-visualization)
+ - 🕸️ [Social Network Analysis](#-social-network-analysis)
+ - 🔐 [Privacy and Encryption Tools](#-privacy-and-encryption-tools)
+ - 🔤 [DNS](#-dns)
+ - ⚓ [Maritime](#-maritime)
+ - ✈️ [Aviation / Flight Tracking](#-aviation--flight-tracking)
+ - 🪙 [Cryptocurrency / Blockchain](#-cryptocurrency--blockchain)
+ - 🧰 [Other Tools](#-other-tools)
+ - 🕵️ [Threat Intelligence](#-threat-intelligence)
+ - 🎮 [Gaming Platforms](#-gaming-platforms)
+ - 🎵 [Music Streaming Services](#-music-streaming-services)
+ - 🎬 [OSINT Videos](#-osint-videos)
+ - ✍️ [OSINT Blogs](#-osint-blogs)
+ - 📦 [Other Resources](#-other-resources)
+ - ⭐ [Related Awesome Lists](#-related-awesome-lists)
 * <img src="https://www.google.com/s2/favicons?domain=duckduckgo.com&sz=16" width="16" height="16"> [DuckDuckGo](https://duckduckgo.com/) - Privacy-focused search engine that doesn't track users or filter results based on search history.
 * <img src="https://www.google.com/s2/favicons?domain=search.brave.com&sz=16" width="16" height="16"> [Brave Search](https://search.brave.com/) - Independent privacy search engine with its own index, no tracking.
 * <img src="https://www.google.com/s2/favicons?domain=haveibeenpwned.com&sz=16" width="16" height="16"> [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email or phone has been compromised in a data breach.
@@ -141,11 +141,11 @@ Happy hacking and hunting 🧙‍♂️
 * <img src="https://www.google.com/s2/favicons?domain=thehive-project.org&sz=16" width="16" height="16"> [TheHive](https://thehive-project.org/) - Open-source security incident response platform designed for SOCs and CSIRTs.
 * <img src="https://www.google.com/s2/favicons?domain=threatfox.abuse.ch&sz=16" width="16" height="16"> [ThreatFox](https://threatfox.abuse.ch/) - IOC sharing platform for malware-related indicators of compromise.
 
-## [↑](#table-of-contents) 🤝 Contributing
+## [↑](#-table-of-contents) Contributing
 
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resources. Feel free to help 🥰 us grow this list with great resources.
 
-## [↑](#table-of-contents) 🙏 Credits
+## [↑](#-table-of-contents) Credits
 
 This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
 
@@ -153,7 +153,7 @@ Thanks to our main contributors
 [jivoi EK_](https://github.com/jivoi) & 
 [spmedia](https://github.com/spmedia)
 
-## [↑](#table-of-contents) 🔍 General Search
+## [↑](#-table-of-contents) General Search
 
 *The main search engines used by users.*
 
@@ -175,7 +175,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.yahoo.com&sz=16" width="16" height="16"> [Yahoo! Search](https://www.yahoo.com) -  The search engine that helps you find exactly what you're looking for.
 * <img src="https://www.google.com/s2/favicons?domain=you.com&sz=16" width="16" height="16"> [YOU](https://you.com) - AI search engine.
 
-## [↑](#google-dorks-tools) 🤖 Google Dorks Tools
+## [↑](#-google-dorks-tools) Google Dorks Tools
 
 *Google Dorks Tools*
 
@@ -184,7 +184,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.exploit-db.com&sz=16" width="16" height="16"> [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [SearchDorks](https://kriztalz.sh/search-dorks/) - Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.
 
-## [↑](#table-of-contents) 🌐 Main National Search Engines
+## [↑](#-table-of-contents) Main National Search Engines
 
 *Localized search engines by country.*
 
@@ -207,7 +207,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.yandex.com&sz=16" width="16" height="16"> [Yandex (Russia)](http://www.yandex.com) - Russia's dominant search engine with strong natural language processing for Cyrillic queries and regional content.
 * <img src="https://www.google.com/s2/favicons?domain=zarebin.ir&sz=16" width="16" height="16"> [Zarebin (Iran)](http://zarebin.ir) - Iranian government-backed search engine providing Farsi-language web search and content filtering.
 
-## [↑](#table-of-contents) 🔄 Meta Search
+## [↑](#-table-of-contents) Meta Search
 
 *Lesser known and used search engines.*
 
@@ -221,7 +221,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.qwant.com&sz=16" width="16" height="16"> [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 * <img src="https://www.google.com/s2/favicons?domain=swisscows.com&sz=16" width="16" height="16"> [Swisscows](https://swisscows.com/) - Privacy-focused Swiss meta search engine with built-in family-safe filtering and no user tracking.
 
-## [↑](#table-of-contents) 🔒 Privacy Focused Search Engines
+## [↑](#-table-of-contents) Privacy Focused Search Engines
 
 *Search engines that focuses on anonymization,privacy.*
   
@@ -235,7 +235,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.startpage.com&sz=16" width="16" height="16"> [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 * <img src="https://www.google.com/s2/favicons?domain=swisscows.com&sz=16" width="16" height="16"> [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 
-## [↑](#table-of-contents) 💧 Data Breach Search Engines
+## [↑](#-table-of-contents) Data Breach Search Engines
 
 *Search engines that can be used to check if your data's been breached*
 
@@ -246,7 +246,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=stealseek.io&sz=16" width="16" height="16"> [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * <img src="https://www.google.com/s2/favicons?domain=venacus.com&sz=16" width="16" height="16"> [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
-## [↑](#table-of-contents) 🎯 Speciality Search Engines
+## [↑](#-table-of-contents) Speciality Search Engines
 
 *Search engines for specific information or topics.*
 
@@ -293,25 +293,25 @@ algorithms, knowledgebase and AI technology.
 * [Zanran](http://zanran.com) - Search engine specialized in finding data and statistics buried in charts, tables, and PDFs.
 * <img src="https://www.google.com/s2/favicons?domain=www.zoomeye.ai&sz=16" width="16" height="16"> [ZoomEye](https://www.zoomeye.ai/) - ZoomEye is a cyberspace search engine for IPs, domains, internet asset discovery, and exposure analysis of servers, routers, and webcams.
 
-## [↑](#table-of-contents) 🕶️ Dark Web Search Engines
+## [↑](#-table-of-contents) Dark Web Search Engines
 * [Ahmia](https://ahmia.fi) - Search engine for .onion sites that indexes Tor hidden services and filters out abuse material.
 * [Aleph Open Search](https://open-search.aleph-networks.eu) - Dark web search engine by Aleph Networks indexing Tor, I2P, and other overlay networks.
 
-## [↑](#table-of-contents) 👁️ Visual Search and Clustering Search Engines
+## [↑](#-table-of-contents) Visual Search and Clustering Search Engines
 
 *Search engines that scrape multiple sites (Google, Yahoo, Bing, Goo, etc) at the same time and return results.*
 
 * <img src="https://www.google.com/s2/favicons?domain=search.carrot2.org&sz=16" width="16" height="16"> [Carrot2](https://search.carrot2.org) - Organizes your search results into topics.
 * <img src="https://www.google.com/s2/favicons?domain=www.zapmeta.com&sz=16" width="16" height="16"> [Zapmeta](http://www.zapmeta.com) - Meta search engine that aggregates and clusters web results from multiple sources with visual preview thumbnails.
 
-## [↑](#table-of-contents) 🔗 Similar Sites Search
+## [↑](#-table-of-contents) Similar Sites Search
 
 *Find websites that are similar. Good for business competition research.*
 
 * <img src="https://www.google.com/s2/favicons?domain=www.similarsites.com&sz=16" width="16" height="16"> [SimilarSites](http://www.similarsites.com) - Discover websites that are similar to each other
 * <img src="https://www.google.com/s2/favicons?domain=www.siteslike.com&sz=16" width="16" height="16"> [SitesLike](http://www.siteslike.com) - Find similar websites by category
 
-## [↑](#table-of-contents) 📄 Document and Slides Search
+## [↑](#-table-of-contents) Document and Slides Search
 
 *Search for data located on PDFs, Word documents, presentation slides, and more.*
 
@@ -324,7 +324,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.scribd.com&sz=16" width="16" height="16"> [Scribd](http://www.scribd.com) - Digital library and document-sharing platform hosting millions of books, audiobooks, articles, and user-uploaded documents.
 * <img src="https://www.google.com/s2/favicons?domain=www.slideshare.net&sz=16" width="16" height="16"> [SlideShare](http://www.slideshare.net) - Professional content-sharing platform for discovering and hosting presentations, infographics, and business documents.
 
-## [↑](#threat-actor-search) 🎭 Threat Actor Search
+## [↑](#-threat-actor-search) Threat Actor Search
 
 *Search for Threat actors and their associated information.*
 
@@ -344,7 +344,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=socradar.io&sz=16" width="16" height="16"> [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
 * <img src="https://www.google.com/s2/favicons?domain=cds.thalesgroup.com&sz=16" width="16" height="16"> [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
 
-## [↑](#live-cyber-threat-maps) ⚡ Live Cyber Threat Maps
+## [↑](#-live-cyberthreat-maps) Live Cyber Threat Maps
 
 *Live Cyber Threat Maps helps to know attacks carried out in visualized format.*
 
@@ -366,7 +366,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=threatlabz.zscaler.com&sz=16" width="16" height="16"> [Zscaler Global Threat Map Dashboard](https://threatlabz.zscaler.com/cloud-insights/threat-map-dashboard) - Illustrates those we've seen in the past 24 hours, consisting of threats detected by our antivirus engines, malware and advanced persistent threats.
 
 
-## [↑](#table-of-contents) 📁 File Search
+## [↑](#-table-of-contents) File Search
 
 *Search for all kind of files.*
 
@@ -381,7 +381,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=odcrawler.xyz&sz=16" width="16" height="16"> [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
 * <img src="https://www.google.com/s2/favicons?domain=searchfiles.de&sz=16" width="16" height="16"> [SearchFiles.de](https://searchfiles.de/) - File search engine for discovering documents and media hosted on publicly accessible web and FTP servers.
 
-## [↑](#table-of-contents) 📋 Pastebins
+## [↑](#-table-of-contents) Pastebins
 
 *Find information that has been uploaded to Pastebin & alternative pastebin-type sites*
 
@@ -452,7 +452,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=sebsauvage.net&sz=16" width="16" height="16"> [ZeroBin](https://sebsauvage.net/paste/) - ZeroBin is a minimalist, opensource online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
 
-## [↑](#table-of-contents) 💻 Code Search
+## [↑](#-table-of-contents) Code Search
 
 *Search by website source code*
 
@@ -467,7 +467,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.sourcebot.dev&sz=16" width="16" height="16"> [Sourcebot](https://www.sourcebot.dev/) - Index thousands of repos on your machine and search through them in a fast, powerful, and modern web interface.
 * <img src="https://www.google.com/s2/favicons?domain=sourcegraph.com&sz=16" width="16" height="16"> [SourceGraph](https://sourcegraph.com/search) - Search code from millions of open source repositories.
 
-## [↑](#table-of-contents) 📱 Major Social Networks
+## [↑](#-table-of-contents) Major Social Networks
 
 * <img src="https://www.google.com/s2/favicons?domain=bsky.app&sz=16" width="16" height="16"> [Bluesky](https://bsky.app) - Decentralized social network built on the AT Protocol.
 * <img src="https://www.google.com/s2/favicons?domain=www.draugiem.lv&sz=16" width="16" height="16"> [Draugiem (Latvia)](https://www.draugiem.lv) - Latvia's largest social network with over two million users, useful for investigating Latvian and Baltic region subjects.
@@ -488,7 +488,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VKontakte](https://vk.com) - Russia's largest social network with extensive public profiles, photos, and groups valuable for Eastern European investigations.
 * <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](https://www.xing.com) - German-speaking professional network similar to LinkedIn, useful for investigating European business contacts and career histories.
 
-## [↑](#table-of-contents) ⚡ Real-Time Search, Social Media Search, and General Social Media Tools
+## [↑](#-table-of-contents) Real-Time Search, Social Media Search, and General Social Media Tools
 
 * <img src="https://www.google.com/s2/favicons?domain=www.audiense.com&sz=16" width="16" height="16"> [Audiense](https://www.audiense.com) - Tool to identify relevant audience, discover actionable insights and inform strategies to grow your business.
 * [Bottlenose](http://bottlenose.com) - AI-powered trend intelligence platform analyzing real-time social media signals.
@@ -517,9 +517,9 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.uvrx.com&sz=16" width="16" height="16"> [UVRX](http://www.uvrx.com/social.html) - Custom Google search engine targeting multiple social media platforms to find profiles and posts across networks simultaneously.
 * [WATools](https://watools.io/) - WhatsApp OSINT toolkit for profile picture viewing, group analysis, and number verification.
 
-## 🛠️ Social Media Tools
+## Social Media Tools
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> Twitter
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> Twitter
 
 * <img src="https://www.google.com/s2/favicons?domain=www.exportdata.io&sz=16" width="16" height="16"> [ExportData](https://www.exportdata.io/) - Data export tool for historical tweets, followers & followings and historical trends.
 * <img src="https://www.google.com/s2/favicons?domain=foller.me&sz=16" width="16" height="16"> [Foller.me](http://foller.me) - Free Twitter analytics tool that generates insights on any public profile including topics, hashtags, mentions, and activity patterns.
@@ -537,7 +537,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=tweetreports.com&sz=16" width="16" height="16"> [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule) - Directory of scheduled Twitter chats organized by topic, day, and time to discover industry-relevant conversations.
 * [Twitter Search](http://search.twitter.com) - Native Twitter/X search for tweets, users, hashtags, and trending topics.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=16" width="16" height="16"> Facebook
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=16" width="16" height="16"> Facebook
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Facebook Friend List Scraper](https://github.com/narkopolo/fb_friend_list_scraper) - Tool for scraping large Facebook friend lists without being rate-limited.
 * <img src="https://www.google.com/s2/favicons?domain=search.fb.com&sz=16" width="16" height="16"> [Facebook Search](http://search.fb.com/) - Facebook's native search interface for finding people, posts, pages, groups, and public content across the platform.
@@ -549,7 +549,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=searchisback.com&sz=16" width="16" height="16"> [SearchIsBack](https://searchisback.com) - Web interface recreating Facebook Graph Search functionality for finding people by location, employer, school, and interests.
 * <img src="https://www.google.com/s2/favicons?domain=www.wolframalpha.com&sz=16" width="16" height="16"> [Wolfram Alpha Facebook Report](http://www.wolframalpha.com/input/?i=facebook+report) - Wolfram Alpha feature that generates detailed analytical reports on your Facebook activity, friends, and network structure.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=16" width="16" height="16"> Instagram
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=instagram.com&sz=16" width="16" height="16"> Instagram
 
 * <img src="https://www.google.com/s2/favicons?domain=www.dolphinradar.com&sz=16" width="16" height="16"> [Dolphin Radar](https://www.dolphinradar.com/web-viewer-for-instagram) - An Instagram Post Viewer lets you view posts, stories, and profiles from public accounts with ease. Free viewer limit: 1.
 * <img src="https://www.google.com/s2/favicons?domain=iconosquare.com&sz=16" width="16" height="16"> [Iconosquare](http://iconosquare.com) - Social media analytics and management platform for Instagram with audience insights, scheduling, and competitor tracking.
@@ -559,12 +559,12 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Osintgraph](https://github.com/XD-MHLOO/Osintgraph) - Tool that maps your target’s Instagram data and relationships in Neo4j for social network analysis.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Toutatis](https://github.com/megadose/toutatis) - a tool that allows you to extract information from instagrams accounts such as s, phone numbers and more
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=16" width="16" height="16"> Pinterest
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=pinterest.com&sz=16" width="16" height="16"> Pinterest
 
 * <img src="https://www.google.com/s2/favicons?domain=pingroupie.com&sz=16" width="16" height="16"> [Pingroupie](http://pingroupie.com) - Directory of Pinterest group boards searchable by category, follower count, and activity for marketing research.
 * <img src="https://www.google.com/s2/favicons?domain=chromewebstore.google.com&sz=16" width="16" height="16"> [Pinterest Pin Stats](https://chromewebstore.google.com/detail/pinterest-pin-stats-sort/mcmkeopcpbfgjlakblglpcccpodbjkel) - Display hidden Pinterest stats for each pin.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=16" width="16" height="16"> Reddit
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=reddit.com&sz=16" width="16" height="16"> Reddit
 
 *Tools to help discover more about a reddit user or subreddit.*
 
@@ -584,7 +584,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=randomtools.io&sz=16" width="16" height="16"> [Reddit Comment Lookup](https://randomtools.io/reddit-comment-search/) - Search for reddit comments by reddit username.
 
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> VKontakte
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> VKontakte
 
 *Perform various OSINT on Russian social media site VKontakte.*
 
@@ -595,22 +595,22 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=vk.com&sz=16" width="16" height="16"> [VK People Search](http://vk.com/people) - Official VKontakte people search page for finding users by name, location, workplace, and other profile fields.
 * <img src="https://www.google.com/s2/favicons?domain=vk.watch&sz=16" width="16" height="16"> [VK.watch](https://vk.watch/) - Third-party VKontakte monitoring service that tracks profile changes, online status, and public activity history.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=whatsapp.com&sz=16" width="16" height="16"> WhatsApp
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=whatsapp.com&sz=16" width="16" height="16"> WhatsApp
 
 *[2Chat](https://2chat.co/tools/whatsapp-checker) - Check if a number is on WhatsApp.
 *[Groupio](https://en.groupio.app/) - Find and search WhatsApp groups.
 *[Whatsapp CheckLeaked](https://whatsapp.checkleaked.cc/) - WhatsApp Number Search & Profile Photo Checker. API Option Available.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=tumblr.com&sz=16" width="16" height="16"> Tumblr
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=tumblr.com&sz=16" width="16" height="16"> Tumblr
 
 * <img src="https://www.google.com/s2/favicons?domain=www.tumblr.com&sz=16" width="16" height="16"> [Tumblr Search](http://www.tumblr.com/search) - Official Tumblr search interface for discovering posts, blogs, and tags across the Tumblr platform.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=16" width="16" height="16"> LinkedIn
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=linkedin.com&sz=16" width="16" height="16"> LinkedIn
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [the-endorser](https://github.com/eth0izzle/the-endorser) - Tool that allows you to draw out relationships between people on LinkedIn via endorsements/skills.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [LinkedInDumper](https://github.com/l4rm4nd/LinkedInDumper) - Script to dump/scrape/extract company employees info from LinkedIn API.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=telegram.org&sz=16" width="16" height="16"> Telegram
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=telegram.org&sz=16" width="16" height="16"> Telegram
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.
 * <img src="https://www.google.com/s2/favicons?domain=groupda.com&sz=16" width="16" height="16"> [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
@@ -686,44 +686,44 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=t.me&sz=16" width="16" height="16"> [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 * <img src="https://www.google.com/s2/favicons?domain=t.me&sz=16" width="16" height="16"> [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=16" width="16" height="16"> Steam
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=store.steampowered.com&sz=16" width="16" height="16"> Steam
 
 * <img src="https://www.google.com/s2/favicons?domain=osint-steam.vercel.app&sz=16" width="16" height="16"> [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Steam-OSINT](https://github.com/matiash26/steam-osint) - Open-source OSINT tool for accurate mutual friends analysis on Steam, supporting full friend lists.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> GitHub
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> GitHub
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [github_monitor](https://github.com/misiektoja/github_monitor) - Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [GithubRecon](https://kriztalz.sh/github-recon/) - Lookup Github users by username or email and gather associated data.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Shotstars](https://github.com/snooppr/shotstars) - An advanced tool for checking GitHub repositories, with star statistics, including fake star analysis and data visualization.
 
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=tiktok.com&sz=16" width="16" height="16"> TikTok
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=tiktok.com&sz=16" width="16" height="16"> TikTok
 
 * <img src="https://www.google.com/s2/favicons?domain=www.tiktok.com&sz=16" width="16" height="16"> [TikTok Search](https://www.tiktok.com/search) - Native TikTok search for users, videos, sounds, and hashtags.
 * <img src="https://www.google.com/s2/favicons?domain=tikfinity.zerody.one&sz=16" width="16" height="16"> [Tikfinity](https://tikfinity.zerody.one/) - TikTok live stream analytics and monitoring.
 * [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) - Extract exact upload timestamp from TikTok video URLs.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=discord.com&sz=16" width="16" height="16"> Discord
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=discord.com&sz=16" width="16" height="16"> Discord
 
 * [Discord History Tracker](https://dht.chylex.com/) - Browser script to save chat history in Discord servers and DMs.
 * [DiscordLeaks](https://discordleaks.unicornriot.ninja/) - Searchable database of leaked Discord chat logs from extremist servers.
 * <img src="https://www.google.com/s2/favicons?domain=disboard.org&sz=16" width="16" height="16"> [Disboard](https://disboard.org/) - Public Discord server listing and search engine.
 
-### [↑](#table-of-contents) <img src="https://www.google.com/s2/favicons?domain=joinmastodon.org&sz=16" width="16" height="16"> Mastodon / Fediverse
+### [↑](#-table-of-contents) <img src="https://www.google.com/s2/favicons?domain=joinmastodon.org&sz=16" width="16" height="16"> Mastodon / Fediverse
 
 * [instances.social](https://instances.social/) - Directory of Mastodon instances with statistics and filters.
 * <img src="https://www.google.com/s2/favicons?domain=fedi.directory&sz=16" width="16" height="16"> [Fedi.Directory](https://fedi.directory/) - Curated directory of interesting Fediverse accounts to follow.
 * [FediFinder](https://fedifinder.glitch.me/) - Find your Twitter follows on Mastodon and the Fediverse.
 
-## [↑](#table-of-contents) 📝 Blog Search
+## [↑](#-table-of-contents) Blog Search
 
 * [BlogSearchEngine](http://www.blogsearchengine.org) - Dedicated search engine for discovering blog posts and bloggers across topics.
 * <img src="https://www.google.com/s2/favicons?domain=www.notey.com&sz=16" width="16" height="16"> [Notey](http://www.notey.com) - Blog post search engine.
 * <img src="https://www.google.com/s2/favicons?domain=www.twingly.com&sz=16" width="16" height="16"> [Twingly](http://www.twingly.com) - Blog search engine indexing over one million posts daily from three million active blogs in 56 languages worldwide.
 
-## [↑](#table-of-contents) 💬 Forums and Discussion Boards Search
+## [↑](#-table-of-contents) Forums and Discussion Boards Search
 
 * <img src="https://www.google.com/s2/favicons?domain=4chansearch.com&sz=16" width="16" height="16"> [4chan Search](https://4chansearch.com/) - Search engine specifically for 4chan boards, enabling keyword searches across archived and active threads.
 * <img src="https://www.google.com/s2/favicons?domain=boardreader.com&sz=16" width="16" height="16"> [Boardreader](http://boardreader.com) - Forum-focused search engine indexing hundreds of millions of posts from message boards and discussion forums worldwide.
@@ -734,7 +734,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.ning.com&sz=16" width="16" height="16"> [Ning](http://www.ning.com) - Platform for creating and discovering niche social networks and online communities around specific topics.
 * <img src="https://www.google.com/s2/favicons?domain=groups.yahoo.com&sz=16" width="16" height="16"> [Yahoo Groups](https://groups.yahoo.com) - Yahoo's group discussion platform for searching and joining email-based mailing lists and community forums.
 
-## [↑](#table-of-contents) 🔎 Username Check
+## [↑](#-table-of-contents) Username Check
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
@@ -759,7 +759,7 @@ algorithms, knowledgebase and AI technology.
 * [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
 
 
-## [↑](#table-of-contents) 👥 People Investigations
+## [↑](#-table-of-contents) People Investigations
 
 * <img src="https://www.google.com/s2/favicons?domain=www.192.com&sz=16" width="16" height="16"> [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
 * <img src="https://www.google.com/s2/favicons?domain=www.411.com&sz=16" width="16" height="16"> [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
@@ -799,7 +799,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.whitepages.com&sz=16" width="16" height="16"> [White Pages (US)](http://www.whitepages.com) - People search. Limited free info, premium data upsell.
 * <img src="https://www.google.com/s2/favicons?domain=www.zabasearch.com&sz=16" width="16" height="16"> [ZabaSearch](https://www.zabasearch.com/) - Free people search engine that aggregates public records including addresses, phone numbers, and associated individuals.
 
-## [↑](#table-of-contents) 📧 Email Search / Email Check
+## [↑](#-table-of-contents) Email Search / Email Check
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search for accounts associated with a given email across various platforms.
 * <img src="https://www.google.com/s2/favicons?domain=blacklistchecker.com&sz=16" width="16" height="16"> [Blacklist Checker](https://blacklistchecker.com/) - Blacklist Checker is anemail blacklist checker, monitor and API that checks 100+ blacklists in seconds
@@ -837,7 +837,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=verify-email.org&sz=16" width="16" height="16"> [Verify Email](http://verify-email.org) - The fastest and most accurate email verification tool.
 * <img src="https://www.google.com/s2/favicons?domain=www.voilanorbert.com&sz=16" width="16" height="16"> [VoilaNorbert](https://www.voilanorbert.com) - Find anyone's contact information for lead research or talent acquisition.
 
-## [↑](#table-of-contents) 📞 Phone Number Research
+## [↑](#-table-of-contents) Phone Number Research
 
 * [CallerID Test](https://calleridtest.com/) - Get caller ID and telco carrier information back from a phone number.
 * <img src="https://www.google.com/s2/favicons?domain=www.emobiletracker.com&sz=16" width="16" height="16"> [EmobileTracker.com](https://www.emobiletracker.com/) - a service specifically designed to Track Mobile Number, Location on Google Map including information such as the owner's Name,Location,Country,Telecom provider.
@@ -855,12 +855,12 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.twilio.com&sz=16" width="16" height="16"> [Twilio](https://www.twilio.com/docs/lookup/v2-api) - Look up a phone numbers carrier type, location, etc. Twilio offers free accounts that come with credits you can use with their API. Each lookup is only ~$0.01-$0.02 typically on US and CAN numbers.
 * <img src="https://www.google.com/s2/favicons?domain=www.usphonebook.com&sz=16" width="16" height="16"> [USPhoneBook](https://www.usphonebook.com/) - Reverse phone and address lookups and leading data.
 
-## [↑](#table-of-contents) 🚗 Vehicle / Automobile Research
+## [↑](#-table-of-contents) Vehicle / Automobile Research
 
 * <img src="https://www.google.com/s2/favicons?domain=www.faxvin.com&sz=16" width="16" height="16"> [FaxVIN](https://www.faxvin.com/) - Vehicle History Reports. A license plate lookup tool that returns info like VIN, make & model of vehicle, age, and numerous other details.
 * <img src="https://www.google.com/s2/favicons?domain=epicvin.com&sz=16" width="16" height="16"> [EpicVIN](https://epicvin.com/) - Vehicle reports are compiled from various data sources, including historical accident records from state agencies and other entities like NMVTIS. License plate lookup that returns VIN and car millage.
 
-## [↑](#table-of-contents) 🎓 Expert Search
+## [↑](#-table-of-contents) Expert Search
 
 * <img src="https://www.google.com/s2/favicons?domain=academia.edu&sz=16" width="16" height="16"> [Academia](http://academia.edu) - is a platform for sharing academic research.
 * <img src="https://www.google.com/s2/favicons?domain=www.expertisefinder.com&sz=16" width="16" height="16"> [ExpertiseFinder](http://www.expertisefinder.com) - Academic expert search engine for finding university researchers and faculty by field of expertise and institution.
@@ -885,7 +885,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=trexpertwitness.com&sz=16" width="16" height="16"> [TRExpertWitness](https://trexpertwitness.com) - Searchable directory of expert witnesses for litigation, organized by area of technical or professional expertise.
 * <img src="https://www.google.com/s2/favicons?domain=www.zintro.com&sz=16" width="16" height="16"> [Zintro](https://www.zintro.com) - Expert network connecting businesses with over one million industry professionals for consulting and market research.
 
-## [↑](#table-of-contents) 🏢 Company Research
+## [↑](#-table-of-contents) Company Research
 
 * <img src="https://www.google.com/s2/favicons?domain=www.allstocks.com&sz=16" width="16" height="16"> [AllStocksLinks](http://www.allstocks.com/links) - Curated link directory for stock market and financial research resources organized by investment category.
 * <img src="https://www.google.com/s2/favicons?domain=www.bbb.org&sz=16" width="16" height="16"> [Better Business Bureau](http://www.bbb.org) - Nonprofit organization providing business reliability ratings, complaint histories, and accreditation status for companies.
@@ -936,7 +936,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com) - European professional networking platform popular in German-speaking countries for career connections and company research.
 * <img src="https://www.google.com/s2/favicons?domain=youcontrol.com.ua&sz=16" width="16" height="16"> [YouControl](https://youcontrol.com.ua/en/) - Ukrainian business intelligence platform providing company registration data, ownership structures, and financial records.
 
-## [↑](#table-of-contents) 👔 Job Search Resources
+## [↑](#-table-of-contents) Job Search Resources
 
 * <img src="https://www.google.com/s2/favicons?domain=www.beyond.com&sz=16" width="16" height="16"> [Beyond](http://www.beyond.com) - Career network and job search platform aggregating listings and connecting job seekers with employers.
 * <img src="https://www.google.com/s2/favicons?domain=www.campuscareercenter.com&sz=16" width="16" height="16"> [CampusCareerCenter](http://www.campuscareercenter.com) - Job search portal connecting college students and recent graduates with entry-level positions and internships.
@@ -963,7 +963,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com) - European professional networking platform popular in German-speaking countries for career connections and company research.
 * <img src="https://www.google.com/s2/favicons?domain=www.ziprecruiter.com&sz=16" width="16" height="16"> [ZipRecruiter](https://www.ziprecruiter.com) - Online employment marketplace using AI matching to connect job seekers with relevant opportunities across industries.
 
-## [↑](#table-of-contents) ❓ Q&A Sites
+## [↑](#-table-of-contents) Q&A Sites
 
 * <img src="https://www.google.com/s2/favicons?domain=www.answers.com&sz=16" width="16" height="16"> [Answers.com](http://www.answers.com) - General knowledge Q&A platform with user-generated answers across a wide range of topics.
 * <img src="https://www.google.com/s2/favicons?domain=www.ask.com&sz=16" width="16" height="16"> [Ask](http://www.ask.com) - Question-and-answer search engine providing direct answers and results from community-sourced responses.
@@ -973,7 +973,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=answers.yahoo.com&sz=16" width="16" height="16"> [Yahoo Answers](http://answers.yahoo.com) - Yahoo's community Q&A platform with archived user-generated questions and answers across diverse topics.
 * <img src="https://www.google.com/s2/favicons?domain=otvet.mail.ru&sz=16" width="16" height="16"> [Ответы](https://otvet.mail.ru/) - Russian-language Q&A platform by Mail.ru where users ask and answer questions across a wide range of topics.
 
-## [↑](#table-of-contents) 🖥️ Domain and IP Research
+## [↑](#-table-of-contents) Domain and IP Research
 
 * <img src="https://www.google.com/s2/favicons?domain=db.aa419.org&sz=16" width="16" height="16"> [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
 * <img src="https://www.google.com/s2/favicons?domain=www.accuranker.com&sz=16" width="16" height="16"> [Accuranker](https://www.accuranker.com) - Enterprise rank tracking tool monitoring search engine keyword positions with daily updates and SERP feature analysis.
@@ -1071,7 +1071,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=wigle.net&sz=16" width="16" height="16"> [WiGLE](https://wigle.net/) - Wi-fi "wardriving" database. Contains a global map containing crowdsourced information on the location, name, and other properties of wi-fi networks. Software available to download to contribute data to the public infoset.
 * <img src="https://www.google.com/s2/favicons?domain=www.yougetsignal.com&sz=16" width="16" height="16"> [You Get Signal](http://www.yougetsignal.com) - Network diagnostic toolkit offering reverse IP lookup, port forwarding tests, and visual traceroute mapping.
 
-## [↑](#table-of-contents) 🔑 Keywords Discovery and Research
+## [↑](#-table-of-contents) Keywords Discovery and Research
 
 * <img src="https://www.google.com/s2/favicons?domain=adwords.google.com&sz=16" width="16" height="16"> [Google Adwords](http://adwords.google.com) - Get monthly keyword volume data and stats.
 * <img src="https://www.google.com/s2/favicons?domain=www.google.com&sz=16" width="16" height="16"> [Google Trends](https://www.google.com/trends) - See how many users are searching for specific keywords.
@@ -1084,7 +1084,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.wordtracker.com&sz=16" width="16" height="16"> [Word Tracker](https://www.wordtracker.com) - Reveals profitable keywords with search volumes, competition data, and PPC insights for market research.
 * <img src="https://www.google.com/s2/favicons?domain=wordstat.yandex.com&sz=16" width="16" height="16"> [Yandex Wordstat](https://wordstat.yandex.com) - Shows search query popularity and trends across Yandex, the dominant search engine in Russia and CIS countries.
 
-## [↑](#table-of-contents) ⏳ Web History and Website Capture
+## [↑](#-table-of-contents) ⏳ Web History and Website Capture
 
 * <img src="https://www.google.com/s2/favicons?domain=archive.is&sz=16" width="16" height="16"> [Archive.is](http://archive.is) - is a website that allows you to archive a snapshot of you websites that will always remains online evenif the original page disappears.
 * <img src="https://www.google.com/s2/favicons?domain=softbytelabs.com&sz=16" width="16" height="16"> [BlackWidow](http://softbytelabs.com/wp/blackwidow/) - Website crawler that maps site structure, extracts emails, finds downloadable files, and identifies broken links.
@@ -1095,11 +1095,11 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Wayback Machine Archiver](https://github.com/jsvine/waybackpack) - Command-line tool that downloads the entire Wayback Machine archive history for any given URL.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 
-## [↑](#table-of-contents) 🗣️ Language Tools
+## [↑](#-table-of-contents) Language Tools
 
 * see the [Awesome Translations list](https://github.com/mbiesiad/awesome-translations#tools)
 
-## [↑](#table-of-contents) 🖼️ Image Search
+## [↑](#-table-of-contents) Image Search
 
 * <img src="https://www.google.com/s2/favicons?domain=image.baidu.com&sz=16" width="16" height="16"> [Baidu Images](https://image.baidu.com) - Chinese search engine image search useful for finding visual content indexed primarily from Asian web sources.
 * [Betaface](https://www.betaface.com/demo.html) - Face detection and recognition API that analyzes age, gender, ethnicity, and facial features.
@@ -1127,7 +1127,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=images.search.yahoo.com&sz=16" width="16" height="16"> [Yahoo Image Search](https://images.search.yahoo.com) - Yahoo's image search engine for finding photos and graphics across the web with filtering options.
 * <img src="https://www.google.com/s2/favicons?domain=www.yandex.com&sz=16" width="16" height="16"> [Yandex Images](https://www.yandex.com/images) - Russian search engine's image search with powerful reverse image lookup and visual similarity matching.
 
-## [↑](#table-of-contents) 🔬 Image Analysis
+## [↑](#-table-of-contents) Image Analysis
 
 * <img src="https://www.google.com/s2/favicons?domain=www.diffchecker.com&sz=16" width="16" height="16"> [DiffChecker](https://www.diffchecker.com/image-diff/) - Online tool that compares two images side by side and highlights pixel-level differences between them.
 * <img src="https://www.google.com/s2/favicons?domain=exifeditor.io&sz=16" width="16" height="16"> [EXIFEditor.io](https://exifeditor.io) - In-browser EXIF image metadata editor, viewer, and analysis tool.
@@ -1144,7 +1144,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * <img src="https://www.google.com/s2/favicons?domain=profileimageintel.com&sz=16" width="16" height="16"> [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 
-## [↑](#table-of-contents) 🎥 Video Search and Other Video Tools
+## [↑](#-table-of-contents) Video Search and Other Video Tools
 
 * <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Videos](http://www.bing.com/?scope=video) - Bing's dedicated video search engine for finding and previewing videos across the web.
 * <img src="https://www.google.com/s2/favicons?domain=clarify.io&sz=16" width="16" height="16"> [Clarify](http://clarify.io) - API platform that makes audio and video content searchable by converting speech to indexed text.
@@ -1171,7 +1171,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [YouTube](https://www.youtube.com) - World's largest video sharing platform, essential for OSINT video discovery and social media investigations.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [yt-dlp](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
-## [↑](#table-of-contents) 📚 Academic Resources and Grey Literature
+## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
 * <img src="https://www.google.com/s2/favicons?domain=www.academia.edu&sz=16" width="16" height="16"> [Academia](https://www.academia.edu) - Social networking site for academics to share papers, enabling discovery of researchers and their publications.
 * [Academic Journals](http://www.academicjournals.org) - Open-access publisher hosting peer-reviewed journals across science, engineering, and social sciences.
@@ -1215,7 +1215,7 @@ algorithms, knowledgebase and AI technology.
 * [Zetoc](http://zetoc.jisc.ac.uk) - British Library database providing access to 35,000+ journal titles and conference proceedings.
 
 
-## [↑](#table-of-contents) 🌍 Geospatial Research and Mapping Tools
+## [↑](#-table-of-contents) Geospatial Research and Mapping Tools
 
 * <img src="https://www.google.com/s2/favicons?domain=apify.com&sz=16" width="16" height="16"> [Apify's Google Maps Scraper](https://apify.com/compass/crawler-google-places) - Apify actor that scrapes Google Maps business data including contacts, reviews, and geolocation details.
 * <img src="https://www.google.com/s2/favicons?domain=livingatlas.arcgis.com&sz=16" width="16" height="16"> [ArcGIS](https://livingatlas.arcgis.com/en/browse/) - Esri's curated collection of geographic data, maps, and imagery layers for spatial analysis and visualization.
@@ -1293,7 +1293,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.zeemaps.com&sz=16" width="16" height="16"> [Zeemaps](https://www.zeemaps.com) - Create, publish, and share interactive maps with custom markers, regions, and crowd-sourced location data.
 * <img src="https://www.google.com/s2/favicons?domain=zoom.earth&sz=16" width="16" height="16"> [Zoom Earth](https://zoom.earth/) - Near real-time satellite imagery viewer with daily updates showing weather, fires, and storms across the globe.
 
-## [↑](#table-of-contents) 📰 News
+## [↑](#-table-of-contents) News
 
 * <img src="https://www.google.com/s2/favicons?domain=www.1stheadlines.com&sz=16" width="16" height="16"> [1st Headlines](http://www.1stheadlines.com) - Aggregator displaying current front-page headlines from newspapers and news sources around the world.
 * <img src="https://www.google.com/s2/favicons?domain=www.abyznewslinks.com&sz=16" width="16" height="16"> [ABYZNewsLinks](http://www.abyznewslinks.com) - Comprehensive directory of links to newspapers, magazines, and news sources organized by country and region.
@@ -1335,7 +1335,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.world-newspapers.com&sz=16" width="16" height="16"> [World-Newspapers](http://www.world-newspapers.com) - Comprehensive directory of world newspapers and news media organized by country for global media research.
 * <img src="https://www.google.com/s2/favicons?domain=news.yahoo.com&sz=16" width="16" height="16"> [Yahoo News](http://news.yahoo.com) - Yahoo's news aggregation service pulling stories from major outlets with personalized topic feeds.
 
-## [↑](#table-of-contents) 📡 News Digest and Discovery Tools
+## [↑](#-table-of-contents) News Digest and Discovery Tools
 
 * [Flipboard](https://flipboard.com) - News aggregation app curating stories from publishers and social media into magazine-style feeds.
 * <img src="https://www.google.com/s2/favicons?domain=www.inshorts.com&sz=16" width="16" height="16"> [Inshorts](https://www.inshorts.com) - Indian news app delivering 60-word summaries of top stories for quick consumption of current events.
@@ -1347,7 +1347,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.superdesk.org&sz=16" width="16" height="16"> [Superdesk](https://www.superdesk.org) - Open-source newsroom management system for end-to-end news creation, production, and multi-channel publishing.
 * <img src="https://www.google.com/s2/favicons?domain=trooclick.com&sz=16" width="16" height="16"> [Trooclick](http://trooclick.com) - Browser extension that automated fact-checking of news articles by cross-referencing claims against public data.
 
-## [↑](#table-of-contents) ✅ Fact Checking
+## [↑](#-table-of-contents) Fact Checking
 
 
 * <img src="https://www.google.com/s2/favicons?domain=captainfact.io&sz=16" width="16" height="16"> [Captin Fact](https://captainfact.io/) - Open-source collaborative platform for real-time fact-checking of YouTube video claims with community sourcing.
@@ -1358,7 +1358,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.snopes.com&sz=16" width="16" height="16"> [Snopes](http://www.snopes.com) - The definitive Internet reference source for urban legends, folklore, myths, rumors, and misinformation.
 * <img src="https://www.google.com/s2/favicons?domain=verificationhandbook.com&sz=16" width="16" height="16"> [Verification Handbook](http://verificationhandbook.com) - Guide for journalists and responders on verifying user-generated content and digital sources during emergencies.
 
-## [↑](#table-of-contents) 📊 Data and Statistics
+## [↑](#-table-of-contents) Data and Statistics
 
 * [AGOA Data Center](http://agoa.info) - Trade data and analysis for the African Growth and Opportunity Act covering US-Africa commerce.
 * <img src="https://www.google.com/s2/favicons?domain=aiddata.org&sz=16" width="16" height="16"> [AidData](http://aiddata.org) - Research lab tracking international development finance flows with geocoded datasets on aid and investment worldwide.
@@ -1433,7 +1433,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.wto.org&sz=16" width="16" height="16"> [WTO Statistics](https://www.wto.org/english/res_e/statis_e/statis_e.htm) - World Trade Organization statistical portal covering global trade flows, tariffs, and trade policy indicators.
 * [Zanran](http://zanran.com) - Search engine specialized in finding numerical data, graphs, charts, and tables embedded in web pages and PDF reports.
 
-## [↑](#table-of-contents) 👀 Web Monitoring
+## [↑](#-table-of-contents) Web Monitoring
 
 * <img src="https://www.google.com/s2/favicons?domain=alltop.com&sz=16" width="16" height="16"> [Alltop](http://alltop.com) - Content aggregator that curates top stories and RSS feeds across hundreds of topics for trend monitoring.
 * <img src="https://www.google.com/s2/favicons?domain=www.awasu.com&sz=16" width="16" height="16"> [Awasu](http://www.awasu.com) - Advanced desktop RSS feed reader with plugin architecture supporting custom channels, filters, and automated monitoring.
@@ -1478,7 +1478,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.aignes.com&sz=16" width="16" height="16"> [WebSite Watcher](http://www.aignes.com/index.htm) - Desktop application that monitors web pages for updates, highlights changes, and supports scheduled automatic checking.
 * <img src="https://www.google.com/s2/favicons?domain=winds.getstream.io&sz=16" width="16" height="16"> [Winds](http://winds.getstream.io) - Open-source RSS and podcast reader built with React and Node.js featuring personalized content recommendations.
 
-## [↑](#table-of-contents) 🧭 Browsers
+## [↑](#-table-of-contents) Browsers
 
 * [Atom](https://browser.ru/) - Russian Chromium-based browser by Mail.ru with built-in VPN and privacy features.
 * <img src="https://www.google.com/s2/favicons?domain=brave.com&sz=16" width="16" height="16"> [Brave](https://brave.com) - is an open-source web browser that allows you to completely block ads and website trackers.
@@ -1505,7 +1505,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.waterfox.net&sz=16" width="16" height="16"> [Waterfox](https://www.waterfox.net/) - Fast and Private Web Browser. Get privacy out of the box with Waterfox.
 * <img src="https://www.google.com/s2/favicons?domain=browser.yandex.com&sz=16" width="16" height="16"> [Yandex Browser](https://browser.yandex.com/desktop/main) - Russian search engine's browser with built-in translation, security scanning, and Turbo mode for regional research.
 
-## [↑](#table-of-contents) 📥 Offline Browsing
+## [↑](#-table-of-contents) Offline Browsing
 
 * <img src="https://www.google.com/s2/favicons?domain=www.microsystools.com&sz=16" width="16" height="16"> [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
 * <img src="https://www.google.com/s2/favicons?domain=www.cyotek.com&sz=16" width="16" height="16"> [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
@@ -1518,13 +1518,13 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.proxy-offline-browser.com&sz=16" width="16" height="16"> [WebAssistant](http://www.proxy-offline-browser.com/download.html) - Proxy-based offline browser that downloads and archives websites for later analysis without an internet connection.
 * <img src="https://www.google.com/s2/favicons?domain=www.tensons.com&sz=16" width="16" height="16"> [Website Ripper Copier](http://www.tensons.com/products/websiterippercopier) - Website downloading tool that creates local copies of entire sites for offline browsing and content preservation.
 
-## [↑](#table-of-contents) 🛡️ VPN Services
+## [↑](#-table-of-contents) VPN Services
 
 * [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
 * <img src="https://www.google.com/s2/favicons?domain=torrentfreak.com&sz=16" width="16" height="16"> [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/) - Annual review comparing VPN services on logging policies, jurisdiction, and anonymity for secure OSINT operations.
 * <img src="https://www.google.com/s2/favicons?domain=thatoneprivacysite.net&sz=16" width="16" height="16"> [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
-## [↑](#table-of-contents) 📈 Infographics and Data Visualization
+## [↑](#-table-of-contents) Infographics and Data Visualization
 
 * <img src="https://www.google.com/s2/favicons?domain=www.aeontimeline.com&sz=16" width="16" height="16"> [Aeon](http://www.aeontimeline.com) - Timeline creation software for building chronological visualizations of events, useful for investigative case mapping.
 * [Arbor.js](http://arborjs.org) - JavaScript graph visualization library using web workers and jQuery for force-directed layouts.
@@ -1599,7 +1599,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.dotmatics.com&sz=16" width="16" height="16"> [Vortex](http://www.dotmatics.com/products/vortex) - High-performance scientific data visualization and analysis platform for exploring large multidimensional datasets.
 * <img src="https://www.google.com/s2/favicons?domain=www.zingchart.com&sz=16" width="16" height="16"> [ZingChart](http://www.zingchart.com) - JavaScript charting library for rendering fast, interactive charts and dashboards with extensive customization options.
 
-## [↑](#table-of-contents) 🕸️ Social Network Analysis
+## [↑](#-table-of-contents) Social Network Analysis
 
 * <img src="https://www.google.com/s2/favicons?domain=gephi.org&sz=16" width="16" height="16"> [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
 * <img src="https://www.google.com/s2/favicons?domain=www.casos.cs.cmu.edu&sz=16" width="16" height="16"> [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php) - Carnegie Mellon network analysis tool for detecting key actors, groups, and vulnerabilities in organizational networks.
@@ -1607,7 +1607,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=vis.occrp.org&sz=16" width="16" height="16"> [Visual Investigative Scenarios](https://vis.occrp.org) - OCCRP's platform for mapping relationships and building visual diagrams of networks in investigative journalism.
 * <img src="https://www.google.com/s2/favicons?domain=wynyardgroup.com&sz=16" width="16" height="16"> [Wynyard Group](https://wynyardgroup.com) - Intelligence and investigation software suite providing advanced analytics for law enforcement and security organizations.
 
-## [↑](#table-of-contents) 🔐 Privacy and Encryption Tools
+## [↑](#-table-of-contents) Privacy and Encryption Tools
 
 * <img src="https://www.google.com/s2/favicons?domain=www.abine.com&sz=16" width="16" height="16"> [Abine](https://www.abine.com) - Privacy company offering identity protection tools including data removal and masked personal information services.
 * <img src="https://www.google.com/s2/favicons?domain=adium.im&sz=16" width="16" height="16"> [Adium](https://adium.im) - Free open-source multi-protocol instant messaging client for macOS with OTR encrypted chat support.
@@ -1668,17 +1668,17 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.mywot.com&sz=16" width="16" height="16"> [WOT](https://www.mywot.com) - Website reputation and safety rating service that crowdsources trust scores for online resources.
 * [ZMail](http://zmail.sourceforge.net) - Tool for sending emails with custom sender addresses, useful for testing email security and SPF/DKIM.
 
-## [↑](#table-of-contents) 🔤 DNS
+## [↑](#-table-of-contents) DNS
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Amass](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Columbus Project](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 * <img src="https://www.google.com/s2/favicons?domain=www.merklemap.com&sz=16" width="16" height="16"> [Merklemap](https://www.merklemap.com/) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.
 
-## [↑](#table-of-contents) ⚓ Maritime
+## [↑](#-table-of-contents) Maritime
 
 * <img src="https://www.google.com/s2/favicons?domain=www.vesselfinder.com&sz=16" width="16" height="16"> [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
 
-## [↑](#table-of-contents) ✈️ Aviation / Flight Tracking
+## [↑](#-table-of-contents) Aviation / Flight Tracking
 
 *Tools for tracking aircraft, flights, and aviation data.*
 
@@ -1691,7 +1691,7 @@ algorithms, knowledgebase and AI technology.
 * [Beholder](https://beholder.me) - Real-time global OSINT threat map aggregating aircraft, vessel, and satellite tracking with natural disaster, conflict, and environmental data on an interactive 3D globe.
 
 
-## [↑](#table-of-contents) 🪙 Cryptocurrency / Blockchain
+## [↑](#-table-of-contents) Cryptocurrency / Blockchain
 
 *Tools for investigating cryptocurrency transactions, wallets, and blockchain activity.*
 
@@ -1703,7 +1703,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.walletexplorer.com&sz=16" width="16" height="16"> [Wallet Explorer](https://www.walletexplorer.com/) - Bitcoin wallet clustering and tracking tool that groups addresses by owner.
 
 
-## [↑](#table-of-contents) 🧰 Other Tools
+## [↑](#-table-of-contents) Other Tools
 
 * <img src="https://www.google.com/s2/favicons?domain=aadinternals.com&sz=16" width="16" height="16"> [aadinternals](https://aadinternals.com/osint) - Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [ArkhamMirror](https://github.com/mantisfury/ArkhamMirror) - Local-first AI document intelligence with offline RAG, contradiction detection, knowledge graphs, and vision AI table extraction.
@@ -1757,7 +1757,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Zen](https://github.com/s0md3v/Zen) - Find email addresses of Github users urls and other data effortlessly
 
 
-## [↑](#table-of-contents) 🕵️ Threat Intelligence
+## [↑](#-table-of-contents) Threat Intelligence
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 350k+ threat actor usernames scraped from various cybercrime sources & forums.
 * <img src="https://www.google.com/s2/favicons?domain=www.gitguardian.com&sz=16" width="16" height="16"> [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
@@ -1767,20 +1767,20 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 
-## [↑](#table-of-contents) 🎮 Gaming Platforms
+## [↑](#-table-of-contents) Gaming Platforms
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [lol_monitor](https://github.com/misiektoja/lol_monitor) - Tool for real-time tracking of LoL (League of Legends) players gaming activities including detection when a user starts or finishes a match with support for email alerts, CSV logging, playtime stats and more
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [psn_monitor](https://github.com/misiektoja/psn_monitor) - Tool for real-time tracking of Sony Playstation (PSN) players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [steam_monitor](https://github.com/misiektoja/steam_monitor) - Tool for real-time tracking of Steam players' gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [xbox_monitor](https://github.com/misiektoja/xbox_monitor) - Tool for real-time tracking of Xbox Live players gaming activities including detection when a user gets online/offline or plays games with support for email alerts, CSV logging, playtime stats and more
 
-## [↑](#table-of-contents) 🎵 Music Streaming Services
+## [↑](#-table-of-contents) Music Streaming Services
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [lastfm_monitor](https://github.com/misiektoja/lastfm_monitor) - Tool for real-time tracking of Last.fm users' listening activity including detection when user gets online & offline, pauses or resumes playback, all played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [spotify_profile_monitor](https://github.com/misiektoja/spotify_profile_monitor) - Tool for real-time tracking of Spotify users' activities and profile changes, including playlists, with support for email alerts, CSV logging, showing media in the terminal, detection of profile picture changes and more
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [spotify_monitor](https://github.com/misiektoja/spotify_monitor) - Tool for real-time tracking of Spotify friends' listening activity including detection when user gets online & offline, played songs, its duration, skipped songs, with optional auto-play, email alerts, CSV logging, session stats and more
 
-## [↑](#table-of-contents) 🎬 OSINT Videos
+## [↑](#-table-of-contents) OSINT Videos
 
 * <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Amazing mind reader reveals his ‘gift’](https://www.youtube.com/watch?v=F7pYHN9iC9I) - Viral awareness video demonstrating how easily personal data can be gathered from social media.
 * <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [Bendobrown](https://www.youtube.com/c/Bendobrown) - YouTube channel featuring OSINT tutorials, investigative techniques, and open-source intelligence demonstrations.
@@ -1788,7 +1788,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [SANS OSINT Summit 2021 (Playlist)](https://www.youtube.com/playlist?list=PLs4eo9Tja8bj3jJvv42LxOkhc2_ylpS9y) - Collection of recorded talks from the 2021 SANS OSINT Summit covering investigative tools and techniques.
 * <img src="https://www.google.com/s2/favicons?domain=www.youtube.com&sz=16" width="16" height="16"> [See how easily freaks can take over your life](https://www.youtube.com/watch?v=Rn4Rupla11M) - Awareness video showing how strangers can use publicly available information to take over your identity.
 
-## [↑](#table-of-contents) ✍️ OSINT Blogs
+## [↑](#-table-of-contents) OSINT Blogs
 
 * <img src="https://www.google.com/s2/favicons?domain=www.bellingcat.com&sz=16" width="16" height="16"> [Bellingcat](https://www.bellingcat.com/) - Independent investigative journalism outlet specializing in open-source intelligence and fact-checking worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=www.einvestigator.com&sz=16" width="16" height="16"> [eInvestigator](https://www.einvestigator.com/) - Blog covering digital investigations, cyberstalking awareness, and online intelligence gathering techniques.
@@ -1803,7 +1803,7 @@ algorithms, knowledgebase and AI technology.
 * [Sleuth For The Truth](http://sleuthforthetruth.com/) - OSINT blog and resource collection for investigators covering techniques and case studies.
 * <img src="https://www.google.com/s2/favicons?domain=blog.sociallinks.io&sz=16" width="16" height="16"> [Social Links](https://blog.sociallinks.io/) - Blog from Social Links covering OSINT tools, techniques, and digital investigation case studies.
 
-## [↑](#table-of-contents) 📦 Other Resources
+## [↑](#-table-of-contents) Other Resources
 
 * <img src="https://www.google.com/s2/favicons?domain=www.aware-online.com&sz=16" width="16" height="16"> [Aware-online.com](https://www.aware-online.com/en/osint-tools) - Curated collection of OSINT tools and methodologies for investigations.
 * <img src="https://www.google.com/s2/favicons?domain=bit.ly&sz=16" width="16" height="16"> [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools) - Comprehensive spreadsheet toolkit curated by Bellingcat listing hundreds of online investigation tools.
@@ -1814,7 +1814,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.bellingcat.com&sz=16" width="16" height="16"> [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
 * <img src="https://www.google.com/s2/favicons?domain=osintupdates.com&sz=16" width="16" height="16"> [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/) - Free weekly email newsletter curating the latest OSINT tools, techniques, and community news.
 
-## [↑](#table-of-contents) ⭐ Related Awesome Lists
+## [↑](#-table-of-contents) Related Awesome Lists
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [awesome-anti-forensic](https://github.com/remiflavien1/awesome-anti-forensic) by @remiflavien1
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [awesome-ctf](https://github.com/apsdehal/awesome-ctf) by @apsdehal
