@@ -235,7 +235,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Search Abuseipdb](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 * <img src="https://www.google.com/s2/favicons?domain=dashboard.shadowserver.org&sz=16" width="16" height="16"> [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * <img src="https://www.google.com/s2/favicons?domain=www.shodan.io&sz=16" width="16" height="16"> [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
-* <img src="https://www.google.com/s2/favicons?domain=www.sikkerapi.com&sz=16" width="16" height="16"> [SikkerAPI](https://www.sikkerapi.com/) - SikkerAPI is a free IP and threat intelligence provider, that publishes IP reputation scores, behavioral data and full attack sessions across 16+ different protocols.
+* <img src="https://www.google.com/s2/favicons?domain=www.sikkerapi.com&sz=16" width="16" height="16"> [SikkerAPI](https://www.sikkerapi.com/) - Free IP and threat intelligence provider publishing reputation scores, behavioral telemetry, and full attack sessions across 16+ protocols.
 * [WIPO](https://www3.wipo.int/branddb/en/) - World Intellectual Property Organization global trademark database with 50M+ records.
 * <img src="https://www.google.com/s2/favicons?domain=worldwidescience.org&sz=16" width="16" height="16"> [WorldWideScience.org](http://worldwidescience.org) - Global science gateway providing federated search across scientific databases from over 70 countries simultaneously.
 * <img src="https://www.google.com/s2/favicons?domain=wpscan.com&sz=16" width="16" height="16"> [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
@@ -486,7 +486,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.twitteraudit.com&sz=16" width="16" height="16"> [Twitter Audit](https://www.twitteraudit.com) - Auditing tool that analyzes Twitter followers to estimate what percentage are real accounts versus bots or inactive users.
 * <img src="https://www.google.com/s2/favicons?domain=tweetreports.com&sz=16" width="16" height="16"> [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule) - Directory of scheduled Twitter chats organized by topic, day, and time to discover industry-relevant conversations.
 * [Twitter Search](http://search.twitter.com) - Native Twitter/X search for tweets, users, hashtags, and trending topics.
-* <img src="https://www.google.com/s2/favicons?domain=xquik.com&sz=16" width="16" height="16"> [Xquik](https://xquik.com) - Real-time X (Twitter) data platform for tweet search, user lookup, follower/following extraction, engagement metrics, account monitoring, reply/retweet/quote extraction, community & Space data, and mutual follow checks.
+* <img src="https://www.google.com/s2/favicons?domain=xquik.com&sz=16" width="16" height="16"> [Xquik](https://xquik.com) - Real-time X (Twitter) intelligence platform for search, user/account lookup, engagement analytics, and follower/following relationship analysis.
 
 ### <img src="https://www.google.com/s2/favicons?domain=facebook.com&sz=16" width="16" height="16"> Facebook
 
@@ -688,7 +688,7 @@ algorithms, knowledgebase and AI technology.
 ## Username Check
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Blackbird](https://github.com/p1ngul1n0/blackbird) - Search a username across over 600+ websites.
-* [Antisocial](https://github.com/lukeslp/antisocial) - Find forgotten accounts across 30+ platforms using three-tier verification: official APIs first, then browser automation, then HTTP content analysis. Reduces false positives to around 5%. Deep search mode adds 500+ platforms via the WhatsMyName database.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Antisocial](https://github.com/lukeslp/antisocial) - Finds forgotten accounts across 30+ platforms with layered verification to reduce false positives; deep mode expands coverage using the WhatsMyName dataset.
 * [CheckUser](https://checkuser.vercel.app/) - search username across social networks
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Cupidcr4wl](https://github.com/OSINTI4L/cupidcr4wl) - Username and phone number search tool that crawls adult content platforms to see if a targeted account or person is present.
 * <img src="https://www.google.com/s2/favicons?domain=www.digitalfootprintcheck.com&sz=16" width="16" height="16"> [Digital Footprint Check](https://www.digitalfootprintcheck.com/free-checker.html)  - Check for registered username on 100s of sites for free.
