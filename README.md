@@ -168,6 +168,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.myallsearch.com&sz=16" width="16" height="16"> [Myallsearch](http://www.myallsearch.com) - Meta search aggregator that combines results from several search engines into a single results page.
 * <img src="https://www.google.com/s2/favicons?domain=www.qwant.com&sz=16" width="16" height="16"> [Qwant](http://www.qwant.com) - French search engine that relies on Microsoft Bing.
 * <img src="https://www.google.com/s2/favicons?domain=swisscows.com&sz=16" width="16" height="16"> [Swisscows](https://swisscows.com/) - Privacy-focused Swiss meta search engine with built-in family-safe filtering and no user tracking.
+* <img src="https://www.google.com/s2/favicons?domain=searxng.org&sz=16" width="16" height="16"> [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine that aggregates results from dozens of search services without tracking users.
 
 ## Privacy Focused Search Engines
 
@@ -182,6 +183,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.qwant.com&sz=16" width="16" height="16"> [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
 * <img src="https://www.google.com/s2/favicons?domain=www.startpage.com&sz=16" width="16" height="16"> [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 * <img src="https://www.google.com/s2/favicons?domain=swisscows.com&sz=16" width="16" height="16"> [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
+* <img src="https://www.google.com/s2/favicons?domain=searxng.org&sz=16" width="16" height="16"> [SearXNG](https://searxng.org/) - A privacy-respecting, open-source metasearch engine that aggregates results from dozens of search services without tracking users.
 
 ## Data Breach Search Engines
 
@@ -314,6 +316,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=cds.thalesgroup.com&sz=16" width="16" height="16"> [Thale's Cyberthreat Map](https://cds.thalesgroup.com/en/cyberthreat/hitmap) - Discover cybersecurity trends with Thales' Cyberthreat map. Explore targeted areas, frequent attacks, affected sectors, and prevalent malware.
 * <img src="https://www.google.com/s2/favicons?domain=threatseye.io&sz=16" width="16" height="16"> [ThreatsEye | Live Cyber Threat Map](https://threatseye.io/threats-map) - Real-time visualization of global cyber attacks and threats. Monitor live cyber security incidents, attack origins, targets, and threat categories worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=threatlabz.zscaler.com&sz=16" width="16" height="16"> [Zscaler Global Threat Map Dashboard](https://threatlabz.zscaler.com/cloud-insights/threat-map-dashboard) - Illustrates those we've seen in the past 24 hours, consisting of threats detected by our antivirus engines, malware and advanced persistent threats.
+* <img src="https://www.google.com/s2/favicons?domain=tech.worldmonitor.app&sz=16" width="16" height="16"> [World Monitor Tech](https://tech.worldmonitor.app) - Live cyber threat intelligence dashboard combining CISA advisories, active malware campaigns, CVE feeds, and global cyber event heatmaps alongside geopolitical and military context.
 
 
 ## File Search
@@ -959,7 +962,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=lookup.icann.org&sz=16" width="16" height="16"> [Icann Lookup](https://lookup.icann.org/en/lookup) - The site allows you to look up domain registration information (WHOIS) on the internet
 * <img src="https://www.google.com/s2/favicons?domain=www.infosniper.net&sz=16" width="16" height="16"> [Infosniper](http://www.infosniper.net) - Maps IP addresses to geographic locations with city, ISP, timezone, and coordinate data on an interactive map.
 * <img src="https://www.google.com/s2/favicons?domain=ismalicious.com&sz=16" width="16" height="16"> [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
-* <img src="https://www.google.com/s2/favicons?domain=www.intodns.com&sz=16" width="16" height="16"> [intoDNS](http://www.intodns.com) - Checks DNS server health and configuration, reporting delegation issues and mail server setup problems.
+* <img src="https://www.google.com/s2/favicons?domain=intodns.ai&sz=16" width="16" height="16"> [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 * <img src="https://www.google.com/s2/favicons?domain=ip2geolocation.com&sz=16" width="16" height="16"> [IP 2 Geolocation](http://ip2geolocation.com) - Converts IP addresses to approximate geographic locations including country, city, and coordinates.
 * <img src="https://www.google.com/s2/favicons?domain=www.ip2location.com&sz=16" width="16" height="16"> [IP 2 Location](http://www.ip2location.com/demo.aspx) - Geolocates IP addresses with city-level accuracy and provides ISP, domain, and proxy detection data.
 * <img src="https://www.google.com/s2/favicons?domain=db-ip.com&sz=16" width="16" height="16"> [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
@@ -1047,6 +1050,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Wayback Machine Archiver](https://github.com/jsvine/waybackpack) - Command-line tool that downloads the entire Wayback Machine archive history for any given URL.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
 
 ## Language Tools
 
@@ -1241,6 +1245,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=wikimapia.org&sz=16" width="16" height="16"> [Wikimapia](http://wikimapia.org) - Collaboratively edited map combining satellite imagery with user-contributed descriptions of locations worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=www.windy.com&sz=16" width="16" height="16"> [Windy](https://www.windy.com/) - Interactive weather visualization platform showing real-time wind, rain, temperature, and atmospheric data globally.
 * <img src="https://www.google.com/s2/favicons?domain=worldmap.harvard.edu&sz=16" width="16" height="16"> [WorldMap Harvard](http://worldmap.harvard.edu) - Harvard University platform for creating, visualizing, and sharing multi-layer geospatial datasets for research.
+* <img src="https://www.google.com/s2/favicons?domain=www.worldmonitor.app&sz=16" width="16" height="16"> [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform with live conflict tracking, military flight and vessel monitoring, GPS jamming data, satellite imagery, and geopolitical risk scores across 5 specialized dashboards.
 * [Worldwide OSINT Tools Map](https://cipher387.github.io/osintmap/) - A global map of databases and OSINT sources by applicable location.
 * <img src="https://www.google.com/s2/favicons?domain=maps.yahoo.com&sz=16" width="16" height="16"> [Yahoo Maps](https://maps.yahoo.com) - Yahoo's mapping service providing street maps, satellite imagery, and driving directions worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=www.zeemaps.com&sz=16" width="16" height="16"> [Zeemaps](https://www.zeemaps.com) - Create, publish, and share interactive maps with custom markers, regions, and crowd-sourced location data.
@@ -1629,6 +1634,7 @@ algorithms, knowledgebase and AI technology.
 
 ## Maritime
 
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Hormuz Tracker](https://github.com/johnsmalls22-rgb/hormuz-tracker) - Real-time Strait of Hormuz vessel tracking with AIS data, dark ship detection, oil prices, and carrier positions.
 * <img src="https://www.google.com/s2/favicons?domain=www.vesselfinder.com&sz=16" width="16" height="16"> [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
 
@@ -1684,6 +1690,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.maltego.com&sz=16" width="16" height="16"> [Maltego](https://www.maltego.com/) - Maltego is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 * <img src="https://www.google.com/s2/favicons?domain=developer.mozilla.org&sz=16" width="16" height="16"> [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 * <img src="https://www.google.com/s2/favicons?domain=obsidian.md&sz=16" width="16" height="16"> [Obsidian](https://obsidian.md) - Knowledge base and note-taking tool ideal for OSINT case management.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [OpenGraph Intel (OGI)](https://github.com/khashashin/ogi) - Open Source Link Analysis & OSINT Framework. AI Powered Investigation Tool.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Orbit](https://github.com/s0md3v/Orbit) - Draws relationships between crypto wallets with recursive crawling of transaction history.
 * [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
@@ -1721,6 +1728,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 * <img src="https://www.google.com/s2/favicons?domain=conflicts.app&sz=16" width="16" height="16"> [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
+* [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
 
 ## Gaming Platforms
 
