@@ -127,6 +127,7 @@ algorithms, knowledgebase and AI technology.
 
 *Google Dorks Tools*
 
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [DorkEye](https://github.com/xPloits3c/DorkEye) - Python-based OSINT framework for automated Google Dorking with interactive wizard, dork generator, multi-agent analysis pipeline (SQLi detection, secrets scanning, security analysis), and advanced HTML report export.
 * <img src="https://www.google.com/s2/favicons?domain=dorkgenius.com&sz=16" width="16" height="16"> [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
 * <img src="https://www.google.com/s2/favicons?domain=www.dorkgpt.com&sz=16" width="16" height="16"> [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
 * <img src="https://www.google.com/s2/favicons?domain=www.exploit-db.com&sz=16" width="16" height="16"> [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
@@ -888,6 +889,8 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.spyfu.com&sz=16" width="16" height="16"> [SpyFu](http://www.spyfu.com) - Competitive intelligence tool revealing competitors' paid and organic search keywords, ad history, and ranking data.
 * <img src="https://www.google.com/s2/favicons?domain=thewebco.ai&sz=16" width="16" height="16"> [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * <img src="https://www.google.com/s2/favicons?domain=unicourt.com&sz=16" width="16" height="16"> [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [uk-company-number](https://github.com/borschai/uk-company-number) - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. Available on npm and PyPI.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [uk-sic-codes](https://github.com/borschai/uk-sic-codes) - UK SIC 2007 industry classification code lookup, search, and validation. Available on npm and PyPI.
 * <img src="https://www.google.com/s2/favicons?domain=www.vault.com&sz=16" width="16" height="16"> [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com) - European professional networking platform popular in German-speaking countries for career connections and company research.
 * <img src="https://www.google.com/s2/favicons?domain=youcontrol.com.ua&sz=16" width="16" height="16"> [YouControl](https://youcontrol.com.ua/en/) - Ukrainian business intelligence platform providing company registration data, ownership structures, and financial records.
