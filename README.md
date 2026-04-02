@@ -86,6 +86,7 @@ Happy hacking and hunting 🧙‍♂️
  - 🎵 [Music Streaming Services](#music-streaming-services)
  - 🎬 [OSINT Videos](#osint-videos)
  - ✍️ [OSINT Blogs](#osint-blogs)
+ - 📡 [OSINT RSS Feeds](#osint-rss-feeds)
  - 📦 [Other Resources](#other-resources)
  - ⭐ [Related Awesome Lists](#related-awesome-lists)
 
@@ -1638,6 +1639,7 @@ algorithms, knowledgebase and AI technology.
 ## Maritime
 
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Hormuz Tracker](https://github.com/johnsmalls22-rgb/hormuz-tracker) - Real-time Strait of Hormuz vessel tracking with AIS data, dark ship detection, oil prices, and carrier positions.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 * <img src="https://www.google.com/s2/favicons?domain=www.vesselfinder.com&sz=16" width="16" height="16"> [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
 
@@ -1768,6 +1770,16 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.skopenow.com&sz=16" width="16" height="16"> [Skopenow](https://www.skopenow.com/news) - News and insights blog from Skopenow covering social media investigations and people-search intelligence.
 * [Sleuth For The Truth](http://sleuthforthetruth.com/) - OSINT blog and resource collection for investigators covering techniques and case studies.
 * <img src="https://www.google.com/s2/favicons?domain=blog.sociallinks.io&sz=16" width="16" height="16"> [Social Links](https://blog.sociallinks.io/) - Blog from Social Links covering OSINT tools, techniques, and digital investigation case studies.
+
+## 📡 OSINT RSS Feeds
+
+* <img src="https://www.google.com/s2/favicons?domain=euvsdisinfo.eu&sz=16" width="16" height="16"> [EUvsDisinfo](https://euvsdisinfo.eu/category/blog/feed/) - Research, analysis, and case studies focused on disinformation narratives and influence operations.
+* <img src="https://www.google.com/s2/favicons?domain=inforrm.org&sz=16" width="16" height="16"> [Fake News – Inforrm's Blog](https://inforrm.org/tag/fake-news/feed/) - Media law and misinformation analysis relevant to disinformation investigations.
+* <img src="https://www.google.com/s2/favicons?domain=krebsonsecurity.com&sz=16" width="16" height="16"> [Krebs on Security](https://krebsonsecurity.com/feed/) - Investigative reporting on cybercrime, breaches, and threat actors.
+* <img src="https://www.google.com/s2/favicons?domain=www.osintcombine.com&sz=16" width="16" height="16"> [OSINT Combine Blog](https://www.osintcombine.com/blog-feed.xml) - Current OSINT tradecraft, investigations, and monitoring workflows.
+* <img src="https://www.google.com/s2/favicons?domain=isc.sans.edu&sz=16" width="16" height="16"> [SANS Internet Storm Center Diary](https://isc.sans.edu/rssfeed_full.xml) - High-signal incident reports, malware observations, and operational security analysis.
+* <img src="https://www.google.com/s2/favicons?domain=citizenlab.ca&sz=16" width="16" height="16"> [The Citizen Lab](https://citizenlab.ca/feed/) - Research on surveillance, spyware, censorship, and digital threats relevant to advanced OSINT work.
+* <img src="https://www.google.com/s2/favicons?domain=www.tracelabs.org&sz=16" width="16" height="16"> [Trace Labs Blog](https://www.tracelabs.org/blog/rss.xml) - Missing-person OSINT methodology, case support, and investigative workflows.
 
 ## Other Resources
 
