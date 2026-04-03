@@ -1783,6 +1783,7 @@ algorithms, knowledgebase and AI technology.
 
 ## Other Resources
 
+* <img src="https://www.google.com/s2/favicons?domain=appsec.fyi&sz=16" width="16" height="16"> [appsec.fyi OSINT Resources](https://appsec.fyi/osint.html) - Curated collection of OSINT resources for cybersecurity, including tools, techniques, and writeups.
 * <img src="https://www.google.com/s2/favicons?domain=www.aware-online.com&sz=16" width="16" height="16"> [Aware-online.com](https://www.aware-online.com/en/osint-tools) - Curated collection of OSINT tools and methodologies for investigations.
 * <img src="https://www.google.com/s2/favicons?domain=bit.ly&sz=16" width="16" height="16"> [Bellingcat's Online Investigation Toolkit](http://bit.ly/bcattools) - Comprehensive spreadsheet toolkit curated by Bellingcat listing hundreds of online investigation tools.
 * <img src="https://www.google.com/s2/favicons?domain=docs.google.com&sz=16" width="16" height="16"> [Bellingcat Online Researcher Survey: Tool Wishes](https://docs.google.com/spreadsheets/d/1vNJRMrlwI7i06diBJtRJWrvt4YuPOqlbUV5o00P_YmE/edit#gid=1378107220) — Wishlist of OSINT tools from a February Bellingcat survey.
