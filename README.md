@@ -196,6 +196,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=heroic.com&sz=16" width="16" height="16"> [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
 * <img src="https://www.google.com/s2/favicons?domain=iknowyour.dad&sz=16" width="16" height="16"> [IKnowYour.Dad](https://iknowyour.dad/) - Data Breach Search Engine.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Leaker](https://github.com/vflame6/leaker) - Passive leak enumeration CLI tool that searches across 10 breach databases simultaneously.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [NOX](https://github.com/nox-project/nox-framework) - Recursive async framework for deep breach analysis and identity pivoting.
 * <img src="https://www.google.com/s2/favicons?domain=stealseek.io&sz=16" width="16" height="16"> [StealSeek](https://stealseek.io/) - Powerful search engine designed to help you find and analyze data breaches.
 * <img src="https://www.google.com/s2/favicons?domain=venacus.com&sz=16" width="16" height="16"> [Venacus](https://venacus.com/) - Search for your data breaches and get notified when your data is compromised.
 
@@ -1710,6 +1711,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [pygreynoise](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 * <img src="https://www.google.com/s2/favicons?domain=quickcode.io&sz=16" width="16" height="16"> [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [ReconFTW](https://github.com/six2dez/reconftw) - Automated reconnaissance framework for bug bounty and pentesting with multiple integrated tools.
 * <img src="https://www.google.com/s2/favicons?domain=www.routerpasswords.com&sz=16" width="16" height="16"> [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 * <img src="https://www.google.com/s2/favicons?domain=serpapi.com&sz=16" width="16" height="16"> [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [SerpScan](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.
