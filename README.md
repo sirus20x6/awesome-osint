@@ -284,10 +284,8 @@ algorithms, knowledgebase and AI technology.
 *Search for Threat actors and their associated information.*
 
 * <img src="https://www.google.com/s2/favicons?domain=docs.google.com&sz=16" width="16" height="16"> [APT Groups and Operations](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml?pli=1#) - Know about Threat Actors, sponsored countries, their tools, methods, etc.
-* [APTWiki](https://apt.threatradar.net/) - Historical wiki with 214 actor entries.
 * <img src="https://www.google.com/s2/favicons?domain=gti.bi.zone&sz=16" width="16" height="16"> [Bi.Zone](https://gti.bi.zone/) - 148 threat groups with detailed TTPs.
 * <img src="https://www.google.com/s2/favicons?domain=breach-hq.com&sz=16" width="16" height="16"> [BreachHQ](https://breach-hq.com/threat-actors) - Provides a list of all known cyber threat actors also referred to as malicious actors, APT groups or hackers.
-* [Cybergeist](https://cybergeist.io/threat-actor) - Cybergeist.io generates intelligence profiles about key threats and threat context that is actively being discussed and reported upon across the internet.
 * <img src="https://www.google.com/s2/favicons?domain=darkwebinformer.com&sz=16" width="16" height="16"> [Dark Web Informer](https://darkwebinformer.com/threat-actor-database/) - Tracking 854 Threat Actors as of 29th of May 2025.
 * <img src="https://www.google.com/s2/favicons?domain=apt.etda.or.th&sz=16" width="16" height="16"> [ETDA](https://apt.etda.or.th/cgi-bin/listgroups.cgi) - Search for Threat Actor groups and their tools.
 * [FortiGuard Labs](https://www.fortiguard.com/threat-actor) - Powered by FortiGuard Labs, our Threat Actor Encyclopedia provides actionable insights, helping security teams prepare and streamline advanced threat hunting and response.
@@ -298,6 +296,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=openhunting.io&sz=16" width="16" height="16"> [OPENHUNTING.IO](https://openhunting.io/threat-library) - Threat Library Collecting Information.
 * <img src="https://www.google.com/s2/favicons?domain=socradar.io&sz=16" width="16" height="16"> [SOCRadar LABS](https://socradar.io/labs/threat-actor/) - Know threat actor tactics, techniques, and past activities. Access detailed profiles and track their activities.Keep up with the latest threats and Tactics, Techniques, and Procedures (TTPs).
 * <img src="https://www.google.com/s2/favicons?domain=cds.thalesgroup.com&sz=16" width="16" height="16"> [Thales](https://cds.thalesgroup.com/en/cyberthreat/attacks-page) - Find Threat actor groups in a graphical attack explorer.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 650k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## Live Cyber Threat Maps
 
@@ -328,8 +327,6 @@ algorithms, knowledgebase and AI technology.
 
 * <img src="https://www.google.com/s2/favicons?domain=www.eyedex.org&sz=16" width="16" height="16"> [eyedex](https://www.eyedex.org/) - Open directory search engine.
 * <img src="https://www.google.com/s2/favicons?domain=www.dedigger.com&sz=16" width="16" height="16"> [de digger](https://www.dedigger.com/) - is a website that allows you to find any types of files that are publicly available in a Google Drive.
-* [FileListing](https://filelisting.com/) - Open directory search engine for discovering publicly accessible files and folders.
-* [FilePursuit](https://filepursuit.com/) - File search engine indexing millions of files from open directories, web servers, and cloud storage.
 * <img src="https://www.google.com/s2/favicons?domain=filesec.io&sz=16" width="16" height="16"> [Filesec.io](https://filesec.io/) - Central resource cataloging malicious file extensions, their risks, OS and mitigations.
 * [Find Security Contacts] https://findsecuritycontacts.com - Public index listing security contacts (emails, policies, etc.) extracted from domains security.txt files.
 * <img src="https://www.google.com/s2/favicons?domain=meawfy.com&sz=16" width="16" height="16"> [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
@@ -349,11 +346,9 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=commie.io&sz=16" width="16" height="16"> [commie](https://commie.io/) - commie is a pastebin script with line commenting support.
 * <img src="https://www.google.com/s2/favicons?domain=ctxt.io&sz=16" width="16" height="16"> [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
 * <img src="https://www.google.com/s2/favicons?domain=Controlc.com&sz=16" width="16" height="16"> [ControlC Pastebin](https://Controlc.com) - The easiest way to host your text.
-* <img src="https://www.google.com/s2/favicons?domain=cryptobin.co&sz=16" width="16" height="16"> [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 * <img src="https://www.google.com/s2/favicons?domain=cutapaste.net&sz=16" width="16" height="16"> [Cutapaste](https://cutapaste.net/) - Short Code and Share.
 * <img src="https://www.google.com/s2/favicons?domain=defuse.ca&sz=16" width="16" height="16"> [Defuse](https://defuse.ca/pastebin.htm) - Encrypted Pastebin - Keep your data private and secure!
 * <img src="https://www.google.com/s2/favicons?domain=doxbin.net&sz=16" width="16" height="16"> [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers.
-* [dpaste2](https://Dpaste.org) - Open-source pastebin with syntax highlighting and short-lived paste expiration.
 * <img src="https://www.google.com/s2/favicons?domain=Dpaste.com&sz=16" width="16" height="16"> [dpaste](https://Dpaste.com) - Simple open-source pastebin service for sharing code snippets and text with syntax highlighting support.
 * <img src="https://www.google.com/s2/favicons?domain=pastebin.fi&sz=16" width="16" height="16"> [Etusivu](https://pastebin.fi/) - It's an open source clone of pastebin.com. Default Language is Finnish.
 * <img src="https://www.google.com/s2/favicons?domain=friendpaste.com&sz=16" width="16" height="16"> [Friendpaste](https://friendpaste.com/) - Paste stuff to your friends.
@@ -375,10 +370,7 @@ algorithms, knowledgebase and AI technology.
 * [nekobin](https://nekobin.com/) - Paste code, save and share the link!
 * <img src="https://www.google.com/s2/favicons?domain=paste1.com&sz=16" width="16" height="16"> [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
 * <img src="https://www.google.com/s2/favicons?domain=n0paste.eu&sz=16" width="16" height="16"> [n0paste](https://n0paste.eu/) - Paste and share your code online.
-* [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
 * <img src="https://www.google.com/s2/favicons?domain=paaster.io&sz=16" width="16" height="16"> [paaster](https://paaster.io/) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
-* <img src="https://www.google.com/s2/favicons?domain=pastbin.net&sz=16" width="16" height="16"> [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
-* <img src="https://www.google.com/s2/favicons?domain=pastebin.pl&sz=16" width="16" height="16"> [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
 * [Pastebin.cz](https://www.pastebin.cz/en/) - Czech pastebin with syntax highlighting, useful for finding pastes in Central European languages.
 * [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 * <img src="https://www.google.com/s2/favicons?domain=paste.centos.org&sz=16" width="16" height="16"> [paste.centos](https://paste.centos.org) - CentOS community pastebin for sharing configuration files, logs, and code snippets for collaborative troubleshooting.
@@ -392,7 +384,6 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=pastesite.net&sz=16" width="16" height="16"> [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
 * <img src="https://www.google.com/s2/favicons?domain=paste.sh&sz=16" width="16" height="16"> [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
 * <img src="https://www.google.com/s2/favicons?domain=www.pasteshr.com&sz=16" width="16" height="16"> [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
-* <img src="https://www.google.com/s2/favicons?domain=tor.link&sz=16" width="16" height="16"> [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 * <img src="https://www.google.com/s2/favicons?domain=rentry.co&sz=16" width="16" height="16"> [Rentry](https://rentry.co/) - Rentry.co is a markdown paste service service with preview, custom urls and editing. Fast, simple and free.
 * <img src="https://www.google.com/s2/favicons?domain=safenote.co&sz=16" width="16" height="16"> [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
 * <img src="https://www.google.com/s2/favicons?domain=scrt.link&sz=16" width="16" height="16"> [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
@@ -894,8 +885,6 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=thewebco.ai&sz=16" width="16" height="16"> [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 * <img src="https://www.google.com/s2/favicons?domain=tracxn.com&sz=16" width="16" height="16"> [Tracxn](https://tracxn.com) - Search information about a company such as acquisitions, investors, people, research, etc.
 * <img src="https://www.google.com/s2/favicons?domain=unicourt.com&sz=16" width="16" height="16"> [UniCourt](https://unicourt.com/) - Limited free searches, premium data upsell. Nationwide search of 100 million+ United States court cases.
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [uk-company-number](https://github.com/borschai/uk-company-number) - Validate, format, and identify UK Companies House company numbers. Supports all 27 prefixes. Available on npm and PyPI.
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [uk-sic-codes](https://github.com/borschai/uk-sic-codes) - UK SIC 2007 industry classification code lookup, search, and validation. Available on npm and PyPI.
 * <img src="https://www.google.com/s2/favicons?domain=www.vault.com&sz=16" width="16" height="16"> [Vault](http://www.vault.com) - Well-known ranking of largest United States Corporations.
 * <img src="https://www.google.com/s2/favicons?domain=www.xing.com&sz=16" width="16" height="16"> [Xing](http://www.xing.com) - European professional networking platform popular in German-speaking countries for career connections and company research.
 * <img src="https://www.google.com/s2/favicons?domain=youcontrol.com.ua&sz=16" width="16" height="16"> [YouControl](https://youcontrol.com.ua/en/) - Ukrainian business intelligence platform providing company registration data, ownership structures, and financial records.
@@ -1736,13 +1725,12 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.gitguardian.com&sz=16" width="16" height="16"> [GitGuardian - Public GitHub Monitoring](https://www.gitguardian.com/monitor-public-github-for-secrets) - Monitor public GitHub repositories in real time. Detect secrets and sensitive information to prevent hackers from using GitHub as a backdoor to your business.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [OnionScan](https://github.com/s-rah/onionscan) - Free and open source tool for investigating the Dark Web. Its main goal is to help researchers and investigators monitor and track Dark Web sites.
 * <img src="https://www.google.com/s2/favicons?domain=onion.ail-project.org&sz=16" width="16" height="16"> [onion-lookup](https://onion.ail-project.org/) - Free online service and API for checking the existence of Tor hidden services (.onion address) and retrieving their associated metadata. onion-lookup relies on an private AIL instance to obtain the metadata.
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 350k+ threat actor usernames scraped from various cybercrime sources & forums.
 * [OTX AlienVault](https://otx.alienvault.com/) - Open Threat Exchange is the neighborhood watch of the global intelligence community. It enables private companies, independent security researchers, and government agencies to openly collaborate and share the latest information about emerging threats, attack methods, and malicious actors, promoting greater security across the entire community.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [PhishingSecLists](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 * <img src="https://www.google.com/s2/favicons?domain=conflicts.app&sz=16" width="16" height="16"> [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
-* [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 350k+ threat actor usernames scraped from various cybercrime sources & forums.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
 
 ## Gaming Platforms
 
