@@ -1325,6 +1325,7 @@ algorithms, knowledgebase and AI technology.
 * [Center for International Earth Science Information Network](http://www.ciesin.org) - Columbia University center providing geospatial population, poverty, and environmental datasets.
 * <img src="https://www.google.com/s2/favicons?domain=www.cepii.fr&sz=16" width="16" height="16"> [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp) - French research center providing databases on international trade, gravity models, and macroeconomic indicators for 165+ countries.
 * <img src="https://www.google.com/s2/favicons?domain=www.cia.gov&sz=16" width="16" height="16"> [CIA World Factbook](https://www.cia.gov/the-world-factbook/) - Comprehensive reference on every country's demographics, economy, government, military, and geography maintained by the CIA.
+* <img src="https://www.google.com/s2/favicons?domain=crimebrasil.com.br&sz=16" width="16" height="16"> [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating Brazilian crime statistics (RS neighborhood-level, MG/RJ municipality, national PRF/DATASUS). Free API, CC BY 4.0.
 * [Data.gov.uk](https://data.gov.uk) - UK government open data portal with thousands of datasets across public services and statistics.
 * <img src="https://www.google.com/s2/favicons?domain=wiki.dbpedia.org&sz=16" width="16" height="16"> [DBPedia](http://wiki.dbpedia.org) - Structured knowledge base extracting factual data from Wikipedia into machine-readable RDF format for querying.
 * [European Union Open Data Portal](http://open-data.europa.eu/en/data) - Official EU open data repository with datasets from European institutions and agencies.
@@ -1731,6 +1732,7 @@ algorithms, knowledgebase and AI technology.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
+* <img src="https://www.google.com/s2/favicons?domain=voidly.ai&sz=16" width="16" height="16"> [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
 
 ## Gaming Platforms
 
