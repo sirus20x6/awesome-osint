@@ -950,6 +950,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=dnsviz.net&sz=16" width="16" height="16"> [DNSViz](http://dnsviz.net) - DNS analysis and visualization tool that maps DNSSEC authentication chains and identifies configuration errors.
 * <img src="https://www.google.com/s2/favicons?domain=www.domaincrawler.com&sz=16" width="16" height="16"> [Domain Crawler](http://www.domaincrawler.com) - Searches a database of over 1.4 billion domains with historical WHOIS, DNS, and SSL records for digital investigations.
 * [Domain Dossier](http://centralops.net/co/DomainDossier.aspx) - Generates detailed reports on domain registration, DNS records, network WHOIS, and service scans.
+* <img src="https://www.google.com/s2/favicons?domain=oti-labs.com&sz=16" width="16" height="16"> [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) - Aggregate DNS, WHOIS/RDAP, SSL, subdomains (CT logs + DNS bruteforce), and SPF/DMARC posture in one call. Free tier; MIT.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
 * [Easy whois](https://www.easywhois.com) - Simple WHOIS lookup tool for domain registration details and availability checks.
@@ -1638,7 +1639,6 @@ algorithms, knowledgebase and AI technology.
 
 ## Maritime
 
-* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Hormuz Tracker](https://github.com/johnsmalls22-rgb/hormuz-tracker) - Real-time Strait of Hormuz vessel tracking with AIS data, dark ship detection, oil prices, and carrier positions.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Phantom Tide](https://github.com/tg12/phantomtide) - Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
 * <img src="https://www.google.com/s2/favicons?domain=www.vesselfinder.com&sz=16" width="16" height="16"> [VesselFinder](https://www.vesselfinder.com) - a FREE AIS vessel tracking web site. VesselFinder displays real time ship positions and marine traffic detected by global AIS network.
 
@@ -1704,6 +1704,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=osint.sh&sz=16" width="16" height="16"> [OSINT.SH](https://osint.sh/) - Information Gathering Toolset.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [OsintStalker](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
 * <img src="https://www.google.com/s2/favicons?domain=www.outwit.com&sz=16" width="16" height="16"> [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [PassiveRecon](https://github.com/rudra496/PassiveRecon-Aggregator) - Passive asset discovery tool for mapping external IT perimeters. Aggregates Shodan, Crt.sh and public APIs.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [PGPKeyAnalyser](https://kriztalz.sh/pgp-key-analyser/) - Analyse and view the details of a PGP key online without having to download the asc file.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Photon](https://github.com/s0md3v/Photon) - Crawler designed for OSINT
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Pyba](https://github.com/fauvidoTechnologies/PyBrowserAutomation/) - A browser automation framework which requires low-code to search the web and perform OSINT using DFS and BFS modes, ideal for exploratory tasks.
@@ -1736,6 +1737,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=conflicts.app&sz=16" width="16" height="16"> [Pharos AI](https://conflicts.app) - Real-time open-source intelligence dashboard for conflict tracking with interactive geospatial visualization, multi-source RSS monitoring, and actor dossiers.
 * [REScure Threat Intel Feed](https://rescure.fruxlabs.com/) - REScure is an independent threat intelligence project which we undertook to enhance our understanding of distributed systems, their integration, the nature of threat intelligence and how to efficiently collect, store, consume, distribute it.
 * [STIX Viewer](https://stix-viewer.threatlandscape.io/) - An online free STIX 2.1 viewer / visualizer.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Taranis AI](https://github.com/taranis-ai/taranis-ai) - Open-source OSINT platform for collecting, enriching, analyzing, and publishing intelligence from web, RSS, email, and other sources with AI/NLP-assisted workflows.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Threat Actor Usernames Scrape](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and 450k+ threat actor usernames scraped from various cybercrime sources & forums.
 * <img src="https://www.google.com/s2/favicons?domain=voidly.ai&sz=16" width="16" height="16"> [Voidly Censorship Index](https://voidly.ai/censorship-index) - Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-driven shutdown early-warning feed, ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals. Data licensed CC BY 4.0.
 
