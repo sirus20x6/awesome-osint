@@ -646,6 +646,7 @@ algorithms, knowledgebase and AI technology.
 
 ### <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> GitHub
 
+* <img src="https://www.google.com/s2/favicons?domain=ghnames.com&sz=16" width="16" height="16"> [GHNames](https://ghnames.com/) - GitHub lookup tool to search for username history, associated emails, and deleted repositories.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [github_monitor](https://github.com/misiektoja/github_monitor) - Tool for real-time tracking of GitHub users' activities including profile and repository changes with support for email alerts, CSV logging, detection when a user blocks or unblocks you and more
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [GithubRecon](https://kriztalz.sh/github-recon/) - Lookup Github users by username or email and gather associated data.
 * <img src="https://www.google.com/s2/favicons?domain=gitleak.io&sz=16" width="16" height="16"> [GitLeak](https://gitleak.io) - An OSINT tool for GitHub that extracts hidden email addresses, commit timezones, and activity patterns via .patch metadata.
@@ -723,6 +724,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.backgroundchecks.com&sz=16" width="16" height="16"> [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified) - Background check service providing access to public records, contact details, criminal history, and property information.
 * <img src="https://www.google.com/s2/favicons?domain=www.blackbookonline.info&sz=16" width="16" height="16"> [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) - OSINT tool for extracting contact information from Spanish white pages (Paginas Blancas).
+* <img src="https://www.google.com/s2/favicons?domain=cajusticewatch.com&sz=16" width="16" height="16"> [California Justice Watch](https://cajusticewatch.com) - Free. Public-records accountability data for California: 58 district attorneys, 196 public defenders, 1,620 sitting judges, 1,500 law-enforcement officers with documented misconduct, 247 Commission on Judicial Performance discipline records (plus full-text search over 250 CJP decision PDFs), and 671 POST decertifications. Open API + MCP server.
 * <img src="https://www.google.com/s2/favicons?domain=www.canada411.ca&sz=16" width="16" height="16"> [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 * <img src="https://www.google.com/s2/favicons?domain=www.classmates.com&sz=16" width="16" height="16"> [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
 * <img src="https://www.google.com/s2/favicons?domain=contactout.com&sz=16" width="16" height="16"> [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
@@ -954,7 +956,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=oti-labs.com&sz=16" width="16" height="16"> [Domain Intelligence](https://oti-labs.com/domain-intelligence-api) - Aggregate DNS, WHOIS/RDAP, SSL, subdomains (CT logs + DNS bruteforce), and SPF/DMARC posture in one call. Free tier; MIT.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [DomainRecon](https://kriztalz.sh/domain-recon/) - Retrieve DNS records, subdomains, SSL certificates and WHOIS / RDAP data for a given website.
 * [Domain Tools](http://whois.domaintools.com) - Whois lookup and domain/ip historical data.
-* [Easy whois](https://www.easywhois.com) - Simple WHOIS lookup tool for domain registration details and availability checks.
+* <img src="https://www.google.com/s2/favicons?domain=www.easywhois.com&sz=16" width="16" height="16"> [Easy whois](https://www.easywhois.com) - Simple WHOIS lookup tool for domain registration details and availability checks.
 * <img src="https://www.google.com/s2/favicons?domain=exonerator.torproject.org&sz=16" width="16" height="16"> [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 * <img src="https://www.google.com/s2/favicons?domain=focsec.com&sz=16" width="16" height="16"> [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
 * <img src="https://www.google.com/s2/favicons?domain=follow.net&sz=16" width="16" height="16"> [Follow.net](http://follow.net) - Provides website traffic estimates, audience demographics, and competitive analytics for any domain.
@@ -968,7 +970,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=ismalicious.com&sz=16" width="16" height="16"> [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 * <img src="https://www.google.com/s2/favicons?domain=intodns.ai&sz=16" width="16" height="16"> [IntoDNS.ai](https://intodns.ai) - AI-powered DNS and email security scanner with SPF, DKIM, DMARC, DNSSEC checks and fix suggestions.
 * <img src="https://www.google.com/s2/favicons?domain=ip2geolocation.com&sz=16" width="16" height="16"> [IP 2 Geolocation](http://ip2geolocation.com) - Converts IP addresses to approximate geographic locations including country, city, and coordinates.
-* <img src="https://www.google.com/s2/favicons?domain=www.ip2location.com&sz=16" width="16" height="16"> [IP 2 Location](http://www.ip2location.com/demo.aspx) - Geolocates IP addresses with city-level accuracy and provides ISP, domain, and proxy detection data.
+* <img src="https://www.google.com/s2/favicons?domain=www.ip2location.com&sz=16" width="16" height="16"> [IP2Location](https://www.ip2location.com/demo) - A comprehensive IP intelligence database and API for accurate geolocation, ASN mapping, and VPN/Tor/Proxy detection.
 * <img src="https://www.google.com/s2/favicons?domain=db-ip.com&sz=16" width="16" height="16"> [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 * <img src="https://www.google.com/s2/favicons?domain=ip2geo.dev&sz=16" width="16" height="16"> [ip2geo.dev](https://ip2geo.dev) - IP geolocation API providing city, country, timezone, ASN, and currency data from IP addresses.
 * <img src="https://www.google.com/s2/favicons?domain=www.ipchecking.com&sz=16" width="16" height="16"> [IP Checking](http://www.ipchecking.com) - Performs IP address lookups showing geolocation, hostname, ISP, and network information.
@@ -979,7 +981,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.isp.tools&sz=16" width="16" height="16"> [ISP.Tools](https://www.isp.tools) - Is a free platform offering network diagnostic tools (ping, traceroute, MTR, DNS, WHOIS, HTTP, etc.) tailored for ISPs and infrastructure professionals.
 * <img src="https://www.google.com/s2/favicons?domain=www.kloth.net&sz=16" width="16" height="16"> [Kloth](http://www.kloth.net/services) - Provides online DNS lookup, dig, ping, traceroute, and whois tools for network reconnaissance.
 * <img src="https://www.google.com/s2/favicons?domain=majestic.com&sz=16" width="16" height="16"> [Majestic](https://majestic.com) - Find out who links to your website.
-* [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
+* <img src="https://www.google.com/s2/favicons?domain=whois-webform.markmonitor.com&sz=16" width="16" height="16"> [Mark Monitor WHOIS](https://whois-webform.markmonitor.com/whois/) - Displays domain registration information.
 * <img src="https://www.google.com/s2/favicons?domain=www.maxmind.com&sz=16" width="16" height="16"> [MaxMind](https://www.maxmind.com) - Industry-standard IP geolocation and online fraud detection database used by thousands of companies worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=metadefender.com&sz=16" width="16" height="16"> [MetaDefender](https://metadefender.com) - Threat analysis service for URLs, files, certificates, domains, and suspicious hashes.
 * <img src="https://www.google.com/s2/favicons?domain=toolbar.netcraft.com&sz=16" width="16" height="16"> [Netcraft Site Report](http://toolbar.netcraft.com/site_report?url=undefined#last_reboot) - is an online database that will provide you a report with detail information about a particular website and the history associated with it.
@@ -1105,6 +1107,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=sourceforge.net&sz=16" width="16" height="16"> [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop) - Windows JPEG analysis utility that detects image tampering by examining metadata and compression signatures.
 * <img src="https://www.google.com/s2/favicons?domain=kriztalz.sh&sz=16" width="16" height="16"> [Metadata Viewer](https://kriztalz.sh/metadata-viewer/) - Online EXIF data viewer.
 * <img src="https://www.google.com/s2/favicons?domain=profileimageintel.com&sz=16" width="16" height="16"> [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+* <img src="https://www.google.com/s2/favicons?domain=kluter.github.io&sz=16" width="16" height="16"> [TracePoint](https://kluter.github.io/TracePoint/) - Geolocate the origin point of a photograph using geometric ray intersection. Client-side, no uploads.
 
 ## Video Search and Other Video Tools
 
