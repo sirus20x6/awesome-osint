@@ -799,7 +799,6 @@ algorithms, knowledgebase and AI technology.
 
 ## Phone Number Research
 
-* [CallerID Test](https://calleridtest.com/) - Get caller ID and telco carrier information back from a phone number.
 * <img src="https://www.google.com/s2/favicons?domain=www.emobiletracker.com&sz=16" width="16" height="16"> [EmobileTracker.com](https://www.emobiletracker.com/) - a service specifically designed to Track Mobile Number, Location on Google Map including information such as the owner's Name,Location,Country,Telecom provider.
 * <img src="https://www.google.com/s2/favicons?domain=freecarrierlookup.com&sz=16" width="16" height="16"> [FreeCarrierLookup](https://freecarrierlookup.com/) - enter a phone number and we'll return the carrier name and whether the number is wireless or landline. We also return the email-to-SMS and email-to-MMS gateway addresses for USA and Canadian* phone numbers.
 * <img src="https://www.google.com/s2/favicons?domain=www.infobel.com&sz=16" width="16" height="16"> [Infobel](https://www.infobel.com/) - Search 164+ million records across 73 countries for companies and individuals. Find places, local service providers, their contact details, reviews, opening hours and more.
@@ -811,7 +810,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.searchpeoplefree.com&sz=16" width="16" height="16"> [SearchPeopleFREE](https://www.searchpeoplefree.com/phone-lookup) - a reverse name, address, email address, or phone lookup that allows you to discover the owner of a phone number or who lives at an address.
 * <img src="https://www.google.com/s2/favicons?domain=spydialer.com&sz=16" width="16" height="16"> [Spy Dialer](http://spydialer.com/) - Get the voicemail of a cell phone & owner name lookup.
 * <img src="https://www.google.com/s2/favicons?domain=sync.me&sz=16" width="16" height="16"> [Sync.ME](https://sync.me/) - a caller ID and spam blocker app.
-* [Truecaller](https://truecaller.com) - Global reverse phone number search.
+* <img src="https://www.google.com/s2/favicons?domain=truecaller.com&sz=16" width="16" height="16"> [Truecaller](https://truecaller.com) - Global reverse phone number search.
 * <img src="https://www.google.com/s2/favicons?domain=www.twilio.com&sz=16" width="16" height="16"> [Twilio](https://www.twilio.com/docs/lookup/v2-api) - Look up a phone numbers carrier type, location, etc. Twilio offers free accounts that come with credits you can use with their API. Each lookup is only ~$0.01-$0.02 typically on US and CAN numbers.
 * <img src="https://www.google.com/s2/favicons?domain=www.usphonebook.com&sz=16" width="16" height="16"> [USPhoneBook](https://www.usphonebook.com/) - Reverse phone and address lookups and leading data.
 
