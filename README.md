@@ -107,7 +107,6 @@ Thanks to our main contributors
 *The main search engines used by users.*
 
 * <img src="https://www.google.com/s2/favicons?domain=search.aol.com&sz=16" width="16" height="16"> [Aol](https://search.aol.com) - The web for America.
-* <img src="https://www.google.com/s2/favicons?domain=www.ask.com&sz=16" width="16" height="16"> [Ask](https://www.ask.com) - Ask something and get a answer.
 * <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing](https://www.bing.com) - Microsoft´s search engine.
 * <img src="https://www.google.com/s2/favicons?domain=search.brave.com&sz=16" width="16" height="16"> [Brave](https://search.brave.com) - a private, independent, and transparent search engine.
 * <img src="https://www.google.com/s2/favicons?domain=www.goodsearch.com&sz=16" width="16" height="16"> [Goodsearch](https://www.goodsearch.com) - a search engine for shopping deals online.
