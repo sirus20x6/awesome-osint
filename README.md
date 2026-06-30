@@ -236,6 +236,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=search.odin.io&sz=16" width="16" height="16"> [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day.
 * <img src="https://www.google.com/s2/favicons?domain=aleph.occrp.org&sz=16" width="16" height="16"> [OCCRP Aleph](https://aleph.occrp.org/) - OCCRP's investigative data platform searching millions of documents, corporate records, and leak databases for cross-referencing.
 * [ONYPHE](https://search.onyphe.io/) - OSINT engine indexing exposed assets and services across the internet.
+* <img src="https://www.google.com/s2/favicons?domain=packet.guru&sz=16" width="16" height="16"> [packet.guru](https://packet.guru/) - Browser-fingerprint and connection-trust audit with WebRTC/DNS leak tests, JA4/JA3 TLS and passive TCP/IP fingerprints, ECH state, and IP reputation scoring; runs client-side, no signup.
 * <img src="https://www.google.com/s2/favicons?domain=dashboard.shadowserver.org&sz=16" width="16" height="16"> [Shadowserver](https://dashboard.shadowserver.org/) - Dashboard with global statistics on cyber threats collected by the Shadowserver Foundation.
 * <img src="https://www.google.com/s2/favicons?domain=www.shodan.io&sz=16" width="16" height="16"> [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 * <img src="https://www.google.com/s2/favicons?domain=www.sikkerapi.com&sz=16" width="16" height="16"> [SikkerAPI](https://www.sikkerapi.com/) - Free IP and threat intelligence provider publishing reputation scores, behavioral telemetry, and full attack sessions across 16+ protocols.
@@ -656,6 +657,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.tiktok.com&sz=16" width="16" height="16"> [TikTok Search](https://www.tiktok.com/search) - Native TikTok search for users, videos, sounds, and hashtags.
 * <img src="https://www.google.com/s2/favicons?domain=tikfinity.zerody.one&sz=16" width="16" height="16"> [Tikfinity](https://tikfinity.zerody.one/) - TikTok live stream analytics and monitoring.
 * [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) - Extract exact upload timestamp from TikTok video URLs.
+* <img src="https://www.google.com/s2/favicons?domain=tiktok.einzzcookie.org&sz=16" width="16" height="16"> [TikTokStalker](https://tiktok.einzzcookie.org) - Look up profile, video, and engagement details for TikTok accounts without logging in.
 
 ### <img src="https://www.google.com/s2/favicons?domain=discord.com&sz=16" width="16" height="16"> Discord
 
@@ -867,6 +869,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.ezilon.com&sz=16" width="16" height="16"> [Ezilon](http://www.ezilon.com) - Regional web directory organizing websites by geography across multiple continents for location-based research.
 * [Factiva](https://global.factiva.com) - Dow Jones business intelligence tool aggregating content from 33,000+ news and data sources.
 * <img src="https://www.google.com/s2/favicons?domain=www.forbes.com&sz=16" width="16" height="16"> [Forbes Global 2000](http://www.forbes.com/global2000/) - Forbes annual ranking of the world's 2,000 largest public companies by revenue, profit, assets, and market value.
+* <img src="https://www.google.com/s2/favicons?domain=www.fylings.com&sz=16" width="16" height="16"> [Fylings](https://www.fylings.com) - Free company-intelligence platform searching and verifying companies across 18+ official African national registries (Nigeria's CAC, Tanzania's BRELA, Senegal's RCCM and more), with source and last-verified date on every record.
 * <img src="https://www.google.com/s2/favicons?domain=www.glassdoor.com&sz=16" width="16" height="16"> [Glassdoor](https://www.glassdoor.com) - Employee-sourced company reviews, salary reports, and interview insights useful for investigating corporate culture.
 * <img src="https://www.google.com/s2/favicons?domain=globaledge.msu.edu&sz=16" width="16" height="16"> [globalEdge](http://globaledge.msu.edu) - Michigan State University knowledge portal providing international business research, country profiles, and global trade data.
 * [GoodFirms](https://www.goodfirms.co/) - Research and review platform for IT companies and software with verified client feedback.
@@ -1112,6 +1115,7 @@ algorithms, knowledgebase and AI technology.
 
 ## Video Search and Other Video Tools
 
+* <img src="https://www.google.com/s2/favicons?domain=audiencecue.com&sz=16" width="16" height="16"> [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
 * <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Videos](http://www.bing.com/?scope=video) - Bing's dedicated video search engine for finding and previewing videos across the web.
 * <img src="https://www.google.com/s2/favicons?domain=clarify.io&sz=16" width="16" height="16"> [Clarify](http://clarify.io) - API platform that makes audio and video content searchable by converting speech to indexed text.
 * <img src="https://www.google.com/s2/favicons?domain=www.clipblast.com&sz=16" width="16" height="16"> [Clip Blast](http://www.clipblast.com) - Meta-search engine that crawls and indexes video content across multiple video hosting platforms simultaneously.
@@ -1244,6 +1248,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [SatIntel](https://github.com/ANG13T/SatIntel) - OSINT tool for extracting satellite telemetry, orbital predictions, and TLE data using NORAD and N2YO APIs.
 * <img src="https://www.google.com/s2/favicons?domain=scribblemaps.com&sz=16" width="16" height="16"> [Scribble Maps](http://scribblemaps.com) - Web-based drawing tool for creating, annotating, and sharing custom maps with shapes, markers, and text overlays.
 * <img src="https://www.google.com/s2/favicons?domain=www.sentinel-hub.com&sz=16" width="16" height="16"> [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/) - Browser for exploring Copernicus Sentinel satellite imagery with custom band combinations and time-series analysis.
+* <img src="https://www.google.com/s2/favicons?domain=kluter.github.io&sz=16" width="16" height="16"> [ShadowFinder-Web](https://kluter.github.io/ShadowFinder-Web) - Browser port of Bellingcat's ShadowFinder for geolocating photos by shadow analysis; client-side, no Jupyter or accounts.
 * <img src="https://www.google.com/s2/favicons?domain=soar.earth&sz=16" width="16" height="16"> [SOAR](https://soar.earth/) - Digital atlas platform aggregating satellite, aerial, and drone imagery into a searchable, community-contributed world map.
 * <img src="https://www.google.com/s2/favicons?domain=storymaps.arcgis.com&sz=16" width="16" height="16"> [StoryMaps](http://storymaps.arcgis.com/en) - Esri's platform for creating narrative-driven interactive maps that combine geography with multimedia storytelling.
 * <img src="https://www.google.com/s2/favicons?domain=www.suncalc.org&sz=16" width="16" height="16"> [SunCalc](https://www.suncalc.org/) - Web tool calculating sun position, sunlight phases, sunrise, sunset, and shadow length for any location and date.
