@@ -115,7 +115,7 @@ Thanks to our main contributors
 * [Lycos](https://www.lycos.com) - A search engine for pictures, videos, news and products.
 * <img src="https://www.google.com/s2/favicons?domain=www.mojeek.com&sz=16" width="16" height="16"> [Mojeek](https://www.mojeek.com/) - A growing independent search engine which does not track you.
 * <img src="https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=16" width="16" height="16"> [Perplexity](https://www.perplexity.ai) - AI-powered search engine with source citations.
-* <img src="https://www.google.com/s2/favicons?domain=www.phind.com&sz=16" width="16" height="16"> [Phind](https://www.phind.com) - AI search engine optimized for developers and technical questions.
+* <img src="https://www.google.com/s2/favicons?domain=phindai.org&sz=16" width="16" height="16"> [Phind](https://phindai.org/) - AI search engine optimized for developers and technical questions.
 * <img src="https://www.google.com/s2/favicons?domain=www.search.com&sz=16" width="16" height="16"> [Search.com](https://www.search.com) - Search the Web by searching the best engines from one place.
 * <img src="https://www.google.com/s2/favicons?domain=www.wolframalpha.com&sz=16" width="16" height="16"> [Wolfram Alpha](https://www.wolframalpha.com) - Wolfram Alpha is a computational knowledge engine (answer engine) developed by Wolfram Alpha. It will compute expert-level answers using Wolfram’s breakthrough
 algorithms, knowledgebase and AI technology.
@@ -189,6 +189,7 @@ algorithms, knowledgebase and AI technology.
 
 *Search engines that can be used to check if your data's been breached*
 
+* <img src="https://www.google.com/s2/favicons?domain=checkleaked.cc&sz=16" width="16" height="16"> [CheckLeaked](https://checkleaked.cc/) - Check if an email, username or phone appears in a data breach, showing the sources; free searches, developer API and chat bots.
 * <img src="https://www.google.com/s2/favicons?domain=credenshow.com&sz=16" width="16" height="16"> [CredenShow](https://credenshow.com/) - Identify your compromised credentials before others do.
 * <img src="https://www.google.com/s2/favicons?domain=haveibeenransom.com&sz=16" width="16" height="16"> [HIB Ransomed](https://haveibeenransom.com/) - Because people have the right to know if their data has been leaked.
 * <img src="https://www.google.com/s2/favicons?domain=heroic.com&sz=16" width="16" height="16"> [HEROIC.NOW](https://heroic.com/) - Has your data been leaked on the dark web? Scan your identities for FREE.
@@ -478,7 +479,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=trends24.in&sz=16" width="16" height="16"> [Trends24](http://trends24.in) - Real-time trending hashtag tracker showing the most popular Twitter trends by country and city worldwide.
 * <img src="https://www.google.com/s2/favicons?domain=twchat.com&sz=16" width="16" height="16"> [TwChat](http://twchat.com) - Twitter chat management tool that filters conversations by hashtag, separates host tweets, and auto-inserts chat tags.
 * <img src="https://www.google.com/s2/favicons?domain=mapd.csail.mit.edu&sz=16" width="16" height="16"> [TweetMap](http://mapd.csail.mit.edu/tweetmap) - MIT-developed interactive map for exploring geotagged tweets with real-time filtering by keyword and location.
-* <img src="https://www.google.com/s2/favicons?domain=worldmap.harvard.edu&sz=16" width="16" height="16"> [TweetMap](http://worldmap.harvard.edu/tweetmap) - Harvard WorldMap project visualizing geotagged tweets on an interactive map for geographic social media analysis.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [TweetMap](https://github.com/cga-harvard/Data_Science_Big_Data_Projects/tree/master/scripts/Geotweets) - Harvard CGA project (via GitHub) visualizing geotagged tweets for geographic social media analysis.
 * <img src="https://www.google.com/s2/favicons?domain=twitter.com&sz=16" width="16" height="16"> [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en) - Built-in Twitter advanced search interface for filtering tweets by date, user, engagement, language, and sentiment.
 * <img src="https://www.google.com/s2/favicons?domain=www.twitteraudit.com&sz=16" width="16" height="16"> [Twitter Audit](https://www.twitteraudit.com) - Auditing tool that analyzes Twitter followers to estimate what percentage are real accounts versus bots or inactive users.
 * <img src="https://www.google.com/s2/favicons?domain=tweetreports.com&sz=16" width="16" height="16"> [Twitter Chat Schedule](http://tweetreports.com/twitter-chat-schedule) - Directory of scheduled Twitter chats organized by topic, day, and time to discover industry-relevant conversations.
@@ -888,7 +889,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.gov.uk&sz=16" width="16" height="16"> [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries) - UK government directory of overseas company registries with links to official corporate filing authorities by country.
 * <img src="https://www.google.com/s2/favicons?domain=www.plunkettresearchonline.com&sz=16" width="16" height="16"> [Plunkett Research](http://www.plunkettresearchonline.com) - Market research platform providing industry statistics, trends, and company profiles across major business sectors.
 * <img src="https://www.google.com/s2/favicons?domain=www.scoot.co.uk&sz=16" width="16" height="16"> [Scoot](http://www.scoot.co.uk) - UK business directory with over two million listings including contact details, reviews, and location information.
-* <img src="https://www.google.com/s2/favicons?domain=section-16-deadline-calculator.vercel.app&sz=16" width="16" height="16"> [Section 16 Deadline Calculator](https://section-16-deadline-calculator.vercel.app/) - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Section 16 Deadline Calculator](https://github.com/Turner-Levey/section-16-deadline-calculator) - Open-source browser-only worksheet for common SEC Forms 3, 4, and 5 ownership-reporting deadline planning, with memo and CSV copy outputs.
 * <img src="https://www.google.com/s2/favicons?domain=www.semrush.com&sz=16" width="16" height="16"> [SEMrush](https://www.semrush.com) - SEO and competitive intelligence platform for analyzing website traffic, keyword rankings, and competitor advertising strategies.
 * <img src="https://www.google.com/s2/favicons?domain=serpstat.com&sz=16" width="16" height="16"> [Serpstat](https://serpstat.com) - All-in-one SEO platform for keyword research, rank tracking, backlink analysis, and competitor site auditing.
 * <img src="https://www.google.com/s2/favicons?domain=www.spyfu.com&sz=16" width="16" height="16"> [SpyFu](http://www.spyfu.com) - Competitive intelligence tool revealing competitors' paid and organic search keywords, ad history, and ranking data.
@@ -912,7 +913,6 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.eurojobs.com&sz=16" width="16" height="16"> [Eurojobs](https://www.eurojobs.com) - European job board aggregating employment opportunities across EU member countries and major European markets.
 * [Fish4Jobs](http://www.fish4.co.uk) - UK job search engine aggregating vacancies from regional newspapers and employers.
 * <img src="https://www.google.com/s2/favicons?domain=www.glassdoor.com&sz=16" width="16" height="16"> [Glassdoor](https://www.glassdoor.com) - Company review platform where employees share salaries, interview experiences, and workplace insights anonymously.
-* <img src="https://www.google.com/s2/favicons?domain=www.headhunter.com&sz=16" width="16" height="16"> [Headhunter](http://www.headhunter.com) - Job search and recruitment platform connecting candidates with employers across multiple industries.
 * <img src="https://www.google.com/s2/favicons?domain=www.indeed.com&sz=16" width="16" height="16"> [Indeed](http://www.indeed.com) - is an online job searching website that gives job seekers free access to search for a job, post their resumes, and research companies.
 * <img src="https://www.google.com/s2/favicons?domain=www.jobs.pl&sz=16" width="16" height="16"> [Jobs (Poland)](http://www.jobs.pl) - Polish job board listing employment opportunities and company information for the Polish labor market.
 * <img src="https://www.google.com/s2/favicons?domain=www.jobsite.co.uk&sz=16" width="16" height="16"> [Jobsite (UK)](http://www.jobsite.co.uk) - UK-based job board with listings across multiple industries, offering CV upload and job alert features.
@@ -947,6 +947,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.browserling.com&sz=16" width="16" height="16"> [Browserling](https://www.browserling.com) - Browserling is an online sandbox that lets users safely test potentially malicious links across browsers and operating systems in real time.
 * <img src="https://www.google.com/s2/favicons?domain=builtwith.com&sz=16" width="16" height="16"> [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 * [Central Ops](http://centralops.net) - Free online network intelligence tools including WHOIS, DNS, traceroute, and domain dossier.
+* <img src="https://www.google.com/s2/favicons?domain=search.cerast-intelligence.com&sz=16" width="16" height="16"> [Cerast Intelligence](https://search.cerast-intelligence.com/) - Searchable archive of exposed panels and misconfigurations found across domains by continuous internet-wide scanning; look up the exposure findings on record for a given domain.
 * <img src="https://www.google.com/s2/favicons?domain=crawlgraph.com&sz=16" width="16" height="16"> [CrawlGraph](https://crawlgraph.com) - Maps who links to any domain using the open Common Crawl hyperlink graph. Free, no-signup referring-domain and competitor link-footprint lookups for domain research.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Crypto Scam & Crypto Phishing URL Threat Intel Feed](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
 * <img src="https://www.google.com/s2/favicons?domain=dedicatedornot.com&sz=16" width="16" height="16"> [Dedicated or Not](http://dedicatedornot.com) - Tool that checks whether a website uses dedicated or shared hosting and reveals co-hosted domains on the same server.
@@ -966,6 +967,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=follow.net&sz=16" width="16" height="16"> [Follow.net](http://follow.net) - Provides website traffic estimates, audience demographics, and competitive analytics for any domain.
 * <img src="https://www.google.com/s2/favicons?domain=fullhunt.io&sz=16" width="16" height="16"> [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 * <img src="https://www.google.com/s2/favicons?domain=app.graphystories.com&sz=16" width="16" height="16"> [GraphyStories](http://app.graphystories.com) - Monitors social media performance of web content and predicts which articles are about to go viral.
+* <img src="https://www.google.com/s2/favicons?domain=honeylabs.net&sz=16" width="16" height="16"> [HoneyLabs](https://honeylabs.net) - Free per-IP reports from a distributed honeypot network: what an IP scanned for, matched CVE exploit paths, JA4/JA4H/HASSH client fingerprints, captured payloads and VirusTotal-verified malware it delivered. Queryable anonymously on the web, over a JSON API and via an MCP server.
 * <img src="https://www.google.com/s2/favicons?domain=www.hudsonrock.com&sz=16" width="16" height="16"> [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 * <img src="https://www.google.com/s2/favicons?domain=www.hybrid-analysis.com&sz=16" width="16" height="16"> [Hybrid Analysis](https://www.hybrid-analysis.com) - Online service for detailed and free analysis of suspicious files and URLs.
 * <img src="https://www.google.com/s2/favicons?domain=www.hypestat.com&sz=16" width="16" height="16"> [HypeStat](https://www.hypestat.com) - Displays website traffic estimates, hosting details, DNS records, and SEO metrics for any domain.
@@ -1060,7 +1062,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.cachedpages.com&sz=16" width="16" height="16"> [CashedPages](http://www.cachedpages.com) - Retrieves cached versions of web pages from Google, Wayback Machine, and other cache sources in one interface.
 * [CachedView](http://cachedview.com) - View cached versions of any webpage from Google, Bing, and the Wayback Machine.
 * <img src="https://www.google.com/s2/favicons?domain=stored.website&sz=16" width="16" height="16"> [stored.website](https://stored.website) - Accesses stored snapshots of websites from the Wayback Machine to view historical versions of web pages.
-* <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Wayback Machine](http://archive.org/web/web.php) - Explore the history of a website.
+* <img src="https://www.google.com/s2/favicons?domain=archive.org&sz=16" width="16" height="16"> [Wayback Machine](https://web.archive.org/) - Explore the history of a website.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Wayback Machine Archiver](https://github.com/jsvine/waybackpack) - Command-line tool that downloads the entire Wayback Machine archive history for any given URL.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [waybackpy](https://github.com/akamhy/waybackpy) - Python package & CLI tool that interfaces the Wayback Machine APIs.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [Wayback-Archive](https://github.com/GeiserX/Wayback-Archive) - Download complete websites from the Wayback Machine with full asset preservation for offline viewing.
@@ -1201,7 +1203,6 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=cartodb.com&sz=16" width="16" height="16"> [CartoDB](https://cartodb.com) - Cloud-based platform for creating interactive geospatial visualizations and location intelligence from large datasets.
 * <img src="https://www.google.com/s2/favicons?domain=colorbrewer2.org&sz=16" width="16" height="16"> [Colorbrewer](http://colorbrewer2.org) - Web tool for selecting effective color schemes for thematic maps, optimized for cartographic data visualization.
 * <img src="https://www.google.com/s2/favicons?domain=crowdmap.com&sz=16" width="16" height="16"> [CrowdMap](https://crowdmap.com) - Crowdsourced mapping platform built on Ushahidi for collecting and visualizing field reports from SMS, email, and social media.
-* [CTLRQ Address Lookup](https://ctrlq.org/maps/address) - Find the postal address and GPS coordinates of any location by clicking on a map.
 * <img src="https://www.google.com/s2/favicons?domain=www.digikam.org&sz=16" width="16" height="16"> [digiKam](https://www.digikam.org/) - Open-source photo management application with geotagging, face recognition, and EXIF metadata extraction capabilities.
 * <img src="https://www.google.com/s2/favicons?domain=dominoc925-pages.appspot.com&sz=16" width="16" height="16"> [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html) - Web-based converter for displaying and looking up Military Grid Reference System (MGRS) coordinates on Google Maps.
 * <img src="https://www.google.com/s2/favicons?domain=www.mapchannels.com&sz=16" width="16" height="16"> [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm) - Side-by-side map viewer combining Google Maps, aerial imagery, and Street View for comparing locations simultaneously.
@@ -1278,7 +1279,6 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=16" width="16" height="16"> [BBC News](http://www.bbc.co.uk/news) - Comprehensive global news coverage from the British Broadcasting Corporation with regional and topical sections.
 * <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing News](http://www.bing.com/news) - Microsoft's news aggregation engine indexing stories across thousands of sources with trending topic detection.
 * <img src="https://www.google.com/s2/favicons?domain=edition.cnn.com&sz=16" width="16" height="16"> [CNN](http://edition.cnn.com) - Major international news network offering 24/7 coverage of breaking news, politics, and world events.
-* [Cyber Alert](http://www.cyberalert.com) - Media monitoring service tracking news coverage across online, print, broadcast, and social media.
 * [DailyEarth](http://dailyearth.com) - News aggregator mapping global stories geographically on an interactive world map.
 * [DPA International](http://www.dpa-international.com) - Deutsche Presse-Agentur international news service covering global events in English.
 * <img src="https://www.google.com/s2/favicons?domain=www.euronews.com&sz=16" width="16" height="16"> [Euronews](http://www.euronews.com) - Multilingual European news channel covering world events from a pan-European editorial perspective.
@@ -1497,7 +1497,7 @@ algorithms, knowledgebase and AI technology.
 
 ## VPN Services
 
-* [OffShore.cat](https://offshore.cat/vpn) - list of vpns for the privacy conscious
+* <img src="https://www.google.com/s2/favicons?domain=offshore.cat&sz=16" width="16" height="16"> [OffShore.cat](https://offshore.cat/?page=vpn) - list of vpns for the privacy conscious
 * <img src="https://www.google.com/s2/favicons?domain=torrentfreak.com&sz=16" width="16" height="16"> [TorrentFreak List of VPNs](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/) - Annual review comparing VPN services on logging policies, jurisdiction, and anonymity for secure OSINT operations.
 * <img src="https://www.google.com/s2/favicons?domain=thatoneprivacysite.net&sz=16" width="16" height="16"> [VPN Comparison by That One Privacy Guy](https://thatoneprivacysite.net/) - is a summary list of top best VPN services.
 
@@ -1579,7 +1579,7 @@ algorithms, knowledgebase and AI technology.
 ## Social Network Analysis
 
 * <img src="https://www.google.com/s2/favicons?domain=gephi.org&sz=16" width="16" height="16"> [Gephi](https://gephi.org) - is an open-source graph and network visualization software.
-* <img src="https://www.google.com/s2/favicons?domain=www.casos.cs.cmu.edu&sz=16" width="16" height="16"> [ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php) - Carnegie Mellon network analysis tool for detecting key actors, groups, and vulnerabilities in organizational networks.
+* <img src="https://www.google.com/s2/favicons?domain=www.cmu.edu&sz=16" width="16" height="16"> [ORA-LITE](https://www.cmu.edu/casos-center/research/tools/) - Carnegie Mellon network analysis tool for detecting key actors, groups, and vulnerabilities in organizational networks.
 * <img src="https://www.google.com/s2/favicons?domain=www.fmsasg.com&sz=16" width="16" height="16"> [Sentinel Visualizer](http://www.fmsasg.com) - Link analysis and data visualization software for mapping relationships between people, places, and events in investigations.
 * <img src="https://www.google.com/s2/favicons?domain=vis.occrp.org&sz=16" width="16" height="16"> [Visual Investigative Scenarios](https://vis.occrp.org) - OCCRP's platform for mapping relationships and building visual diagrams of networks in investigative journalism.
 * <img src="https://www.google.com/s2/favicons?domain=wynyardgroup.com&sz=16" width="16" height="16"> [Wynyard Group](https://wynyardgroup.com) - Intelligence and investigation software suite providing advanced analytics for law enforcement and security organizations.
@@ -1833,6 +1833,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [awesome-security](https://github.com/sbilly/awesome-security) by @sbilly
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) by @hslatman
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [infosec reference](https://github.com/rmusser01/Infosec_Reference) by @rmusser01
+* <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [OSINT-BIBLE](https://github.com/frangelbarrera/OSINT-BIBLE) by @frangelbarrera
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) by @Lissy93
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [SecLists](https://github.com/danielmiessler/SecLists) by @danielmiessler
 * <img src="https://www.google.com/s2/favicons?domain=github.com&sz=16" width="16" height="16"> [security-list](https://github.com/zbetcheckin/Security_list) by @zbetcheckin
