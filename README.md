@@ -1122,6 +1122,7 @@ algorithms, knowledgebase and AI technology.
 
 ## Video Search and Other Video Tools
 
+* <img src="https://www.google.com/s2/favicons?domain=tube.archivarix.net&sz=16" width="16" height="16"> [Archivarix Tube Search](https://tube.archivarix.net/) - Search engine for finding deleted, removed, and unavailable YouTube videos using web archives, with channel-level discovery and subtitle search.
 * <img src="https://www.google.com/s2/favicons?domain=audiencecue.com&sz=16" width="16" height="16"> [AudienceCue](https://audiencecue.com/en/tools/youtube-comment-downloader) - Downloads the latest public YouTube video or Shorts comments as CSV for research workflows.
 * <img src="https://www.google.com/s2/favicons?domain=www.bing.com&sz=16" width="16" height="16"> [Bing Videos](http://www.bing.com/?scope=video) - Bing's dedicated video search engine for finding and previewing videos across the web.
 * <img src="https://www.google.com/s2/favicons?domain=clarify.io&sz=16" width="16" height="16"> [Clarify](http://clarify.io) - API platform that makes audio and video content searchable by converting speech to indexed text.
