@@ -774,6 +774,7 @@ algorithms, knowledgebase and AI technology.
 * <img src="https://www.google.com/s2/favicons?domain=sherlockeye.io&sz=16" width="16" height="16"> [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 * <img src="https://www.google.com/s2/favicons?domain=snov.io&sz=16" width="16" height="16"> [Snov.io](https://snov.io/email-finder) - Find email addresses on any website.
 * <img src="https://www.google.com/s2/favicons?domain=check.spamhaus.org&sz=16" width="16" height="16"> [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
+* <img src="https://www.google.com/s2/favicons?domain=spoofchecker.online&sz=16" width="16" height="16"> [SpoofCheck](https://spoofchecker.online/) - Free email spoofing test: checks a domain's SPF, DKIM, DMARC, MTA-STS and MX records and grades how easily it can be impersonated (A to F).
 * <img src="https://www.google.com/s2/favicons?domain=thatsthem.com&sz=16" width="16" height="16"> [ThatsThem](https://thatsthem.com/reverse-email-lookup) - Reverse Email Lookup.
 * <img src="https://www.google.com/s2/favicons?domain=www.toofr.com&sz=16" width="16" height="16"> [Toofr](https://www.toofr.com) - Find Anyone’s Email Address in Seconds.
 * <img src="https://www.google.com/s2/favicons?domain=tracefind.info&sz=16" width="16" height="16"> [TraceFind](https://tracefind.info) - Uncover the Truth Behind Any Email — Instantly. Scans hundreds of sites for email presence, breaches and more.
